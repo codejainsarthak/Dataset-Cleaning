@@ -1,0 +1,2621 @@
+patient_id,patient_name,age,gender,blood_group,weight,height,diagnosis,consultation_fee,visit_date,phone,payment_method
+,Richard Smith,unknown,Female ,B+,34.0,167.2,Asthma,₹3049.89,32/13/2024,unknown,UPI
+1,JOSHUA DAVIS,,F,O-,unknown,error,covid,,,113.236.2366,UPI
+,???,thirty,male,A+,86.1,,COVID,₹4187.14,32/13/2024,invalid,cash
+,ANNETTE LEONARD,thirty,FEMALE,AB+,119.0kg,174.8,Asthma,,32/13/2024,,Insurance
+4,,,FEMALE,O-,unknown,,covid,,2025-11-04,12345,CARD
+,,77,unknown,AB+,unknown,197.7,Hypertension,missing,10-05-2022,invalid,unknown
+6,,unknown,FEMALE,a+,unknown,160.6 cm,Flu,1932.18,,(757)171-6474,cash
+PT-7,???,31,Female ,a+,,198.2 cm,Flu,₹4739.56,32/13/2024,,Card 
+,???,unknown,,a+,65.1,167.1 cm,Asthma,135.24,2025-01-26,invalid,cash
+,DONNA MITCHELL,,Female ,a+,,,Asthma,missing,,7155244453,cash
+10,,unknown,male,B+,73.6kg,142.3 cm,Hypertension,2271.34,2026-01-26,12345,CARD
+PT-11,,thirty,unknown,A+,,,COVID,,not available,12345,Cash
+,Stephen Leblanc,41,Male,a+,111.9kg,160.6 cm,Hypertension,₹3408.54,32/13/2024,,Cash
+,Madison Richardson,unknown,M,B+,unknown,error,,1649.27,20 Apr 2026,+1-844-193-3946x27201,Card 
+,???,unknown,male,B+,unknown,168.9,COVID,₹607.57,2024-11-14,,CARD
+PT-15,???,thirty,F,B+,,140.1,Hypertension,3207.99,32/13/2024,invalid,CARD
+,,,Male,A+,108.3kg,186.8 cm,???,724.48,32/13/2024,(126)256-2876x739,Insurance
+,,thirty,Female ,,100.0kg,error,???,₹4333.91,09/11/2024,unknown,Cash
+PT-18,ASHLEY HART,,F,O-,107.1kg,error,COVID,missing,not available,001-164-821-5392,cash
+PT-19,LATOYA PHILLIPS,unknown,Male,A+,unknown,154.9,???,4507.57,19 May 2022,,Card 
+PT-20,,unknown,F,unknown,unknown,error,???,₹2816.62,32/13/2024,,UPI
+PT-21,Linda Vazquez,unknown,Female ,AB+,unknown,155.4 cm,,₹4803.18,not available,,Insurance
+22,TAMMY DAVIS,unknown,Female ,,22.4kg,198.7,,₹3185.85,,unknown,Card 
+23,Hector Campos,,Female ,B+,,124.0,,missing,,12345,
+PT-24,???,unknown,,unknown,unknown,138.8,Flu,₹1976.87,24/05/2022,unknown,unknown
+PT-25,,54,Female ,,62.0,,,,,12345,UPI
+PT-26,,,F,unknown,60.4kg,187.2,???,3000.27,32/13/2024,unknown,CARD
+27,???,unknown,Female ,AB+,,,COVID,4191.06,23/05/2024,(038)778-6776,Cash
+28,BRITTANY LANG,thirty,Female ,B+,31.4kg,error,Flu,3068.87,06-08-2025,,Cash
+PT-29,,thirty,male,a+,89.1,175.8,Diabetes,missing,12-19-2025,unknown,
+30,,,FEMALE,AB+,unknown,,,missing,18/07/2024,invalid,
+31,,,F,A+,,error,COVID,missing,32/13/2024,+1-073-164-1808x085,Card 
+,,thirty,,unknown,91.2,137.7 cm,COVID,missing,not available,unknown,UPI
+PT-33,???,30,Female ,O-,73.6kg,error,COVID,missing,32/13/2024,invalid,Cash
+,MICHAEL FLORES,36,Male,a+,,error,,2445.7,08 Dec 2024,001-187-971-3460x425,unknown
+PT-35,Alan Lane,74,FEMALE,B+,101.1,,Asthma,,not available,,Cash
+,Jeffrey Diaz,thirty,M,unknown,28.1,,COVID,missing,31 May 2022,12345,UPI
+,MARIAH MICHAEL,55,Female ,unknown,46.6kg,error,COVID,missing,not available,,
+PT-38,Steven Lee,77,unknown,unknown,52.2,138.3,COVID,₹3839.23,not available,12345,unknown
+,,,F,AB+,87.0kg,error,???,,not available,invalid,cash
+PT-40,Thomas Tucker,,unknown,A+,,180.8 cm,COVID,,09 Jun 2022,9719658875,Card 
+,JAMES MIRANDA,40,unknown,A+,42.5,129.4 cm,,missing,,12345,
+,LAURA ROBLES,thirty,FEMALE,,,error,Diabetes,,,invalid,Insurance
+,,unknown,Female ,unknown,,,???,₹3982.73,32/13/2024,,Insurance
+44,,,Male,unknown,107.1kg,error,covid,3153.97,not available,unknown,Cash
+,Cody Williams,unknown,Female ,unknown,29.0,155.5,Diabetes,missing,32/13/2024,12345,unknown
+,LORI BROWN,thirty,male,a+,82.0kg,166.7 cm,,3225.73,32/13/2024,(519)569-9950x0927,
+PT-47,???,,M,AB+,,,covid,missing,not available,063.048.0113,Cash
+,,thirty,F,B+,82.1kg,170.3,COVID,missing,01/04/2022,invalid,Insurance
+,,thirty,FEMALE,,unknown,,COVID,3758.14,32/13/2024,12345,unknown
+,???,,Male,O-,unknown,error,Hypertension,missing,07/12/2022,unknown,UPI
+,,thirty,Male,A+,50.4,,,,,(783)656-1022x50462,
+,,36,F,B+,unknown,error,Diabetes,2050.88,32/13/2024,,Cash
+53,???,thirty,Female ,A+,75.4kg,138.6 cm,Diabetes,₹4921.74,32/13/2024,244.627.1961x59763,Cash
+54,Ryan Stevenson,thirty,F,A+,,,,3912.28,27/10/2023,,UPI
+PT-55,Jeffrey Lewis,,unknown,AB+,,126.5 cm,Hypertension,missing,,,unknown
+56,Marie Kirk,thirty,unknown,AB+,,error,???,₹1348.96,03 Jul 2022,267-463-1830,cash
+57,,unknown,FEMALE,a+,unknown,,Diabetes,missing,32/13/2024,unknown,Card 
+58,???,unknown,male,,,187.6,COVID,missing,06-13-2024,12345,CARD
+,,thirty,Male,A+,,error,covid,3906.49,32/13/2024,,Cash
+,Mackenzie Sanders,,unknown,AB+,61.4kg,,Hypertension,,05-26-2023,12345,unknown
+,Linda Hughes,thirty,M,B+,unknown,,Flu,₹2709.65,07-20-2023,unknown,Cash
+PT-62,Martin Reynolds,59,F,a+,,error,Flu,missing,10 Nov 2025,12345,unknown
+,,68,unknown,,unknown,182.3,Asthma,₹1811.94,32/13/2024,invalid,Card 
+64,SAMUEL CARTER,84,FEMALE,,,error,covid,,not available,,Cash
+PT-65,Michael Jordan,,,A+,25.7,171.6,???,2367.29,not available,,
+,TYLER SANCHEZ,,male,,109.9,133.8 cm,,₹2667.94,not available,unknown,unknown
+PT-67,Kyle Pittman,unknown,male,O-,unknown,188.1 cm,covid,missing,32/13/2024,,cash
+PT-68,,unknown,FEMALE,unknown,90.3,error,Diabetes,₹983.29,32/13/2024,12345,CARD
+69,Ashley Hartman,38,Male,unknown,96.6kg,132.3 cm,Flu,missing,,,UPI
+,,thirty,M,,110.4kg,,,,32/13/2024,invalid,Cash
+,,48,male,O-,,,Hypertension,,,(593)432-2793,unknown
+,???,,male,O-,42.5,172.0 cm,Flu,,,unknown,Cash
+73,Ashley King,thirty,FEMALE,a+,,error,Hypertension,,,,Cash
+,THOMAS THOMAS,thirty,M,AB+,,error,Hypertension,4771.68,01 Mar 2024,unknown,Insurance
+PT-75,Michael Green,46,F,B+,unknown,error,Flu,,32/13/2024,+1-822-354-3192,
+76,???,26,Female ,A+,,error,Diabetes,missing,not available,496.192.0695x0681,Insurance
+PT-77,,,F,B+,unknown,184.1,???,missing,2024-07-21,invalid,UPI
+PT-78,,,FEMALE,unknown,unknown,169.2,Hypertension,₹2090.43,,621.895.7132,CARD
+79,BRUCE RAMIREZ,unknown,F,AB+,23.2kg,error,,missing,not available,12345,cash
+80,RACHEL CARPENTER,,male,O-,90.4kg,,Asthma,,21 May 2025,invalid,Insurance
+,Brian Jones,unknown,M,,91.0kg,183.5,Asthma,,not available,unknown,CARD
+,Tina Peterson,unknown,unknown,unknown,,error,Hypertension,missing,32/13/2024,unknown,Cash
+83,DEBORAH KLINE,thirty,FEMALE,O-,unknown,error,Flu,3162.61,32/13/2024,12345,Insurance
+,Stephen Lawson,4,Male,unknown,46.5kg,181.4,,missing,,invalid,
+85,Ethan Gibbs,,unknown,AB+,54.0kg,error,???,740.75,,(553)427-7071,UPI
+PT-86,PATRICK MEYERS,19,Male,O-,,189.2 cm,covid,₹3633.53,,unknown,UPI
+PT-87,Brandon Vasquez,,,B+,41.5,,COVID,,not available,unknown,Insurance
+88,,thirty,F,a+,,181.2,Flu,missing,32/13/2024,12345,unknown
+,Louis Martinez,6,FEMALE,unknown,,191.5 cm,covid,,not available,,
+,???,61,F,O-,unknown,183.7,,₹3312.4,,12345,unknown
+91,SHAWN DAVIS,5,Female ,A+,,,Diabetes,missing,,invalid,CARD
+PT-92,???,unknown,M,a+,unknown,error,COVID,,not available,,UPI
+PT-93,Melissa Day,,unknown,,97.3kg,143.2,covid,,not available,,UPI
+94,Kenneth Compton,thirty,Female ,A+,73.1kg,,Hypertension,₹773.59,,12345,UPI
+PT-95,???,83,male,unknown,77.4,134.0 cm,Diabetes,,04-23-2025,+1-910-214-6098x9256,UPI
+,Christopher Martin,unknown,,unknown,69.4kg,157.4 cm,Hypertension,missing,29/04/2022,invalid,UPI
+,PATRICIA BRENNAN,,unknown,a+,52.8,error,Asthma,,not available,,Cash
+PT-98,???,thirty,Male,unknown,,error,Hypertension,missing,32/13/2024,12345,
+99,,unknown,unknown,unknown,67.1kg,180.9,,2688.05,32/13/2024,12345,Insurance
+,,thirty,,A+,109.9,,Diabetes,missing,,invalid,Cash
+,WENDY GRAHAM,75,Male,AB+,54.5,,Diabetes,₹981.91,not available,unknown,
+PT-102,,thirty,F,A+,73.7kg,178.2,Diabetes,,32/13/2024,12345,
+PT-103,AMANDA SANDERS,thirty,male,A+,100.9,139.3,,3029.15,,unknown,Card 
+,EMILY CAMPBELL,thirty,M,B+,unknown,error,Asthma,₹801.98,not available,648.024.0875x488,CARD
+,,,Male,O-,unknown,error,???,₹2735.85,32/13/2024,unknown,Cash
+,,thirty,unknown,B+,45.5,193.8,Asthma,352.53,32/13/2024,unknown,Card 
+PT-107,???,thirty,Female ,unknown,,175.7 cm,???,missing,not available,invalid,UPI
+PT-108,,60,,,unknown,123.7 cm,Flu,,32/13/2024,invalid,Card 
+PT-109,ROGER HOOD,unknown,M,,,error,Flu,₹2778.08,2023-04-25,+1-499-722-4832x122,Cash
+110,,thirty,male,unknown,,,,,not available,,UPI
+111,,23,male,a+,unknown,,Hypertension,₹2089.53,not available,313-760-6133x76595,Cash
+112,,,,A+,83.7,error,Hypertension,₹4603.85,not available,151-209-8368,cash
+,???,70,FEMALE,,116.1kg,,Hypertension,,,12345,cash
+,???,7,unknown,B+,,error,,,,657.608.5131x016,UPI
+115,Brandi Foster,unknown,FEMALE,AB+,,145.3,COVID,2279.21,32/13/2024,unknown,
+,,14,male,O-,unknown,,???,₹3651.73,,12345,CARD
+PT-117,???,,FEMALE,A+,unknown,error,Asthma,₹2529.43,32/13/2024,invalid,Cash
+PT-118,???,,F,AB+,101.5kg,168.3 cm,,missing,32/13/2024,invalid,unknown
+PT-119,,47,Female ,a+,119.7,156.9 cm,,4008.66,32/13/2024,invalid,Card 
+PT-120,HOLLY SOLIS,,unknown,A+,,,Diabetes,3974.53,not available,12345,Cash
+,,,male,A+,42.2kg,151.3 cm,covid,missing,2024-01-09,12345,Insurance
+PT-122,???,thirty,,O-,,145.5,Diabetes,₹3275.05,32/13/2024,invalid,unknown
+PT-123,JANET OBRIEN,thirty,FEMALE,unknown,59.6kg,156.0,Asthma,1108.34,32/13/2024,invalid,Insurance
+124,,unknown,,a+,,error,covid,missing,32/13/2024,invalid,cash
+125,???,thirty,F,unknown,58.8kg,,Flu,₹2499.25,,,Cash
+PT-126,Mark Obrien,thirty,Female ,,,,,₹2870.45,not available,12345,UPI
+127,,,male,a+,unknown,,Asthma,₹601.84,,invalid,Insurance
+128,,thirty,Female ,,,131.1 cm,Asthma,missing,not available,invalid,UPI
+,???,66,FEMALE,,unknown,130.2 cm,Asthma,₹1678.27,,12345,UPI
+,,,male,unknown,,error,,4756.24,,invalid,cash
+,,,Female ,AB+,unknown,,covid,4481.36,18 Oct 2025,175-037-1839,CARD
+PT-132,,,Female ,unknown,unknown,error,Hypertension,missing,18/08/2022,unknown,UPI
+,ZACHARY BELL,55,male,A+,27.8kg,161.6,covid,,,(834)943-6554x50426,Card 
+PT-134,Christopher Parker,94,male,O-,,180.3 cm,Flu,₹2860.13,32/13/2024,12345,unknown
+,,28,male,B+,,154.4 cm,Asthma,missing,not available,12345,Card 
+,,38,Female ,AB+,58.6,error,covid,,,426-140-8335,Cash
+,Kristin Klein,unknown,Female ,A+,,,???,₹503.9,not available,+1-317-547-8835x98560,Card 
+138,???,51,M,unknown,115.3kg,,Hypertension,missing,14/08/2022,(901)625-9128,CARD
+,Robert Lynn,,F,a+,unknown,error,Hypertension,,not available,,cash
+PT-140,,unknown,Male,AB+,36.7kg,140.4,Asthma,3729.82,,invalid,unknown
+141,EDWARD HUBBARD,,Female ,O-,unknown,error,Hypertension,₹4519.51,,+1-450-194-1255x225,
+PT-142,???,42,,A+,unknown,error,,₹3901.84,,001-314-822-7832x010,Card 
+,???,82,F,A+,unknown,162.4 cm,???,₹393.49,05-13-2022,049-225-3733x31828,Card 
+,,unknown,,unknown,29.6kg,171.0,???,missing,,invalid,Insurance
+PT-145,???,30,Female ,B+,78.5kg,error,???,₹1855.61,,invalid,cash
+146,DIANA MORRIS,unknown,Male,B+,103.6,,Diabetes,₹1374.82,,,Card 
+147,,thirty,male,A+,98.1kg,error,Hypertension,2953.39,32/13/2024,unknown,CARD
+148,???,16,,A+,,,Flu,missing,32/13/2024,(740)316-0746,Card 
+,???,,,A+,,190.8 cm,Diabetes,missing,not available,,Insurance
+PT-150,???,24,F,a+,unknown,error,Asthma,₹590.66,32/13/2024,,unknown
+PT-151,KEVIN COLLIER,thirty,F,,93.8,148.1 cm,Asthma,,32/13/2024,unknown,Cash
+152,Sarah Black,thirty,Male,a+,53.2kg,147.3 cm,covid,₹823.79,09-24-2025,invalid,unknown
+,Nicole Andrews,unknown,F,B+,,error,Flu,missing,,invalid,UPI
+154,JEFFERY WRIGHT,94,unknown,,119.4,145.5 cm,Hypertension,4689.77,not available,12345,cash
+,???,58,M,B+,unknown,183.0,???,₹2156.3,,invalid,unknown
+156,,thirty,FEMALE,AB+,unknown,121.6,Hypertension,₹4450.86,2022-04-01,invalid,
+,Paula Thompson,thirty,unknown,B+,53.1kg,error,COVID,,32/13/2024,9635563300,Insurance
+158,,unknown,,B+,unknown,198.2,COVID,missing,32/13/2024,invalid,unknown
+PT-159,TERRY COLLINS,58,M,AB+,unknown,165.1,Hypertension,,18/01/2023,unknown,unknown
+,,thirty,,O-,27.9,192.0 cm,Hypertension,₹2300.29,32/13/2024,001-212-441-7482x532,unknown
+161,,thirty,M,O-,111.1,error,COVID,2646.47,05 Jun 2022,unknown,CARD
+162,Patricia Alvarado,14,M,,,,Diabetes,,not available,12345,Cash
+,,unknown,Male,O-,unknown,187.4,Asthma,,,,cash
+164,,,,,71.7,error,???,764.68,32/13/2024,8145281108,Card 
+165,,unknown,Female ,O-,,170.8,Asthma,₹3010.81,not available,12345,UPI
+,Kimberly Mcmillan,37,unknown,A+,77.2kg,171.8 cm,COVID,3292.78,32/13/2024,,Cash
+167,???,unknown,M,AB+,,,Hypertension,missing,not available,+1-251-345-7566x01167,
+168,???,unknown,M,O-,unknown,161.4 cm,Diabetes,,32/13/2024,+1-924-918-0158,
+PT-169,???,,unknown,unknown,90.8kg,,covid,₹4242.55,,12345,UPI
+,CATHERINE DAVIS,unknown,male,B+,unknown,error,COVID,2969.3,2023-09-19,unknown,Card 
+,Kimberly Carpenter,,M,AB+,105.4kg,,Flu,1650.28,32/13/2024,invalid,Cash
+172,,thirty,FEMALE,a+,96.4,,???,2202.22,not available,+1-686-372-4847x061,Insurance
+,NICOLE WOODS,3,Female ,B+,54.4kg,error,Flu,missing,,12345,Insurance
+PT-174,???,thirty,unknown,A+,92.7kg,121.8 cm,Hypertension,1896.3,04-01-2024,,Cash
+,Oscar Lucero,84,Male,unknown,31.6,158.0 cm,Asthma,missing,not available,,CARD
+PT-176,David Reyes,66,M,A+,69.8kg,186.5 cm,covid,3546.84,32/13/2024,unknown,Insurance
+177,Colton Carrillo,2,male,,77.4,182.4,COVID,missing,15 Nov 2024,(200)332-7098,CARD
+178,???,unknown,unknown,unknown,31.6,131.1 cm,covid,missing,not available,12345,cash
+PT-179,,unknown,unknown,unknown,100.0kg,129.0,Flu,,32/13/2024,,unknown
+PT-180,Sarah Powers,thirty,,AB+,31.3,125.1,Asthma,missing,,12345,
+PT-181,,20,Male,unknown,,188.1,,missing,,unknown,Card 
+182,,,male,,,,???,275.58,32/13/2024,unknown,Insurance
+PT-183,Beth Glenn,,F,a+,unknown,129.1 cm,Diabetes,missing,04-14-2023,433-631-9598x5936,CARD
+PT-184,JIMMY BUTLER,,male,O-,,186.0 cm,covid,628.05,32/13/2024,unknown,Cash
+,Brandon Howell,,,a+,111.0kg,,covid,₹1984.85,not available,invalid,
+186,MARK HOBBS,unknown,F,unknown,75.4kg,error,covid,₹750.09,07-13-2023,invalid,
+,,unknown,unknown,,,173.6 cm,COVID,missing,32/13/2024,(914)583-4729,UPI
+188,Fernando Clark,,male,a+,93.9kg,164.9 cm,COVID,,not available,,Cash
+189,???,,Female ,unknown,84.8kg,error,,₹3445.03,,+1-413-679-6439,unknown
+PT-190,???,thirty,M,A+,91.0kg,123.2,COVID,missing,32/13/2024,12345,cash
+,MALLORY BRENNAN,,male,O-,unknown,,Diabetes,₹1795.44,02/10/2022,invalid,unknown
+192,,unknown,Male,a+,,143.7 cm,covid,₹4746.24,2023-05-04,12345,Card 
+,,thirty,unknown,unknown,27.2kg,121.9,Hypertension,missing,32/13/2024,invalid,unknown
+PT-194,,,unknown,O-,21.7,171.3,Hypertension,missing,07-05-2022,invalid,
+PT-195,,85,,B+,,error,Flu,missing,17/04/2026,597.120.3590x12295,Cash
+,,69,M,B+,unknown,192.5 cm,Flu,missing,32/13/2024,,Cash
+,,83,M,unknown,,148.6 cm,Hypertension,₹442.06,,invalid,UPI
+,JASMINE CLAYTON,unknown,F,AB+,51.3kg,error,covid,,not available,invalid,
+,Mrs. Andrea Owen,23,M,,109.1kg,141.1,Hypertension,4471.32,32/13/2024,8401097539,UPI
+,,thirty,F,AB+,unknown,130.7,???,₹151.9,32/13/2024,unknown,CARD
+201,DR. GREGORY OLSON,,F,A+,41.9,138.7 cm,covid,2001.66,02-17-2026,,UPI
+,???,thirty,unknown,unknown,57.9,150.1 cm,???,,32/13/2024,unknown,CARD
+203,Lauren Joseph,unknown,Female ,B+,38.7,error,Hypertension,₹2446.19,,108.934.0503x3624,Card 
+204,JENNA MANN,thirty,FEMALE,unknown,109.1kg,140.7 cm,???,3036.85,04-27-2022,12345,
+,,thirty,Female ,,34.3kg,160.9 cm,covid,4619.52,,12345,cash
+206,JACOB HENRY,,FEMALE,a+,29.6,190.2,Hypertension,2462.98,,invalid,Cash
+,,,unknown,O-,78.9,140.4 cm,Hypertension,,28/11/2024,+1-335-330-5853x2309,cash
+,Bryan Chang,thirty,F,AB+,unknown,error,COVID,₹2047.53,32/13/2024,invalid,
+PT-209,???,unknown,unknown,unknown,33.8,155.7 cm,Hypertension,missing,32/13/2024,unknown,Cash
+210,ANGELA ROBERTS,,male,A+,46.3,,COVID,₹3027.62,,(660)689-0374,Card 
+,???,25,Female ,a+,23.6kg,172.4,COVID,,30/01/2024,(444)907-8000x23678,cash
+,???,unknown,F,,80.6kg,156.4,COVID,957.67,not available,7776416290,UPI
+,???,,unknown,a+,unknown,,Diabetes,,32/13/2024,invalid,unknown
+PT-214,Jessica Hansen,unknown,Female ,O-,unknown,,covid,missing,,12345,Card 
+,ROGER CLINE,thirty,Female ,B+,unknown,132.5,,3107.75,not available,unknown,UPI
+PT-216,RACHEL ROBBINS,unknown,unknown,B+,,error,???,,not available,+1-451-635-6731,Cash
+,JEFF WATERS,49,F,O-,unknown,error,covid,,not available,unknown,UPI
+PT-218,JERRY GLENN,thirty,Female ,,47.0kg,188.5 cm,Flu,,,unknown,CARD
+,???,unknown,M,a+,105.9,error,,missing,not available,,UPI
+PT-220,William Rivera,53,F,,80.6kg,error,,3896.25,,12345,CARD
+,???,,male,A+,unknown,,COVID,missing,,12345,CARD
+222,VERONICA MITCHELL,thirty,M,unknown,28.0kg,,Diabetes,229.19,32/13/2024,(640)278-2228x40043,unknown
+PT-223,EDWARD GONZALEZ,unknown,,unknown,72.7kg,error,,missing,32/13/2024,,CARD
+,,,M,O-,68.2,error,Flu,₹100.45,,,Cash
+,,unknown,Male,,49.3kg,163.9 cm,???,₹2241.82,,12345,UPI
+226,,thirty,M,O-,unknown,188.3 cm,Flu,,32/13/2024,invalid,Cash
+227,Kimberly Jackson,69,FEMALE,A+,,138.6 cm,Diabetes,missing,,(489)770-8981x727,Insurance
+228,REBECCA SALAZAR,unknown,unknown,A+,unknown,185.4,Asthma,₹4877.36,,340-208-5013x5070,Card 
+PT-229,,unknown,F,B+,82.9,171.1 cm,covid,₹4331.92,,invalid,Cash
+230,???,75,unknown,,,175.1,Asthma,missing,2022-11-06,invalid,CARD
+,Joshua Hughes,,Female ,O-,unknown,155.1 cm,Diabetes,₹1855.02,,unknown,UPI
+,,thirty,F,O-,47.5kg,error,COVID,,not available,,Card 
+PT-233,Roberto Bishop,,Female ,a+,96.6kg,error,Hypertension,571.66,17/08/2025,12345,cash
+PT-234,SHAWN SAUNDERS,13,unknown,unknown,unknown,123.9,Diabetes,,27 Nov 2025,invalid,unknown
+PT-235,Kyle Branch,unknown,Male,unknown,50.4kg,127.8 cm,???,₹2678.34,,793.337.4654x46083,Insurance
+,,,male,B+,unknown,,covid,missing,,invalid,Card 
+,MELISSA HARRIS,unknown,F,AB+,64.7,167.7 cm,COVID,₹4923.53,not available,,CARD
+238,John Tran,unknown,FEMALE,B+,109.0kg,138.6,???,2888.42,,12345,
+,Chris Hood,unknown,Male,unknown,100.8,,???,₹690.65,,541-476-4422,UPI
+,Doris Key,thirty,F,a+,,197.7,Asthma,₹3953.2,08-12-2025,unknown,Cash
+,,34,unknown,a+,89.8kg,,Asthma,₹4985.69,not available,unknown,Insurance
+,Anna Acosta,,unknown,O-,54.8,error,,₹2258.27,32/13/2024,+1-305-302-8055,cash
+,Ronald Hall,thirty,M,A+,unknown,121.8 cm,Asthma,missing,32/13/2024,(500)863-8554,unknown
+,Robert Martin,thirty,Male,O-,unknown,124.2,Hypertension,missing,not available,unknown,Card 
+PT-245,Lee Hawkins,,male,B+,39.9,error,covid,2500.67,not available,invalid,Card 
+,???,unknown,unknown,,unknown,,Flu,₹1972.81,32/13/2024,unknown,UPI
+,???,thirty,Female ,unknown,74.1kg,144.7 cm,???,₹4881.31,not available,+1-777-043-7055x5462,cash
+248,???,19,F,AB+,unknown,135.0 cm,Flu,missing,32/13/2024,12345,Cash
+PT-249,Eric Silva,,FEMALE,a+,unknown,,Flu,,,12345,Card 
+250,Robert Bennett,,,unknown,65.8kg,,covid,2031.34,,unknown,Cash
+251,,95,unknown,a+,116.3kg,error,COVID,2360.6,,unknown,cash
+,Jessica Ferrell,thirty,unknown,AB+,,177.0 cm,,₹1687.97,2022-04-29,(365)645-7896,
+,???,,FEMALE,AB+,24.4kg,165.2 cm,Flu,4357.21,not available,unknown,UPI
+,TIMOTHY HARVEY,thirty,Female ,A+,,159.8,,,,(786)295-1888x70551,Cash
+255,???,thirty,Male,B+,34.8,error,covid,,not available,,CARD
+PT-256,???,5,M,O-,56.9,180.7,COVID,missing,32/13/2024,12345,Cash
+257,Mason Deleon,unknown,unknown,a+,unknown,,,₹981.55,32/13/2024,673-303-6145,cash
+258,,81,Female ,,81.5,164.8 cm,Diabetes,missing,not available,,Insurance
+259,James Morgan PhD,unknown,F,AB+,92.4,error,,₹4006.55,,,Insurance
+PT-260,,unknown,F,a+,unknown,error,Hypertension,4851.11,32/13/2024,,unknown
+261,Nicholas Joseph,unknown,Male,O-,69.7kg,error,Asthma,missing,22/02/2026,unknown,Cash
+PT-262,MATTHEW YANG,unknown,,unknown,unknown,189.7 cm,Asthma,3650.4,05-01-2026,,cash
+PT-263,,6,M,A+,51.2kg,error,covid,missing,not available,627-925-6939x0952,Cash
+,Brent Lee,unknown,F,O-,unknown,error,covid,2748.83,2023-09-18,unknown,Cash
+265,,thirty,,a+,53.2kg,177.0,,,not available,unknown,
+266,MELISSA ANDERSON,unknown,F,AB+,unknown,,,missing,32/13/2024,invalid,Insurance
+,BRANDON WASHINGTON,66,unknown,,91.4,,???,₹1294.09,26 Aug 2023,invalid,Card 
+,,unknown,Female ,B+,,error,Hypertension,,,invalid,
+,Patricia Sullivan,thirty,FEMALE,a+,110.3,,COVID,₹2931.86,not available,,UPI
+PT-270,???,12,unknown,,unknown,192.1,covid,637.52,,invalid,unknown
+PT-271,,thirty,FEMALE,AB+,unknown,132.3 cm,Flu,₹3277.11,,12345,cash
+272,,,FEMALE,AB+,,,Diabetes,₹4249.34,,,Insurance
+273,Sara Ramirez,,F,A+,78.0,error,,2633.05,23 Dec 2024,,UPI
+,Jeffrey West,44,,AB+,unknown,error,COVID,missing,04-12-2022,unknown,CARD
+,Brenda Henderson,unknown,Male,O-,68.5,142.2 cm,COVID,1448.56,32/13/2024,unknown,Insurance
+276,???,thirty,,B+,unknown,197.4 cm,,,32/13/2024,12345,Insurance
+277,???,15,FEMALE,AB+,50.1kg,,COVID,811.23,,invalid,Cash
+278,???,unknown,F,O-,,174.0 cm,Asthma,₹3420.82,2024-08-06,2299048787,Cash
+PT-279,Rachael Santos,68,,O-,48.3kg,122.7,Asthma,4757.4,,,CARD
+280,JULIAN MAXWELL,unknown,,unknown,unknown,error,COVID,893.63,not available,003-019-4746,UPI
+PT-281,CHRISTINA MORENO,57,,B+,,,Asthma,,05-05-2022,(376)310-1048,cash
+282,???,58,,B+,85.3,error,???,,,(835)772-4031x496,Card 
+283,,,male,a+,unknown,174.5,covid,2719.67,32/13/2024,12345,Cash
+PT-284,ALICIA WONG,,male,unknown,,131.2 cm,Diabetes,,not available,unknown,
+285,Andrea Harrison,44,F,,60.6kg,,Flu,3731.15,,(578)314-6251x8330,
+,Steve James,thirty,Male,B+,83.3,156.5,Hypertension,₹3015.39,,invalid,unknown
+PT-287,Steven Smith,thirty,F,,116.5,167.4,COVID,missing,,12345,Cash
+288,Donna Nicholson,,FEMALE,A+,108.0,error,???,,32/13/2024,12345,UPI
+,,thirty,FEMALE,a+,,error,covid,₹2832.78,not available,,Card 
+PT-290,NICOLE MOORE,36,Female ,A+,,159.8,Diabetes,,,848.397.7423x86272,cash
+,Samuel Harrell,thirty,FEMALE,,22.9,error,???,missing,not available,12345,cash
+292,,,Female ,A+,,,Flu,₹768.38,not available,12345,Insurance
+293,Kimberly Davis,89,M,B+,,error,Flu,₹3226.2,11/02/2023,unknown,
+294,,unknown,Male,unknown,107.3kg,166.4 cm,Diabetes,,,,unknown
+PT-295,Hailey Nelson,,Female ,A+,,error,Asthma,,32/13/2024,unknown,Cash
+PT-296,,,FEMALE,,107.2,error,Diabetes,₹3789.15,not available,+1-431-596-9567x03915,Insurance
+297,Jaclyn Arias,unknown,,a+,24.1,181.9 cm,covid,,32/13/2024,invalid,Insurance
+PT-298,,36,male,O-,54.5,error,,3142.66,19 Apr 2025,255.829.2915x4495,unknown
+299,???,10,FEMALE,O-,34.8kg,190.0,COVID,₹3443.78,,unknown,Cash
+PT-300,MICHELLE PEREZ,9,Female ,,,error,,,32/13/2024,invalid,CARD
+PT-301,ANGELA ROWE,unknown,M,,unknown,133.3 cm,COVID,₹959.26,13/06/2025,347.980.8576x46148,Insurance
+,DR. MATTHEW MATTHEWS,unknown,F,B+,unknown,,Flu,2714.85,32/13/2024,unknown,Insurance
+303,Amy Patterson,unknown,M,AB+,117.0kg,,covid,3476.82,not available,343-532-0854x7523,unknown
+,JASMINE HAMILTON,unknown,male,O-,84.1kg,181.4 cm,Diabetes,509.59,32/13/2024,unknown,Insurance
+,Kathleen Lucas,unknown,unknown,B+,,error,COVID,4889.87,,unknown,UPI
+306,,,FEMALE,,28.6kg,error,Hypertension,,,invalid,unknown
+307,,thirty,Female ,B+,,error,,2840.48,not available,invalid,
+308,???,thirty,,unknown,unknown,error,,,not available,,Cash
+PT-309,ISAIAH CANNON,75,FEMALE,O-,unknown,,covid,338.7,32/13/2024,(590)450-3831x48141,CARD
+,???,unknown,M,unknown,unknown,error,covid,₹2118.77,32/13/2024,,Card 
+311,Michele Mcguire,,male,A+,,175.3 cm,,missing,05-22-2025,(673)702-1702x6464,Card 
+312,ASHLEY MARSHALL,thirty,M,B+,,175.3,Diabetes,3895.99,2025-04-02,,Cash
+PT-313,Alexis Miles,33,male,O-,86.8,136.4 cm,Flu,₹243.37,not available,12345,Card 
+,Adriana Wright,13,Female ,unknown,39.2,127.9 cm,,,32/13/2024,invalid,unknown
+PT-315,SETH WILSON,thirty,unknown,A+,,error,COVID,missing,,invalid,
+,???,,Female ,a+,,,covid,,,unknown,cash
+317,ASHLEY WEISS,,male,unknown,112.5,135.9 cm,???,,,invalid,
+,,unknown,FEMALE,,,170.3 cm,Diabetes,588.06,32/13/2024,unknown,Insurance
+319,???,80,male,unknown,,,COVID,2757.95,06 Mar 2026,unknown,
+PT-320,,,Male,A+,unknown,,Flu,1631.05,,unknown,CARD
+,Charles Hunt,unknown,,a+,unknown,181.3,Diabetes,missing,not available,unknown,cash
+PT-322,???,,F,A+,unknown,167.4,COVID,missing,,,unknown
+PT-323,Lauren Cummings,,Male,O-,57.8,128.0 cm,covid,missing,not available,unknown,Card 
+PT-324,Madison Quinn,thirty,M,O-,,184.4,Hypertension,,not available,+1-060-117-8391x041,UPI
+,???,unknown,Female ,AB+,,173.7,Flu,,07 Nov 2024,,Card 
+PT-326,,thirty,FEMALE,unknown,,152.8,Asthma,missing,not available,,Card 
+PT-327,ANDREW SCHROEDER,thirty,Female ,A+,,,Diabetes,1089.75,32/13/2024,181-079-0786,
+328,Jennifer Benitez,unknown,M,,unknown,,Flu,1256.6,,+1-742-348-8400x2074,Card 
+,Steven Norman,unknown,unknown,,,128.5 cm,COVID,2253.43,08-09-2023,invalid,unknown
+PT-330,TANYA HUBER,thirty,F,AB+,91.6,171.6,Diabetes,₹3965.13,not available,invalid,cash
+,LANCE SANTANA,,Male,AB+,unknown,185.8 cm,COVID,,,(836)541-3459x565,UPI
+332,,,F,unknown,62.2,186.0,covid,missing,2023-10-24,12345,
+,PATRICK FORBES MD,,Female ,unknown,50.6,161.3 cm,???,,32/13/2024,,Insurance
+PT-334,TINA CASEY,,F,B+,57.7kg,121.8 cm,Hypertension,₹1071.5,,,UPI
+335,Timothy Gibbs,thirty,male,A+,,159.5 cm,Asthma,missing,,12345,unknown
+336,SCOTT LOPEZ,thirty,unknown,B+,unknown,,Asthma,,,12345,Insurance
+,,thirty,unknown,unknown,62.3,error,Asthma,2407.57,,invalid,unknown
+,???,17,FEMALE,O-,unknown,error,???,794.8,not available,invalid,unknown
+PT-339,???,unknown,F,AB+,,,Diabetes,₹367.38,not available,12345,
+PT-340,Theresa Martinez,64,,O-,,187.7 cm,Hypertension,missing,not available,,Card 
+,Robert Riley,thirty,unknown,A+,44.6,191.0,???,1930.44,16/07/2024,+1-762-727-7364x2777,
+,,unknown,Male,O-,,178.5 cm,Asthma,missing,2024-07-17,,unknown
+343,,thirty,Female ,,28.9kg,error,Flu,,not available,386.713.1629,Insurance
+,BRIAN MCMAHON,,unknown,AB+,46.8,184.9 cm,???,missing,32/13/2024,unknown,cash
+PT-345,,56,,O-,unknown,error,Diabetes,2799.87,,607.684.6309x798,
+,???,unknown,male,,,,Diabetes,missing,,,UPI
+PT-347,KATIE ROWE,thirty,male,unknown,118.2,,Hypertension,,,invalid,Insurance
+,,39,FEMALE,B+,21.4,175.7,Asthma,₹811.26,29/11/2023,invalid,
+349,,55,male,B+,,,Asthma,,01-25-2026,755.609.8212,unknown
+PT-350,,unknown,Male,AB+,,138.6,???,missing,,001-052-151-7018,
+,???,,Male,B+,unknown,error,,,,12345,Card 
+PT-352,Katherine Daniels,,FEMALE,B+,39.9,,COVID,1250.12,not available,12345,CARD
+,Rachel Allen,unknown,unknown,A+,32.1kg,error,Diabetes,₹2829.41,2022-06-26,unknown,
+354,Richard Russell,79,Male,a+,83.0kg,error,,3833.63,not available,12345,cash
+355,,54,Female ,,54.1kg,,covid,,,unknown,unknown
+PT-356,???,,FEMALE,,21.0,145.2 cm,???,₹3820.04,not available,unknown,unknown
+,???,unknown,F,A+,110.0kg,155.7 cm,,,03-31-2025,0426337131,Insurance
+PT-358,KELLY TRAN,unknown,Female ,A+,unknown,180.6,COVID,,2023-07-10,invalid,UPI
+,???,16,male,AB+,,138.9 cm,covid,₹3367.92,32/13/2024,594.270.5537x962,Insurance
+,JAMIE NUNEZ,,male,B+,91.2,154.0 cm,,,not available,,
+,,,unknown,,,176.9,Asthma,₹259.78,03-22-2023,,unknown
+362,Courtney Alvarez,unknown,Male,a+,unknown,158.9 cm,Flu,missing,32/13/2024,unknown,Cash
+363,???,9,unknown,AB+,unknown,158.0 cm,Flu,,32/13/2024,invalid,cash
+,,thirty,unknown,O-,,171.7 cm,Diabetes,missing,2023-03-17,12345,Cash
+,KAYLA GARCIA,61,male,unknown,113.6,,Hypertension,,,001-870-944-7496x44146,Insurance
+PT-366,CHRISTINA HARPER,54,F,AB+,45.7,142.8 cm,COVID,,20/07/2022,,Insurance
+367,Henry Deleon,92,M,AB+,unknown,140.6,Diabetes,₹3785.46,04 Aug 2023,invalid,Cash
+PT-368,,,male,AB+,22.9,141.5,Asthma,₹3292.6,,5753164829,Card 
+369,???,thirty,Female ,a+,,error,Flu,,,invalid,Card 
+,???,thirty,male,O-,89.8kg,,Asthma,missing,not available,unknown,UPI
+371,???,thirty,,a+,111.4kg,,Diabetes,,,,cash
+,Jennifer Wilkerson,69,,unknown,,148.6 cm,Diabetes,₹1915.36,32/13/2024,+1-710-700-8293x60955,UPI
+,???,25,M,,,,Asthma,,,12345,Card 
+,DAWN CASTRO,thirty,male,B+,77.0kg,error,Asthma,missing,15 Jul 2022,unknown,Cash
+PT-375,,unknown,male,unknown,71.8,error,???,,04-06-2025,,Cash
+,JERRY HUBER,,male,B+,39.7,,???,missing,13/12/2024,unknown,Card 
+PT-377,Anna Jones,thirty,male,,80.0,170.0,Diabetes,4591.9,,(235)183-1607x8582,UPI
+,,9,Male,a+,,180.2 cm,Diabetes,,not available,(307)783-2967x649,
+,???,thirty,male,A+,91.3kg,error,covid,,32/13/2024,905-132-7160x46008,Cash
+380,???,,F,O-,74.1kg,error,COVID,₹139.6,12/01/2026,unknown,Insurance
+381,DEBORAH KELLY,thirty,male,O-,,error,COVID,,32/13/2024,001-012-796-2800,Card 
+,JARED ALLEN,thirty,Female ,AB+,unknown,,Flu,4147.81,12-09-2025,,cash
+383,???,thirty,F,A+,unknown,190.8 cm,covid,₹1305.22,not available,001-848-335-6677x28663,Cash
+,JOANNA HENDERSON,49,F,B+,unknown,,Hypertension,₹4425.34,,invalid,Insurance
+,,thirty,Male,,unknown,183.2,COVID,,,,cash
+386,,unknown,,a+,unknown,,,1414.84,32/13/2024,unknown,Card 
+PT-387,THOMAS SMITH,,unknown,a+,unknown,164.0,COVID,2278.08,,unknown,
+PT-388,,,F,O-,38.0kg,141.2,COVID,4228.76,20/10/2024,3041332589,cash
+PT-389,Robin Johnson,thirty,F,B+,unknown,168.3 cm,COVID,missing,02 Feb 2024,unknown,CARD
+PT-390,KATHY GARRETT,thirty,,B+,,177.8,covid,,,,Cash
+PT-391,SHERRI BELL,thirty,M,unknown,unknown,,COVID,1697.79,not available,,unknown
+PT-392,VICTORIA GRIMES,51,unknown,B+,,144.4 cm,Hypertension,,32/13/2024,2832453768,unknown
+PT-393,DEBBIE SMITH,unknown,male,AB+,71.9kg,,Flu,,,12345,CARD
+394,???,,FEMALE,a+,51.0kg,error,Asthma,136.47,not available,,
+PT-395,,74,male,O-,unknown,error,???,₹4068.93,32/13/2024,,unknown
+PT-396,,thirty,male,AB+,24.4kg,error,Hypertension,₹3639.81,03 Aug 2023,invalid,cash
+397,???,,FEMALE,O-,40.7,,???,₹2056.77,2024-02-17,invalid,cash
+,THOMAS HALL,,,AB+,74.8kg,,COVID,4223.66,32/13/2024,invalid,cash
+,,22,Male,unknown,64.1kg,122.8 cm,,3514.04,,663.050.7524,Cash
+400,,thirty,F,B+,40.0,147.0 cm,Hypertension,₹4423.2,18/04/2022,unknown,cash
+PT-401,???,thirty,Female ,a+,62.8kg,148.5 cm,Diabetes,,32/13/2024,001-465-378-6843x099,UPI
+,???,6,Female ,AB+,50.2,183.3 cm,COVID,,not available,12345,Insurance
+,,unknown,Male,a+,64.9kg,160.3,Asthma,203.95,,12345,cash
+404,DEANNA HARRISON,,M,B+,35.2,,covid,757.91,not available,(500)733-6071,Card 
+,???,thirty,Female ,a+,111.8kg,175.7 cm,???,2655.21,28 Dec 2025,12345,Cash
+,FERNANDO HUANG,thirty,male,B+,103.1kg,,COVID,,not available,invalid,
+,BRITTANY TAPIA,,male,O-,,,Flu,4116.06,19 Mar 2024,invalid,CARD
+,TIMOTHY WOODWARD,,,O-,,,Asthma,858.15,,unknown,unknown
+PT-409,???,,M,unknown,118.8,130.0 cm,Asthma,missing,not available,+1-433-279-2536x22063,unknown
+PT-410,DANNY WILSON,,Male,,56.1,error,,₹822.1,23/12/2022,596.525.8332,cash
+,,51,Female ,AB+,unknown,,COVID,3696.27,32/13/2024,invalid,Card 
+,,unknown,Male,B+,101.6,,COVID,missing,32/13/2024,unknown,CARD
+,Christopher Taylor,thirty,FEMALE,B+,38.3kg,,,₹3159.67,11-27-2025,unknown,cash
+PT-414,William Reynolds,44,Female ,AB+,68.5,124.9,Diabetes,574.53,,unknown,Insurance
+,,unknown,F,O-,,error,covid,,15/04/2022,,cash
+,???,thirty,F,AB+,,161.2,covid,181.49,32/13/2024,,
+PT-417,Krystal Flores,,,unknown,,135.6 cm,Diabetes,missing,32/13/2024,unknown,cash
+PT-418,KATHLEEN SINGLETON,thirty,FEMALE,,114.4,177.3 cm,covid,₹3854.91,,+1-737-239-6878x94958,CARD
+,,unknown,Female ,a+,unknown,,???,4061.39,2024-09-21,721.013.9921x3800,Insurance
+,MICHAEL MENDEZ,unknown,FEMALE,,51.3,167.2 cm,???,missing,32/13/2024,+1-657-862-8531,unknown
+421,,thirty,M,,88.0kg,168.1,covid,1613.57,32/13/2024,unknown,UPI
+,,unknown,FEMALE,,104.8kg,124.2 cm,,₹1565.6,not available,unknown,
+PT-423,,51,M,O-,,127.8,COVID,₹902.1,not available,12345,Card 
+424,VICTOR JONES,95,F,unknown,30.2kg,198.6 cm,Diabetes,₹4873.38,not available,,unknown
+425,,32,male,B+,50.3kg,172.2,,missing,not available,215.271.6400x97528,cash
+426,Aaron Mccormick,,Female ,A+,,179.6 cm,???,,05/09/2024,invalid,cash
+,THOMAS DENNIS,52,unknown,a+,,125.1,Asthma,₹4498.25,30/12/2022,,
+PT-428,Ashley Maxwell,thirty,Female ,unknown,36.1,error,covid,4834.75,12-17-2024,,UPI
+,,,F,a+,119.7kg,175.0,Asthma,₹794.17,not available,invalid,CARD
+,,unknown,M,AB+,,,Flu,missing,not available,,CARD
+PT-431,TIMOTHY MATHIS,,unknown,A+,unknown,,Hypertension,missing,32/13/2024,invalid,Cash
+432,,,male,,unknown,167.1,covid,missing,2022-12-12,12345,Insurance
+PT-433,ANGELA RANDOLPH,,,a+,20.9kg,error,Diabetes,missing,,unknown,CARD
+PT-434,???,unknown,M,AB+,91.8kg,error,???,3875.83,03/12/2025,12345,Cash
+435,???,,Male,AB+,113.2kg,158.4,???,168.11,not available,12345,Cash
+,,thirty,FEMALE,A+,unknown,,Flu,₹654.84,not available,invalid,
+PT-437,???,28,unknown,B+,112.3,,Diabetes,missing,09-05-2024,391.430.1590x688,Insurance
+,JAMES HOPKINS,unknown,Male,A+,39.8kg,152.9,Flu,,not available,invalid,unknown
+439,???,,,B+,34.0,189.6 cm,Hypertension,,12-29-2023,12345,Card 
+PT-440,???,,,a+,88.2kg,,???,743.95,not available,,Cash
+,HOLLY AGUILAR,unknown,unknown,a+,unknown,,Asthma,₹3673.32,12-15-2024,invalid,Card 
+,,,male,unknown,81.1kg,167.3 cm,Asthma,missing,,791.902.0890x349,Card 
+443,Janet Bailey,,M,unknown,unknown,,Diabetes,missing,32/13/2024,invalid,Cash
+444,Christopher Bryant,1,F,B+,48.5,,covid,1737.98,not available,invalid,Insurance
+,???,unknown,Female ,a+,108.7kg,170.4,Asthma,1045.34,not available,unknown,Card 
+,LORI HUGHES,thirty,Female ,AB+,unknown,191.6,???,431.77,32/13/2024,invalid,Cash
+,Mark Alexander,thirty,unknown,AB+,88.5,,???,₹1430.32,32/13/2024,,Cash
+,,unknown,M,,42.0,123.6 cm,COVID,missing,08-10-2025,12345,Card 
+,Robert Burgess,unknown,F,O-,unknown,error,covid,4927.78,not available,12345,UPI
+450,Jennifer Massey,,M,,80.4kg,error,Asthma,,32/13/2024,unknown,Insurance
+451,,,FEMALE,AB+,106.2kg,195.5 cm,COVID,₹898.3,22/02/2024,12345,cash
+PT-452,KYLIE ARROYO,,male,unknown,72.7,168.3,Hypertension,4150.16,12/08/2025,invalid,CARD
+,Scott Houston,2,F,,,191.4 cm,COVID,1725.61,04-22-2023,(347)919-1952x485,Cash
+454,???,,FEMALE,A+,,error,Asthma,4616.29,06/08/2023,12345,cash
+PT-455,???,unknown,male,O-,112.3,error,Flu,missing,not available,(273)019-5020x067,UPI
+PT-456,???,34,Male,,34.9kg,,Hypertension,missing,not available,12345,CARD
+PT-457,???,,unknown,AB+,unknown,195.5 cm,???,,,195-506-8693x3483,unknown
+,JONATHAN ANTHONY,90,Female ,O-,20.3,157.9 cm,Hypertension,₹1811.8,32/13/2024,,unknown
+459,JENNIFER GILES,29,FEMALE,A+,,,covid,365.01,06/09/2023,12345,Insurance
+460,Rebecca Rhodes,32,Male,a+,61.6kg,error,,2116.46,32/13/2024,523-792-3501x029,Cash
+,ROBERT SMITH,thirty,Male,AB+,,error,Asthma,2175.98,32/13/2024,12345,unknown
+,Jessica Ewing,,FEMALE,,94.6,error,???,missing,32/13/2024,invalid,cash
+463,Joseph Butler,unknown,Male,B+,48.2,error,Asthma,2803.29,01-02-2025,,Cash
+,,6,F,A+,unknown,196.7 cm,covid,₹3655.87,not available,unknown,cash
+,KAREN SCOTT,,,a+,23.7kg,132.1,Asthma,₹4056.63,not available,unknown,CARD
+PT-466,???,,Male,unknown,58.8kg,168.6 cm,,missing,,049-403-5502x721,
+PT-467,ALEXANDRA NEWTON,thirty,male,O-,77.7,error,,,16/09/2022,,
+468,???,,unknown,,,error,covid,,2024-11-17,12345,Cash
+469,Gerald Horn,,FEMALE,a+,,error,,,32/13/2024,287.676.1236x454,unknown
+PT-470,MICHELLE AYALA,unknown,male,O-,80.4kg,error,,,not available,,Cash
+,,unknown,unknown,AB+,41.3,error,COVID,3214.87,26 Oct 2024,invalid,
+PT-472,ROBERT SMITH,unknown,FEMALE,,,180.3 cm,Asthma,,,invalid,unknown
+473,JOHN NGUYEN,thirty,F,unknown,unknown,191.7 cm,,,,12345,
+,Rachel Martin,thirty,Female ,AB+,,136.8 cm,Diabetes,missing,,unknown,unknown
+PT-475,???,,F,A+,unknown,,???,,10-19-2022,001-899-606-8793x730,cash
+476,Michael Wilson,,male,AB+,95.0,170.7,COVID,,06 Apr 2023,12345,
+477,???,,unknown,A+,unknown,error,???,,2026-03-04,12345,Insurance
+,???,thirty,unknown,B+,,,Flu,₹2013.02,32/13/2024,unknown,Card 
+479,LESLIE SANCHEZ,65,unknown,,111.7kg,195.9,Diabetes,₹3181.58,,(715)188-1382x4679,CARD
+PT-480,???,thirty,Female ,O-,,error,Hypertension,4681.38,24 Sep 2025,848.041.0110,CARD
+PT-481,???,24,male,AB+,111.3kg,151.3,???,460.52,,invalid,
+482,LUIS HUFF,39,FEMALE,unknown,76.7,error,,4975.09,06-19-2025,12345,Cash
+,Theresa Kaiser,thirty,Female ,,56.5,137.6 cm,COVID,1440.97,,unknown,unknown
+,,unknown,FEMALE,B+,unknown,error,Flu,,,,UPI
+PT-485,Stephanie Drake,,unknown,B+,76.7,error,???,missing,2024-02-14,12345,Insurance
+PT-486,JULIE LANE DVM,thirty,male,B+,unknown,129.8,covid,missing,,invalid,Card 
+,KEVIN MEYER,unknown,male,a+,,145.6 cm,Diabetes,missing,2023-12-29,unknown,CARD
+,???,,Female ,a+,22.1,,Diabetes,4489.56,2024-06-18,unknown,cash
+PT-489,???,unknown,F,AB+,,,,4258.49,2024-04-04,12345,Cash
+490,TRACY WILSON,unknown,unknown,B+,unknown,185.3,Diabetes,1372.47,01-31-2026,invalid,Insurance
+,,thirty,FEMALE,a+,32.6kg,,,₹2656.64,,invalid,Insurance
+,,29,M,,28.3kg,178.8 cm,Hypertension,₹2523.57,,unknown,Card 
+PT-493,Charles Hubbard,thirty,F,,90.9kg,128.5 cm,Asthma,,,12345,cash
+PT-494,,unknown,male,B+,66.1,191.5 cm,COVID,,05-19-2024,,cash
+PT-495,,thirty,unknown,a+,,,???,₹1028.3,,,unknown
+496,Kevin Hanna,thirty,male,B+,unknown,error,Asthma,,27 Feb 2024,12345,UPI
+PT-497,ALEXIS BOWMAN,thirty,F,unknown,48.8,,COVID,₹3470.89,32/13/2024,12345,Insurance
+PT-498,MICHAEL AYALA,,unknown,O-,22.1,133.7,covid,,19 Dec 2024,918.620.3711,Cash
+,???,thirty,FEMALE,,unknown,error,,missing,,158.153.4966x5486,UPI
+,Teresa Moore,,Female ,unknown,119.4,,covid,,not available,,
+,NICOLE HOUSTON,unknown,F,AB+,unknown,error,Hypertension,missing,2024-09-26,unknown,CARD
+PT-502,CHRISTIAN ANDERSON IV,unknown,FEMALE,O-,unknown,error,Hypertension,,2024-05-18,invalid,CARD
+PT-503,???,thirty,male,unknown,119.6kg,error,Asthma,₹4671.38,,unknown,cash
+PT-504,???,unknown,FEMALE,a+,107.6kg,136.0 cm,???,2815.99,32/13/2024,unknown,unknown
+505,MIRANDA JOHNSON,,F,a+,,,,,not available,12345,Insurance
+506,???,,FEMALE,AB+,,error,Hypertension,missing,not available,524-296-5433,cash
+,Rebecca Johnson,thirty,FEMALE,a+,69.5kg,171.2 cm,COVID,3178.37,20/08/2023,(692)638-7156x7377,Cash
+508,Dr. Aaron Carpenter,67,Female ,B+,,error,???,₹1001.82,,,cash
+PT-509,JOANNA THOMPSON,82,FEMALE,B+,85.7kg,176.0 cm,,2454.29,not available,invalid,unknown
+PT-510,Deborah Salas,,unknown,B+,,,Diabetes,₹1838.16,not available,583.442.5431,CARD
+PT-511,JOSHUA POWELL,,male,B+,unknown,188.7 cm,COVID,,,unknown,CARD
+,???,unknown,F,a+,81.7,178.6 cm,Hypertension,,32/13/2024,+1-434-798-8287x035,CARD
+,,54,Male,a+,45.0,155.3,Flu,,32/13/2024,invalid,
+PT-514,???,thirty,FEMALE,AB+,100.9kg,126.9,Asthma,262.87,03 May 2024,invalid,CARD
+,,thirty,,a+,81.8kg,,Hypertension,missing,,12345,Cash
+,???,thirty,M,,45.1,error,Hypertension,missing,2024-02-12,,
+PT-517,Rickey Johnson,unknown,unknown,O-,40.1,error,Diabetes,1254.52,,,cash
+,,unknown,Male,A+,unknown,144.3 cm,Diabetes,₹229.13,11 May 2023,,
+519,,thirty,unknown,unknown,,error,covid,1048.86,07/01/2025,,Cash
+520,,69,Male,,92.0,error,Diabetes,₹3051.84,,unknown,cash
+,Heather Shelton,unknown,Female ,AB+,101.3kg,error,COVID,missing,2024-07-25,invalid,unknown
+,,36,Female ,B+,unknown,error,Flu,,16 Sep 2022,001-314-886-9952,
+523,???,,M,,,,,₹1108.08,27 Aug 2022,invalid,Cash
+,???,unknown,M,,95.3,,???,3934.8,not available,,
+PT-525,???,,,unknown,119.3,error,Hypertension,missing,17 Jun 2024,,UPI
+PT-526,???,unknown,Male,A+,unknown,187.8,,missing,,667-769-6955x333,cash
+PT-527,???,,FEMALE,O-,,170.4 cm,Diabetes,₹3307.54,not available,344-506-1888,Card 
+528,???,33,F,a+,unknown,128.7,Hypertension,missing,15 Jul 2022,unknown,UPI
+529,Thomas Adams,unknown,F,AB+,unknown,169.8,COVID,4658.51,not available,,Insurance
+530,,75,FEMALE,AB+,96.3,,Hypertension,4253.22,,invalid,UPI
+531,???,unknown,Female ,,,197.8 cm,,missing,11-27-2025,invalid,
+,BRIAN COLLIER,,Female ,a+,118.7kg,152.6 cm,COVID,3999.69,,,CARD
+,,thirty,FEMALE,AB+,unknown,,Hypertension,,21/03/2026,12345,unknown
+PT-534,???,,Female ,unknown,unknown,167.3,Hypertension,,,invalid,
+,CHERYL SILVA,thirty,male,B+,unknown,error,,missing,not available,unknown,Insurance
+536,,unknown,unknown,O-,95.7,178.8 cm,???,missing,not available,12345,cash
+PT-537,???,,Female ,B+,48.8,173.3 cm,Hypertension,₹4210.07,32/13/2024,314.164.7361,
+538,???,unknown,unknown,unknown,,143.6,,4455.51,08-02-2025,invalid,cash
+,TIMOTHY BLACKWELL,94,F,B+,70.7,176.5,???,missing,2025-04-15,12345,CARD
+,,thirty,M,AB+,,142.6,Asthma,₹429.58,16/05/2022,unknown,UPI
+,,thirty,F,AB+,unknown,,,missing,not available,403.902.5714x474,Card 
+542,???,,F,B+,,error,???,,32/13/2024,736-466-4394x977,UPI
+PT-543,CARL COSTA,53,F,O-,,154.0,COVID,2478.98,,12345,CARD
+,DYLAN SHIELDS,81,F,B+,80.5,error,covid,3857.53,not available,,Card 
+545,,thirty,M,,,137.2,Diabetes,4242.86,,+1-602-911-3115x884,CARD
+PT-546,???,thirty,Female ,A+,,error,Hypertension,,32/13/2024,465-421-5253,unknown
+547,???,,Male,O-,unknown,,COVID,,,invalid,Card 
+PT-548,Michelle Davidson,,F,,30.8kg,122.0 cm,,missing,28/06/2024,5843448604,CARD
+549,,thirty,male,B+,103.8kg,,COVID,3728.5,20 Jul 2024,invalid,Card 
+,,,F,unknown,,161.2,Hypertension,₹479.77,12/04/2026,12345,Card 
+PT-551,Stephanie Chen,,,B+,72.5kg,,Diabetes,missing,not available,,Insurance
+,WILLIAM RODRIGUEZ,unknown,Female ,,unknown,error,Flu,,,12345,CARD
+PT-553,Robin Carlson,unknown,Female ,B+,unknown,170.0 cm,Hypertension,₹2839.86,32/13/2024,invalid,UPI
+PT-554,???,,M,a+,74.1,128.2 cm,COVID,₹2861.93,not available,,UPI
+,,thirty,Male,,41.6kg,131.5,covid,₹4852.23,,unknown,Insurance
+PT-556,Debra Barrera,,unknown,,unknown,187.1,Asthma,missing,,,
+PT-557,???,88,unknown,unknown,unknown,error,???,₹2842.99,32/13/2024,039-491-4686x2886,Card 
+PT-558,???,thirty,Male,a+,unknown,193.3,COVID,,not available,invalid,Cash
+,Christine Burns,,,AB+,37.4,122.3 cm,Flu,,,(331)426-2625,Insurance
+560,???,25,F,,110.0kg,error,Diabetes,4708.67,32/13/2024,invalid,cash
+561,,unknown,Female ,unknown,70.5,144.9,covid,2384.64,07 Mar 2023,241-297-8510x32965,cash
+562,Brandi Lopez,unknown,Male,,unknown,190.2 cm,COVID,₹3247.36,08-11-2025,unknown,UPI
+563,???,unknown,unknown,B+,47.3kg,,COVID,missing,32/13/2024,(514)191-0118x6556,unknown
+564,KIMBERLY MILLER,,F,unknown,99.6kg,error,Hypertension,₹1132.54,09-25-2023,001-624-534-1714x763,CARD
+PT-565,KATRINA KENNEDY,unknown,F,a+,57.8,error,Diabetes,missing,32/13/2024,invalid,UPI
+566,,thirty,Male,AB+,,157.9 cm,COVID,,not available,3176838282,Card 
+,George Carr,,M,a+,22.9kg,190.9 cm,Flu,736.47,32/13/2024,invalid,
+PT-568,PATRICK CHRISTENSEN,59,FEMALE,B+,108.3,,Hypertension,missing,32/13/2024,invalid,cash
+PT-569,,thirty,,unknown,66.3kg,127.7 cm,covid,missing,,,cash
+PT-570,,86,Female ,a+,unknown,,Hypertension,₹776.59,not available,unknown,cash
+PT-571,,thirty,unknown,B+,,,Flu,901.36,not available,7838520655,unknown
+572,ELIZABETH BROWN,thirty,unknown,unknown,,,COVID,,,invalid,Insurance
+573,LEON HARTMAN,,male,B+,unknown,,???,337.86,not available,001-724-014-4407x52375,Insurance
+PT-574,,unknown,Male,a+,,121.4,Hypertension,,16/12/2024,,cash
+575,TIMOTHY FOX,,unknown,O-,65.8kg,,Diabetes,₹1926.7,,,cash
+PT-576,???,,Male,B+,115.0,186.9,Asthma,₹4975.1,not available,,
+577,,thirty,M,a+,80.5kg,,Asthma,₹2130.19,,,Insurance
+578,JAMES REEVES,29,F,B+,,error,???,missing,not available,unknown,CARD
+PT-579,,thirty,unknown,O-,60.3,error,Hypertension,missing,not available,unknown,
+580,MARK HARTMAN,thirty,F,a+,63.2,,Asthma,,2022-12-13,unknown,Card 
+581,Patricia Hernandez,unknown,FEMALE,,,148.2 cm,???,missing,not available,,unknown
+582,,,M,,35.7kg,error,,3315.33,,unknown,Card 
+,Kara Chavez,thirty,FEMALE,a+,,146.0 cm,Flu,2889.6,,,Card 
+584,,thirty,FEMALE,AB+,unknown,130.6,Asthma,,,,cash
+,???,thirty,,unknown,116.2,,???,missing,2022-05-04,unknown,
+,Jason Nichols,,Male,O-,,129.9 cm,COVID,3813.91,not available,unknown,Insurance
+587,BONNIE EDWARDS,thirty,M,A+,,159.3 cm,COVID,missing,not available,,Cash
+588,JAMIE RICHARD,unknown,Male,B+,unknown,error,,₹3399.07,32/13/2024,,UPI
+PT-589,???,thirty,Male,,41.2,,,missing,not available,,Insurance
+PT-590,,thirty,,B+,68.4,144.7 cm,Flu,1463.75,not available,unknown,
+,Jeremy Shepard,thirty,Female ,O-,86.4,error,Hypertension,₹374.28,32/13/2024,12345,Card 
+,,23,M,a+,47.7,error,Diabetes,,2023-10-02,invalid,cash
+593,,,male,AB+,74.2kg,167.9,???,,,055-266-8721,UPI
+PT-594,???,thirty,F,a+,unknown,error,COVID,,,001-795-414-8400,Insurance
+,,thirty,FEMALE,A+,96.0,155.5 cm,Asthma,₹3837.98,not available,,
+596,???,thirty,FEMALE,O-,96.6kg,168.8 cm,covid,,32/13/2024,invalid,
+PT-597,???,unknown,F,unknown,,,Diabetes,,,invalid,Cash
+,REBECCA MEYER,unknown,M,,,164.8 cm,Asthma,missing,32/13/2024,12345,Insurance
+,,,Male,,,,Diabetes,missing,,invalid,cash
+PT-600,CHARLES MULLEN,unknown,unknown,,unknown,,Asthma,missing,03-26-2023,12345,cash
+,???,,Female ,B+,unknown,error,COVID,₹4670.14,,unknown,
+602,Tara Curtis,unknown,Male,a+,unknown,error,Hypertension,3698.73,16/05/2023,,
+,ANTHONY PEREZ,,M,AB+,108.1kg,error,,,not available,445.334.6519x5318,unknown
+604,Robert Herring,unknown,unknown,B+,unknown,172.3 cm,covid,₹3603.03,32/13/2024,invalid,CARD
+605,Tim Livingston,69,FEMALE,a+,unknown,172.7 cm,COVID,₹4955.92,02-19-2025,12345,
+606,,,Female ,AB+,63.9kg,136.5,Hypertension,4849.29,10/06/2025,unknown,Insurance
+,???,thirty,Female ,A+,unknown,160.7,Diabetes,1962.14,not available,232.687.6206,unknown
+,???,30,unknown,AB+,unknown,187.8 cm,Diabetes,,32/13/2024,invalid,Insurance
+,,,FEMALE,B+,116.5kg,194.0 cm,Diabetes,missing,11-12-2024,065.052.7340,Insurance
+610,,thirty,unknown,A+,96.3kg,121.2 cm,Hypertension,,,12345,Cash
+PT-611,,unknown,FEMALE,O-,85.6,179.9 cm,Flu,₹736.06,2025-02-02,unknown,UPI
+,Angela Collins,thirty,M,B+,,error,Flu,₹1936.38,,276-005-7844x86250,Card 
+613,Jill Barrett,19,Female ,B+,,,,missing,18 Apr 2023,invalid,Insurance
+PT-614,JOSE HERNANDEZ,unknown,,,unknown,error,???,₹4827.29,,4633532440,cash
+,???,unknown,M,AB+,63.6,197.7 cm,???,₹4439.56,23/07/2025,12345,Insurance
+,LOGAN HOGAN,73,F,a+,114.7kg,128.0 cm,Asthma,₹3780.41,32/13/2024,invalid,Cash
+PT-617,???,,,AB+,unknown,error,Asthma,4622.96,32/13/2024,12345,
+618,BENJAMIN BAILEY,thirty,unknown,AB+,unknown,error,Flu,₹705.01,32/13/2024,invalid,Insurance
+619,Thomas Dillon,unknown,male,,,,Flu,missing,,invalid,cash
+,,thirty,,,49.1,error,Asthma,,2023-12-28,invalid,UPI
+PT-621,???,unknown,F,A+,,,COVID,,,+1-961-421-1989x866,cash
+,John Boyd,74,male,,,185.2,covid,,,unknown,Cash
+623,DAKOTA BROWN,unknown,male,O-,,error,covid,,,invalid,CARD
+624,???,,F,,101.5,169.3 cm,covid,4160.55,not available,,
+,ROBERT JONES,thirty,M,,,180.4 cm,covid,missing,32/13/2024,unknown,cash
+626,Amanda Harrington,,M,B+,,error,Hypertension,1686.8,not available,(466)286-8502,
+627,DOUGLAS HARTMAN,thirty,,unknown,unknown,,,₹2801.01,,,unknown
+,???,unknown,M,AB+,110.0kg,148.6 cm,covid,₹4932.65,03/05/2023,,
+,???,thirty,F,unknown,117.6kg,157.2,,,28/12/2025,,
+,Jill Cook,,FEMALE,A+,unknown,165.6,,₹3845.39,,invalid,UPI
+PT-631,CAROLYN KELLY,,FEMALE,,unknown,189.0,covid,2978.49,,12345,Card 
+632,MICHAEL HUBBARD,24,,unknown,,,???,missing,not available,invalid,CARD
+,,,male,B+,unknown,error,,3783.9,2022-12-15,invalid,cash
+634,Wesley Ford,68,Male,O-,unknown,196.5 cm,,missing,not available,,CARD
+PT-635,WILLIAM SCHULTZ,thirty,,A+,82.2,error,Hypertension,₹984.04,32/13/2024,,CARD
+,???,,,A+,26.5kg,,Asthma,3990.86,2023-08-30,invalid,unknown
+,MICHAEL WRIGHT,unknown,FEMALE,AB+,,,Diabetes,,not available,unknown,UPI
+,Ann Jacobs,68,Female ,A+,78.7kg,171.3,Diabetes,missing,,,CARD
+,???,88,Female ,A+,38.6kg,125.8 cm,,1113.01,32/13/2024,001-813-219-8066,UPI
+640,TIMOTHY LITTLE,unknown,FEMALE,AB+,,131.3 cm,COVID,missing,,684.600.4125,unknown
+PT-641,,thirty,,O-,,181.4 cm,Asthma,₹660.46,32/13/2024,,Insurance
+642,???,,M,a+,unknown,129.6 cm,Hypertension,₹2540.04,,unknown,cash
+643,TIMOTHY MOORE,,FEMALE,A+,100.6kg,149.7 cm,,₹301.15,03-05-2025,,Cash
+644,???,thirty,F,AB+,,150.4,Asthma,,19 Mar 2026,12345,UPI
+,SHELLY LOPEZ,unknown,Male,A+,88.5,error,covid,₹4517.45,27 Apr 2026,,Cash
+PT-646,Karla Cole,29,male,A+,,,Asthma,missing,,12345,
+,???,thirty,M,unknown,,error,Diabetes,2215.51,32/13/2024,unknown,CARD
+,???,,unknown,AB+,,,Flu,₹1108.98,32/13/2024,,Insurance
+PT-649,,unknown,Female ,AB+,,,Diabetes,₹1754.65,,12345,
+650,LORI NIXON,thirty,M,unknown,,184.1 cm,???,₹1303.92,08-17-2023,001-962-623-6707,cash
+651,Lori Smith,2,F,,unknown,132.0 cm,COVID,missing,,invalid,CARD
+PT-652,???,thirty,FEMALE,B+,,,COVID,3480.82,,(556)578-6352x20231,Cash
+653,,,,B+,unknown,166.8 cm,,missing,not available,+1-373-075-0271x8077,CARD
+654,???,,FEMALE,A+,99.1kg,196.9,covid,3053.78,32/13/2024,invalid,UPI
+655,???,67,,O-,25.2kg,,covid,,not available,,Cash
+656,Michelle Tyler,95,M,AB+,,,covid,,32/13/2024,invalid,UPI
+,WHITNEY FIELDS,unknown,M,A+,111.3,184.4,Diabetes,4072.7,32/13/2024,invalid,cash
+658,ALISON MARTIN,12,Male,unknown,21.3,,covid,3952.05,32/13/2024,001-199-652-2243x17112,CARD
+659,Shelly Bonilla,,Female ,B+,unknown,135.4 cm,,missing,,12345,Cash
+660,ERIC ANDERSON,unknown,FEMALE,a+,77.5,126.1 cm,covid,,,,UPI
+661,,unknown,Female ,a+,unknown,142.5,Hypertension,2520.22,17 Nov 2022,unknown,Cash
+,Barbara Lopez,unknown,male,a+,,error,,₹2496.53,27/01/2025,invalid,unknown
+PT-663,,,,,65.2kg,179.0,Flu,₹1969.14,02-11-2024,unknown,CARD
+664,JODY WILLIS,28,Male,AB+,47.1kg,error,COVID,,32/13/2024,unknown,Cash
+PT-665,Joshua Smith,unknown,,a+,,184.3,COVID,missing,09 Jul 2022,,CARD
+,???,unknown,FEMALE,O-,76.5,153.4 cm,covid,missing,not available,,Insurance
+,???,thirty,FEMALE,O-,77.2kg,168.8 cm,,missing,,12345,Insurance
+668,,unknown,male,AB+,unknown,177.0,,missing,32/13/2024,invalid,Insurance
+PT-669,???,thirty,Female ,a+,80.5,error,Asthma,3974.48,32/13/2024,12345,UPI
+670,Jeremy Chavez,,male,O-,111.0kg,150.6 cm,,missing,32/13/2024,,
+PT-671,WALTER WILSON,thirty,F,A+,,,Diabetes,,05-10-2025,invalid,Insurance
+,Joshua Burgess,66,FEMALE,AB+,26.8kg,133.1 cm,Hypertension,missing,not available,504.343.1425,
+PT-673,Mary Smith,,unknown,unknown,102.3kg,error,Asthma,1272.4,,572-177-4583,Cash
+674,MARIA BLANCHARD,thirty,F,O-,,,Diabetes,3381.25,16/02/2026,12345,Card 
+,,unknown,male,a+,70.9kg,151.8,COVID,,not available,invalid,Card 
+PT-676,???,51,M,AB+,,,Hypertension,₹4383.75,32/13/2024,,UPI
+PT-677,,thirty,M,B+,51.0kg,188.8 cm,,missing,32/13/2024,unknown,
+,???,thirty,male,a+,30.7,error,Diabetes,₹1968.96,not available,12345,Card 
+PT-679,???,unknown,unknown,unknown,22.2,141.0 cm,Hypertension,4605.09,07/09/2023,082-923-6649,cash
+,ZACHARY TAYLOR,unknown,M,A+,68.0kg,,Diabetes,,16/01/2024,,Cash
+,Diane Byrd,unknown,,B+,unknown,,Diabetes,,32/13/2024,276-126-1549,UPI
+PT-682,Daniel Grimes,unknown,,,unknown,error,covid,missing,not available,12345,
+,,,male,a+,unknown,156.1 cm,Diabetes,₹4599.66,32/13/2024,,CARD
+684,,,male,a+,74.4,164.0 cm,Asthma,,not available,,unknown
+,,unknown,unknown,unknown,,175.5 cm,Diabetes,4476.6,30/07/2023,invalid,Card 
+PT-686,???,27,Female ,A+,49.6kg,134.9,Hypertension,,07 May 2024,,UPI
+PT-687,,thirty,M,AB+,81.9,,covid,,,,Insurance
+,,,Male,AB+,unknown,163.5,,,not available,,
+689,,13,FEMALE,a+,,error,???,4026.41,,12345,
+PT-690,LANCE CASTILLO,unknown,F,AB+,31.0,135.9,???,₹4053.33,not available,12345,Card 
+PT-691,,,male,A+,36.4,,Diabetes,missing,,unknown,Cash
+PT-692,,,male,A+,unknown,160.6 cm,Flu,₹893.78,,,Insurance
+,???,62,FEMALE,a+,76.0kg,,Diabetes,1922.11,09-21-2025,invalid,CARD
+PT-694,JASMIN GREEN,thirty,Female ,unknown,67.5,133.8,Flu,₹4303.44,21 Dec 2025,,CARD
+695,,unknown,Female ,,,,Diabetes,missing,32/13/2024,12345,
+,,thirty,Female ,a+,72.1,154.6,Hypertension,3551.92,,invalid,
+,???,unknown,M,,,187.2 cm,,missing,not available,invalid,UPI
+PT-698,CHRISTOPHER TAYLOR,unknown,Female ,a+,117.2kg,,COVID,₹2176.86,not available,12345,Insurance
+,???,,FEMALE,A+,107.6kg,error,Flu,missing,,invalid,
+,???,unknown,male,O-,,error,,missing,32/13/2024,invalid,Cash
+PT-701,,77,,AB+,31.9kg,129.8,Diabetes,missing,,12345,Cash
+,Ashley Solis,2,F,a+,48.4kg,error,covid,missing,,12345,Cash
+703,Karen Jackson,unknown,,A+,104.5kg,168.8 cm,Asthma,missing,,12345,Card 
+704,Melissa Mcmillan,,,B+,,181.2 cm,,missing,,,unknown
+PT-705,MICHAEL BAIRD,thirty,male,a+,88.3kg,error,covid,missing,,+1-540-867-0363x9409,Card 
+,David Mendez,58,unknown,a+,,,Hypertension,missing,,12345,CARD
+707,JENNIFER BARNETT,,F,A+,29.0kg,127.4,COVID,,32/13/2024,unknown,UPI
+708,TIMOTHY HERNANDEZ,unknown,FEMALE,a+,26.7,182.6 cm,COVID,₹4715.88,32/13/2024,,cash
+709,Taylor Johnson,thirty,male,,96.1kg,194.6 cm,Diabetes,missing,2023-06-23,unknown,CARD
+710,Christopher Edwards,thirty,FEMALE,B+,unknown,157.0,Asthma,894.23,32/13/2024,(639)600-5294x27833,UPI
+PT-711,,,unknown,a+,unknown,,COVID,,32/13/2024,348.472.8007,Insurance
+PT-712,Taylor Thomas,,unknown,AB+,,,Flu,₹2993.11,,12345,CARD
+713,BELINDA CUMMINGS,unknown,,AB+,66.5kg,157.1,Asthma,4743.85,09-11-2024,invalid,
+PT-714,,unknown,F,,,error,Flu,missing,32/13/2024,,Insurance
+715,,unknown,,O-,82.2,,,2223.7,not available,unknown,UPI
+716,TYLER GARCIA,26,unknown,O-,unknown,,Asthma,₹4147.02,32/13/2024,791.161.5510x32868,cash
+717,Christopher Schmidt MD,,male,B+,,error,covid,missing,not available,,CARD
+,???,thirty,Female ,,unknown,,Diabetes,missing,32/13/2024,12345,Card 
+PT-719,JOHN WILSON,unknown,unknown,unknown,unknown,,Hypertension,3897.33,,12345,unknown
+PT-720,Christina Brandt,unknown,male,O-,,151.7 cm,???,₹1252.05,not available,12345,Insurance
+,,11,male,A+,,127.4 cm,Diabetes,₹970.11,not available,,cash
+722,BROOKE OLIVER,unknown,male,A+,119.6,185.7 cm,Flu,,not available,,cash
+,???,18,,a+,105.2,error,Diabetes,₹1759.42,,invalid,UPI
+PT-724,,thirty,M,unknown,44.1kg,176.3,Hypertension,₹4991.31,not available,invalid,Insurance
+,KEVIN MILLER,,unknown,AB+,unknown,,Diabetes,missing,2025-12-25,invalid,unknown
+726,,,F,AB+,,196.6 cm,Diabetes,missing,,invalid,CARD
+727,ANGELA JOHNSON,,M,B+,92.1,error,covid,₹2465.71,not available,,UPI
+,,thirty,unknown,,,error,,,,unknown,
+,LARRY WILLIAMS,thirty,,O-,50.0,error,???,1400.29,32/13/2024,unknown,Cash
+PT-730,Melody Campbell,unknown,unknown,A+,unknown,,Asthma,2717.04,not available,12345,Card 
+731,,unknown,Female ,AB+,unknown,error,???,₹2189.6,not available,invalid,cash
+732,DARRYL COLLINS,16,Female ,A+,unknown,,covid,,,,UPI
+733,???,unknown,FEMALE,AB+,unknown,178.0,Hypertension,₹1776.3,09-02-2023,invalid,unknown
+PT-734,Brittany Scott,,Female ,B+,39.0,,,₹3248.38,,12345,Cash
+,???,unknown,F,AB+,unknown,189.0,Hypertension,missing,not available,12345,UPI
+,,38,male,A+,86.5kg,185.3 cm,COVID,1765.71,05-18-2023,unknown,UPI
+,???,53,Male,O-,91.2kg,194.5,covid,missing,32/13/2024,,Card 
+,John Carroll,30,M,O-,104.1,error,COVID,592.14,09 Aug 2024,invalid,UPI
+,Denise Bishop,18,male,a+,20.4,157.5,COVID,₹4704.32,32/13/2024,12345,cash
+,Christopher Bailey,thirty,FEMALE,B+,102.2kg,error,Asthma,,32/13/2024,,UPI
+PT-741,ANNA TURNER,,M,O-,44.9,,Diabetes,₹2087.17,32/13/2024,,cash
+,BRITTANY JORDAN,17,Female ,B+,,130.6,Diabetes,3294.08,not available,12345,
+743,PAMELA SMITH,93,F,O-,unknown,136.1 cm,Asthma,₹1021.2,not available,unknown,Cash
+PT-744,Mark Mcintyre,,FEMALE,A+,,161.9,COVID,,11 Apr 2026,,
+PT-745,???,thirty,,B+,,,Asthma,₹754.08,,12345,CARD
+746,???,unknown,M,unknown,unknown,179.7,Asthma,₹1335.28,,,Cash
+747,Sara Boyd DDS,,F,A+,unknown,error,Asthma,missing,,,Card 
+748,???,unknown,F,AB+,,138.2,Hypertension,₹4490.03,32/13/2024,unknown,unknown
+,Jennifer Abbott,,FEMALE,B+,93.8,,Hypertension,,not available,12345,cash
+750,???,thirty,Male,AB+,88.9,159.2 cm,???,₹590.46,02-16-2023,unknown,Insurance
+PT-751,,thirty,Male,unknown,29.8,135.4 cm,Asthma,₹3688.96,32/13/2024,invalid,
+752,,thirty,Male,A+,unknown,error,???,₹410.01,12 Sep 2023,12345,Insurance
+753,ERIKA ROMERO,,male,A+,41.2kg,154.8 cm,COVID,missing,32/13/2024,unknown,unknown
+754,,unknown,M,a+,41.4,,Hypertension,₹665.2,19/01/2026,,
+PT-755,ROBERT MILLER,thirty,Female ,,32.6,error,Hypertension,₹1727.17,,unknown,Card 
+756,CYNTHIA HENRY,90,FEMALE,a+,64.2,145.7 cm,COVID,4964.48,2026-04-16,(178)757-5233,cash
+PT-757,ADRIENNE LOGAN,82,male,unknown,39.0,error,Diabetes,3958.58,not available,invalid,unknown
+,Brandy Green,unknown,M,O-,74.6kg,,COVID,2506.58,not available,,Cash
+PT-759,,61,unknown,AB+,22.6,,covid,missing,,unknown,cash
+760,,unknown,Female ,O-,unknown,,Diabetes,,32/13/2024,12345,unknown
+,,unknown,Male,,83.6kg,130.1,Hypertension,4339.73,not available,invalid,CARD
+,,thirty,Female ,AB+,91.8,152.0,Flu,missing,not available,unknown,UPI
+763,Taylor Lopez,,FEMALE,O-,,error,Hypertension,,32/13/2024,invalid,Insurance
+PT-764,Brandi Hawkins,,Female ,unknown,54.0kg,143.5,Hypertension,missing,32/13/2024,4639897870,Insurance
+765,THOMAS VAUGHN,unknown,FEMALE,AB+,unknown,123.0,COVID,₹4590.78,not available,,Insurance
+,Robert Patrick,thirty,FEMALE,,,162.1,Diabetes,3071.64,,12345,CARD
+PT-767,???,29,unknown,,23.5,,covid,,2023-04-04,12345,Card 
+768,Joseph Carpenter,76,F,,61.5,,,1393.05,16 Apr 2022,,Card 
+PT-769,???,unknown,FEMALE,A+,27.6,error,Hypertension,,not available,+1-770-733-2105x888,CARD
+PT-770,ROBERT CRUZ,thirty,Female ,a+,34.8kg,,Hypertension,missing,16 Aug 2025,invalid,Cash
+PT-771,JAMES HENSON,,unknown,AB+,116.6,129.3,Diabetes,4724.85,not available,unknown,unknown
+,Joel Hall,,FEMALE,unknown,52.0kg,134.0 cm,COVID,,,,cash
+PT-773,,thirty,Female ,a+,103.1,129.3,,₹1778.79,,+1-931-504-9973x25911,Card 
+774,???,79,Male,A+,86.7,error,Hypertension,₹1500.25,not available,,CARD
+PT-775,,,M,,,161.8 cm,covid,₹3220.21,07-13-2025,invalid,Cash
+,???,thirty,FEMALE,B+,103.9kg,,???,2863.18,,12345,unknown
+,Rachel Gould,,Male,unknown,unknown,199.6 cm,Asthma,missing,32/13/2024,,Cash
+PT-778,Erika Tapia,,male,B+,,163.9 cm,???,₹1857.74,12-02-2023,,unknown
+,,,male,,,186.4 cm,Asthma,missing,32/13/2024,invalid,unknown
+,ANNETTE MATTHEWS,unknown,M,unknown,105.5kg,158.3,???,,2026-01-01,unknown,Card 
+781,Jonathon Smith,thirty,F,,116.9,195.6,COVID,492.51,,unknown,CARD
+,BECKY HENDRIX,,unknown,unknown,93.0kg,,,₹1479.35,32/13/2024,unknown,unknown
+,JEREMIAH ANDERSON,thirty,F,A+,,,Diabetes,4911.71,,,UPI
+784,JOHN SHEPHERD,thirty,,B+,unknown,194.4 cm,covid,,,(951)869-9123,Card 
+785,Phillip Hubbard,thirty,Male,AB+,95.0kg,error,Flu,missing,32/13/2024,12345,
+786,???,unknown,Male,unknown,unknown,error,Diabetes,missing,32/13/2024,unknown,Card 
+,???,,,a+,,160.0 cm,Flu,468.37,07/08/2023,12345,UPI
+,,unknown,,,80.6kg,189.3 cm,Asthma,₹4255.57,,9032102222,Insurance
+789,,95,,,,152.2,,,32/13/2024,102.478.4853x3345,Insurance
+790,,thirty,male,unknown,unknown,,covid,,,,CARD
+,Kristin Cummings,thirty,male,a+,,error,Asthma,missing,32/13/2024,12345,Cash
+PT-792,Sarah Alvarez,thirty,unknown,unknown,unknown,error,Hypertension,,04 Nov 2022,unknown,cash
+PT-793,KELLIE BROCK,,,AB+,73.9kg,error,???,3923.21,,,
+PT-794,TAYLOR RODRIGUEZ,,,unknown,103.7kg,,Diabetes,3973.59,32/13/2024,invalid,Cash
+,???,unknown,unknown,AB+,,165.5,Flu,missing,not available,12345,unknown
+PT-796,,thirty,F,,49.4kg,error,???,₹1188.77,not available,unknown,CARD
+PT-797,John Walsh,unknown,FEMALE,a+,,,Flu,₹942.1,not available,,Insurance
+798,DAVID FULLER,65,unknown,O-,,error,Diabetes,missing,20/11/2024,12345,UPI
+,Jimmy Stuart,87,male,AB+,36.5kg,176.4 cm,COVID,missing,not available,+1-451-115-5841x259,Insurance
+PT-800,,unknown,F,B+,unknown,,,3666.42,,invalid,Cash
+801,???,20,M,,unknown,134.2,,₹3064.85,not available,invalid,CARD
+802,???,thirty,FEMALE,O-,,,,₹1469.74,not available,,Insurance
+,???,unknown,unknown,O-,unknown,134.2,Hypertension,missing,18/03/2026,373-076-4298x587,Cash
+804,???,thirty,Female ,A+,115.8,183.9,Asthma,127.29,,,CARD
+,Mary Martin,unknown,M,,,,Flu,₹4266.68,,invalid,unknown
+806,William Fields,unknown,FEMALE,O-,48.8,184.4 cm,Hypertension,3711.53,32/13/2024,863.253.3201x389,UPI
+,William Davis,,Male,A+,,,covid,,,12345,CARD
+PT-808,,unknown,M,unknown,unknown,158.7,covid,,17/03/2024,unknown,Cash
+,MARVIN ARIAS,,male,unknown,26.3kg,183.0 cm,Flu,missing,32/13/2024,,Card 
+,,22,unknown,,52.7,138.9 cm,Asthma,missing,32/13/2024,invalid,UPI
+PT-811,,,,unknown,69.3kg,184.7,covid,,32/13/2024,unknown,
+812,SHANNON HORNE,thirty,,A+,,180.8,Asthma,missing,32/13/2024,12345,Cash
+,Lisa Snyder,unknown,unknown,unknown,106.3kg,error,,,not available,12345,Insurance
+,???,thirty,unknown,A+,99.9,error,Asthma,missing,27 Sep 2025,invalid,CARD
+815,Samantha Singh,thirty,FEMALE,,unknown,127.4 cm,,₹4352.5,13/01/2026,,unknown
+PT-816,Tyler Mcbride,,male,a+,116.7,170.7,Asthma,,32/13/2024,388.249.8078,cash
+,Jonathan Gordon,15,unknown,AB+,30.5,,Flu,,32/13/2024,404.473.5064,UPI
+,SHAWNA GENTRY,,F,B+,,error,Hypertension,₹3946.5,not available,638-714-5548,unknown
+,JENNA SPENCER,44,F,B+,48.7kg,185.9 cm,covid,,32/13/2024,,Insurance
+820,,3,Female ,AB+,,error,???,₹4627.7,03-15-2026,12345,Cash
+821,,,male,O-,,142.2,,,,12345,CARD
+822,???,68,F,O-,46.1,error,Diabetes,missing,,invalid,unknown
+PT-823,Eric Richard,,F,O-,104.4kg,187.3 cm,COVID,2362.55,2023-03-30,,cash
+824,RICHARD MORENO,,Female ,A+,64.9,159.1,Diabetes,missing,32/13/2024,,Cash
+,Casey Alvarado,44,,A+,,124.3 cm,covid,missing,,invalid,Card 
+PT-826,KIMBERLY WILSON,thirty,Male,A+,unknown,error,,245.45,32/13/2024,,unknown
+827,,,unknown,AB+,102.3,,Diabetes,,11 Jan 2024,invalid,Insurance
+,Michele Hunter,9,Male,AB+,78.9,error,Asthma,2765.0,05-06-2022,invalid,Card 
+,Teresa Hicks,thirty,Male,O-,unknown,,???,,09/10/2022,12345,
+,,88,unknown,AB+,80.3,152.9,Flu,1159.79,not available,12345,Card 
+831,???,thirty,Female ,unknown,unknown,,Diabetes,missing,32/13/2024,+1-409-281-0614x6297,Card 
+PT-832,Justin Young,,FEMALE,A+,25.5kg,error,Hypertension,4263.13,,12345,cash
+833,,unknown,Male,,,144.3 cm,Flu,missing,,,Insurance
+PT-834,Kelsey Brown,thirty,Male,,,157.9,Flu,4226.38,03 Sep 2024,725-331-8989x46270,CARD
+,,unknown,FEMALE,a+,76.0kg,,Diabetes,₹2985.32,not available,190-888-9258x865,unknown
+836,???,55,,a+,unknown,184.7 cm,covid,,32/13/2024,invalid,Cash
+,,unknown,unknown,AB+,,error,Flu,missing,32/13/2024,12345,Insurance
+,BRANDON TAPIA,,M,a+,20.0kg,152.0 cm,Diabetes,missing,32/13/2024,,
+,Eric Nguyen,55,male,A+,50.0,180.5 cm,covid,₹4936.97,17 Mar 2025,12345,Card 
+PT-840,,unknown,FEMALE,B+,24.4,152.0,Flu,missing,not available,821-350-6925x649,cash
+PT-841,???,84,Female ,unknown,,,Hypertension,missing,2023-01-08,unknown,
+,KAYLA FUENTES,unknown,male,AB+,47.1,187.2 cm,???,,,,
+PT-843,,unknown,male,O-,unknown,184.3,Flu,3639.67,not available,12345,unknown
+,Lisa Lopez,45,male,AB+,27.9,,Asthma,₹1317.91,not available,invalid,Cash
+PT-845,,1,Male,a+,77.2kg,error,Flu,,,unknown,
+PT-846,Jamie Bell,,M,B+,unknown,,,,32/13/2024,12345,Cash
+PT-847,MIKAYLA COOKE,unknown,M,,58.1kg,,covid,,not available,12345,Cash
+848,,thirty,male,B+,,,COVID,2066.06,2024-03-01,992.408.2777x658,CARD
+PT-849,Raymond Garcia,unknown,M,a+,99.7,120.5,Hypertension,,32/13/2024,12345,cash
+850,???,57,M,AB+,unknown,,Hypertension,₹643.45,not available,12345,
+PT-851,JO LEE,unknown,unknown,,unknown,error,COVID,₹956.66,not available,invalid,Insurance
+PT-852,Denise Gonzalez,,M,O-,,131.7 cm,Hypertension,₹4727.88,not available,,
+,Christopher Wilkerson,,unknown,,86.4kg,,Flu,missing,2022-05-08,001-392-328-9128x676,unknown
+854,David Aguilar,unknown,Female ,A+,119.4kg,163.6 cm,COVID,₹1224.24,2024-08-22,405-975-9259,cash
+,,,M,a+,unknown,error,covid,₹2194.74,05-10-2023,unknown,Card 
+PT-856,Erik Golden,unknown,Female ,unknown,,error,???,,25/01/2023,invalid,Insurance
+PT-857,KRISTINA HUGHES,62,M,,,,COVID,₹747.79,,12345,Card 
+858,John French,20,,A+,101.7kg,198.7,Asthma,922.14,32/13/2024,12345,Cash
+859,Megan Warren,,,AB+,57.9,,???,missing,,001-332-036-8470x11354,UPI
+860,PETER JOSEPH,unknown,F,unknown,44.4,142.1 cm,Asthma,missing,2022-07-24,650.536.5376,Card 
+,Charles Bell,,FEMALE,A+,unknown,,Hypertension,1723.9,,unknown,UPI
+862,Seth Nelson,,F,O-,90.9kg,,covid,missing,20 Nov 2022,,Cash
+PT-863,EILEEN DUNLAP,,Female ,O-,,132.7,Asthma,2745.68,15 Sep 2023,invalid,Cash
+PT-864,,unknown,,,,167.6 cm,Diabetes,missing,,+1-971-449-8153x70669,UPI
+865,Elizabeth Ramirez,unknown,FEMALE,A+,unknown,,,₹542.04,,,CARD
+866,Christine Gray,thirty,M,A+,79.2kg,134.2 cm,,,not available,invalid,CARD
+867,???,unknown,F,AB+,,130.1 cm,Flu,4238.36,2022-05-16,512-799-4654x423,unknown
+868,???,unknown,Male,AB+,unknown,157.6 cm,Flu,missing,2026-04-29,unknown,CARD
+869,???,,Female ,A+,,error,Diabetes,missing,2023-03-15,(498)295-6427,Insurance
+870,KIMBERLY BENNETT,60,male,O-,38.6,,Diabetes,4122.0,03 Mar 2026,unknown,Insurance
+,Christine Clark DDS,,M,unknown,unknown,error,Asthma,,,invalid,CARD
+,???,,male,AB+,28.8kg,error,Hypertension,1144.77,not available,133-189-9413x0029,CARD
+PT-873,,thirty,male,AB+,unknown,161.9 cm,covid,4369.65,,630.828.0936,unknown
+PT-874,NICHOLAS MORSE,thirty,M,O-,unknown,145.4 cm,???,missing,29/01/2024,invalid,Insurance
+875,,unknown,Male,AB+,unknown,196.9 cm,Asthma,2866.4,not available,invalid,cash
+876,,unknown,Male,unknown,30.2kg,128.0,,3916.65,32/13/2024,invalid,UPI
+,,,Male,unknown,90.3,169.7 cm,covid,4106.11,12/07/2022,+1-559-360-3983x0543,CARD
+878,,unknown,Male,A+,35.8,128.9 cm,Flu,missing,11-20-2023,unknown,UPI
+879,,,Female ,,32.9,error,Diabetes,4575.93,,invalid,Card 
+PT-880,Chad White,27,Male,O-,113.8kg,error,Hypertension,452.84,32/13/2024,,Insurance
+PT-881,HANNAH HENSON,unknown,FEMALE,A+,56.1,152.6,Diabetes,2049.14,,unknown,UPI
+882,KELLY CROSS,unknown,FEMALE,unknown,41.8kg,error,Asthma,,not available,invalid,Cash
+883,STEVEN TRAN,unknown,Male,A+,unknown,191.9 cm,COVID,₹2732.47,32/13/2024,,CARD
+884,KIM PEREZ,unknown,male,A+,21.5,171.5,covid,,32/13/2024,(578)302-0681x17734,CARD
+885,Bradley Gutierrez,,,B+,99.5,,covid,,16/07/2024,12345,unknown
+PT-886,PAUL RILEY,51,Female ,,87.1kg,190.8 cm,,1913.22,,(105)236-5576,CARD
+887,,15,F,,36.2,154.5 cm,Hypertension,₹3079.17,12-22-2025,,
+,Jerry Jackson,unknown,male,AB+,,136.9,covid,,,,Cash
+,Troy Reyes,thirty,,a+,89.9kg,198.3 cm,,missing,06-29-2024,001-490-624-8861,CARD
+890,,21,Male,B+,81.5kg,187.1 cm,Flu,missing,not available,unknown,UPI
+,NANCY VILLA,thirty,male,A+,unknown,166.2,Flu,₹3700.45,25/02/2026,invalid,CARD
+892,JAMES GUZMAN,,,O-,105.0,139.5,Flu,2566.36,,12345,Cash
+,Casey Stephens,thirty,,AB+,66.0,168.9,Diabetes,3293.63,,invalid,unknown
+,Tammy Carpenter,thirty,male,,unknown,151.0 cm,Flu,₹4027.15,,(787)961-0227,Cash
+PT-895,,unknown,unknown,,117.0,176.0 cm,Hypertension,missing,not available,,UPI
+PT-896,???,84,,AB+,unknown,135.1 cm,???,,32/13/2024,12345,CARD
+PT-897,PAMELA SMITH,56,male,O-,,error,covid,1406.12,12 May 2023,,unknown
+898,DANIEL ANDERSON,unknown,male,unknown,unknown,164.8 cm,Flu,missing,not available,001-429-607-3556x4411,Insurance
+,DANIELLE RAMIREZ,thirty,M,B+,23.5kg,error,,missing,,,UPI
+PT-900,???,,M,unknown,unknown,148.8 cm,???,missing,,+1-987-515-0401,unknown
+901,???,17,FEMALE,O-,48.6,error,Hypertension,,not available,invalid,unknown
+PT-902,???,thirty,male,,unknown,130.9,COVID,missing,32/13/2024,12345,CARD
+PT-903,Christine Brown,unknown,M,B+,,181.6 cm,Hypertension,4809.15,,,Insurance
+904,HECTOR PITTMAN,16,F,unknown,unknown,error,Flu,,,028-347-9013x4570,cash
+PT-905,TAMMY BARKER,thirty,Male,unknown,99.7kg,,Flu,missing,32/13/2024,unknown,Cash
+906,???,8,F,,35.3,error,Diabetes,,32/13/2024,(534)712-2017x51334,UPI
+907,???,thirty,male,AB+,22.6,,Hypertension,2522.45,32/13/2024,unknown,Insurance
+PT-908,KIRK JENKINS,,FEMALE,unknown,,error,covid,₹4313.05,32/13/2024,12345,
+909,BRYAN BURGESS,thirty,Male,O-,67.4kg,138.0 cm,???,2191.43,21 Sep 2023,001-569-114-5398,
+910,LEAH PETTY,,male,,35.8kg,,Hypertension,₹588.91,23/03/2023,unknown,unknown
+,???,unknown,unknown,AB+,unknown,136.8 cm,Flu,794.01,not available,invalid,CARD
+PT-912,SHANE FREEMAN,thirty,FEMALE,unknown,,error,Asthma,,32/13/2024,(817)587-2756,cash
+,Christina Eaton,,,O-,,error,Hypertension,3300.69,32/13/2024,unknown,CARD
+PT-914,Lisa Perez,unknown,unknown,B+,unknown,error,,320.66,not available,587-792-1466,unknown
+,???,10,F,O-,62.8,150.1 cm,covid,₹2533.59,06 Jan 2026,12345,Cash
+PT-916,JAIME TATE,thirty,Male,A+,82.3,172.9 cm,COVID,₹1088.75,,unknown,
+PT-917,Robert Meyers,,Female ,A+,,183.8 cm,Flu,2245.46,,,unknown
+PT-918,HANNAH COLEMAN,thirty,M,B+,,error,Flu,₹809.19,not available,+1-351-247-3545x036,Insurance
+PT-919,,unknown,,,112.2,,???,,not available,,
+,,40,unknown,,,error,Diabetes,missing,,12345,Cash
+,,,FEMALE,AB+,unknown,175.7 cm,covid,,32/13/2024,invalid,Insurance
+922,MELISSA DAVIS,thirty,,AB+,62.7kg,error,covid,missing,32/13/2024,invalid,Insurance
+PT-923,???,unknown,M,,27.3,194.2 cm,Asthma,missing,not available,12345,UPI
+PT-924,???,thirty,FEMALE,B+,,177.8 cm,COVID,588.82,32/13/2024,+1-805-141-4177x2800,CARD
+925,,,F,O-,71.9kg,,covid,₹4021.73,32/13/2024,942-311-9104,Cash
+PT-926,???,,M,AB+,34.8kg,185.8 cm,covid,₹3916.05,,invalid,unknown
+927,???,unknown,,A+,75.5,193.8,COVID,₹2807.5,,unknown,Card 
+928,Kyle Bass,unknown,Male,B+,,173.7 cm,Diabetes,,not available,unknown,Card 
+,Patricia Robbins,unknown,Female ,unknown,,182.5,Diabetes,missing,not available,unknown,Cash
+930,Kevin Ruiz,,,O-,26.4,144.2,Flu,missing,32/13/2024,,UPI
+PT-931,,thirty,,,107.2kg,130.7 cm,Asthma,missing,32/13/2024,12345,Cash
+932,Mary Robles,thirty,M,AB+,66.8,,covid,,not available,invalid,Card 
+,Eric Juarez,unknown,F,B+,114.2kg,error,,missing,03/05/2022,12345,UPI
+PT-934,Joseph Rice,75,male,AB+,115.8kg,143.4,,missing,26 Aug 2022,unknown,
+PT-935,???,53,FEMALE,O-,56.0kg,193.6 cm,,3181.72,not available,,Cash
+,???,,M,unknown,70.7kg,158.8 cm,,₹4708.39,17/10/2025,609.946.0509x9298,Cash
+937,,66,Female ,unknown,,184.6,Hypertension,,32/13/2024,,CARD
+PT-938,Amanda Vargas,unknown,F,B+,79.8,133.8 cm,,₹3767.35,32/13/2024,12345,Cash
+PT-939,???,thirty,male,AB+,unknown,171.7 cm,Asthma,₹107.39,not available,invalid,
+940,???,,F,A+,22.1kg,,covid,missing,,invalid,CARD
+PT-941,,thirty,FEMALE,a+,unknown,,covid,missing,05/03/2023,unknown,cash
+PT-942,???,70,FEMALE,,unknown,194.2 cm,COVID,,32/13/2024,,Insurance
+PT-943,,,Female ,AB+,,error,Flu,missing,08-20-2022,,Insurance
+944,THOMAS DICKERSON,27,Female ,unknown,73.8,162.8 cm,Flu,₹3247.59,32/13/2024,(841)584-0433,Insurance
+,???,66,F,a+,,error,Diabetes,missing,,invalid,UPI
+946,Phillip Ferguson,,FEMALE,a+,,162.0 cm,covid,,not available,unknown,UPI
+,Kelly Johnson,,FEMALE,B+,38.0kg,154.9 cm,Flu,missing,2022-06-26,invalid,CARD
+,???,thirty,male,O-,93.3,,Flu,missing,32/13/2024,,Card 
+949,Amber Daniels,thirty,unknown,AB+,93.8kg,error,Asthma,₹2742.28,32/13/2024,(294)085-1229,Cash
+PT-950,Erica Fuentes,thirty,M,B+,108.6,164.3 cm,???,4228.01,,,unknown
+951,,thirty,Female ,B+,119.3kg,,Asthma,1151.0,07-09-2023,,unknown
+952,,59,Female ,AB+,75.2,126.0 cm,Flu,₹1205.48,not available,12345,
+,Lisa Ryan,,F,unknown,113.8,,???,missing,03/02/2023,,cash
+,???,32,FEMALE,AB+,80.7,156.9,covid,₹2153.1,not available,unknown,CARD
+,Jennifer Marshall,thirty,unknown,AB+,,error,Hypertension,missing,not available,invalid,Card 
+,???,,Male,,49.8kg,,COVID,,12-25-2023,unknown,unknown
+PT-957,William Henderson,72,,O-,unknown,error,???,₹4772.68,12-11-2022,unknown,
+958,???,unknown,Female ,AB+,93.3,199.8,COVID,₹148.39,21 Aug 2022,invalid,CARD
+959,Susan Skinner MD,,FEMALE,AB+,23.9,error,COVID,₹611.44,08/05/2026,invalid,
+PT-960,AMANDA ELLIOTT,,M,,unknown,153.3,Flu,missing,2026-04-13,12345,Cash
+,???,,unknown,A+,unknown,error,???,₹2833.99,,unknown,Cash
+,,93,male,a+,67.2,170.5 cm,???,1924.57,not available,invalid,UPI
+963,Dennis Rodgers,,M,unknown,,error,Diabetes,₹3958.25,not available,,unknown
+PT-964,DAVID HOUSTON,,FEMALE,B+,113.9,error,,missing,not available,,UPI
+,???,thirty,unknown,O-,104.8kg,,Hypertension,missing,32/13/2024,,Cash
+966,ANDREA BROOKS,thirty,FEMALE,A+,,182.3 cm,,missing,not available,,Insurance
+,???,unknown,FEMALE,B+,unknown,131.2,???,,,308.148.0484,Cash
+PT-968,Carolyn Carlson,68,F,O-,,error,Asthma,,05-22-2023,unknown,cash
+PT-969,???,,Female ,O-,110.1kg,122.9,Asthma,,32/13/2024,12345,CARD
+PT-970,Robert Nichols,,FEMALE,,26.8kg,158.4,COVID,missing,not available,12345,cash
+PT-971,???,unknown,Female ,O-,92.9,128.1,covid,missing,,3901398049,
+PT-972,,,male,O-,101.4kg,,???,1383.77,2022-12-08,001-831-784-6631x1802,Cash
+,???,thirty,Male,a+,unknown,,COVID,missing,not available,,
+,???,thirty,F,,unknown,180.3,Diabetes,,32/13/2024,invalid,Card 
+,,,Male,O-,unknown,error,Asthma,₹3826.69,03 Jun 2023,001-044-547-0060x6770,CARD
+,JENNIFER RANGEL,82,Female ,a+,70.3,,Hypertension,1448.0,24/03/2026,unknown,
+,Andre Bass,unknown,FEMALE,a+,112.5kg,137.7,covid,3748.12,22 Apr 2022,invalid,Card 
+978,,3,male,a+,44.1,188.6 cm,,missing,32/13/2024,unknown,Cash
+,Matthew Newton,unknown,male,,unknown,error,Asthma,3601.7,32/13/2024,unknown,unknown
+980,,thirty,F,a+,60.1kg,136.7,Diabetes,,not available,unknown,Card 
+981,???,,Female ,a+,unknown,,COVID,1305.89,32/13/2024,unknown,
+982,,thirty,unknown,,unknown,193.1,???,,2025-12-04,,
+PT-983,JACK OCHOA,unknown,unknown,,46.6,123.0,Flu,missing,,12345,unknown
+984,Brenda Robinson,unknown,M,AB+,95.5kg,167.4,???,,02-06-2024,,CARD
+985,???,,M,,52.0,error,,,11/11/2024,unknown,cash
+986,,35,Female ,O-,114.7,,,₹1859.81,32/13/2024,unknown,UPI
+PT-987,,unknown,male,B+,91.7,,Diabetes,₹725.81,32/13/2024,(908)128-8501x81729,UPI
+988,NICOLE WALLACE,30,Male,unknown,65.0kg,120.6,Diabetes,missing,32/13/2024,invalid,Insurance
+989,Paul Rasmussen,,M,A+,112.4kg,,Diabetes,,not available,,unknown
+990,THOMAS GRAVES,unknown,male,AB+,99.3kg,141.2 cm,Flu,2154.16,not available,unknown,unknown
+991,,28,,A+,59.9kg,124.5,Diabetes,₹3919.22,32/13/2024,001-012-256-9497x69871,Insurance
+992,,70,Male,O-,66.5,159.6 cm,covid,4781.04,32/13/2024,,
+993,GEORGE WILSON,,FEMALE,B+,,,Hypertension,₹2528.51,not available,invalid,UPI
+,,,male,a+,36.7,error,COVID,₹363.59,not available,12345,CARD
+PT-995,JUSTIN BRAUN,,Male,B+,unknown,180.4,COVID,,05 May 2025,12345,CARD
+PT-996,???,41,Female ,B+,,168.2,Flu,missing,01-29-2023,unknown,Cash
+997,John Bruce,14,F,a+,104.2kg,,COVID,,,,unknown
+998,GINA JOHNSON,,Male,A+,,160.9 cm,,4122.24,2023-03-10,unknown,UPI
+,ROBERT PHAM,,M,A+,77.1kg,197.0 cm,Asthma,missing,,invalid,
+1000,SUSAN JENKINS,thirty,unknown,O-,47.4,199.8 cm,,3462.96,05-04-2024,12345,Card 
+1001,Daniel Collins,3,unknown,B+,,156.3,Diabetes,2629.17,09-03-2025,unknown,Cash
+1002,Yvette Holt,thirty,Female ,B+,,,Diabetes,missing,,unknown,UPI
+PT-1003,TODD WILSON,6,Male,a+,unknown,174.7,Hypertension,,2025-11-22,invalid,cash
+,???,unknown,F,a+,unknown,error,Diabetes,₹1096.92,,001-550-117-3021x196,
+PT-1005,,unknown,M,a+,,154.6,Hypertension,386.94,32/13/2024,12345,Card 
+,,unknown,Male,B+,116.1,162.5,,₹1691.33,not available,12345,unknown
+PT-1007,KIMBERLY SALAZAR,unknown,,A+,20.8,164.8 cm,covid,,not available,invalid,Cash
+PT-1008,,15,Male,AB+,unknown,154.1,Flu,,2025-11-13,12345,Card 
+1009,,unknown,male,B+,unknown,,covid,missing,08 Aug 2024,invalid,CARD
+1010,,thirty,M,AB+,102.5,,Asthma,₹1614.73,not available,,unknown
+1011,,thirty,FEMALE,O-,94.9kg,173.5 cm,???,,not available,unknown,CARD
+1012,???,,unknown,,unknown,,Hypertension,₹2933.09,2024-04-29,unknown,cash
+,???,,M,B+,unknown,error,???,₹3794.11,25/09/2025,invalid,unknown
+PT-1014,???,unknown,M,a+,,error,Hypertension,,32/13/2024,unknown,Card 
+1015,,unknown,Female ,O-,98.9kg,error,???,,not available,(253)112-2309x6914,cash
+1016,MICHAEL ROMAN,thirty,F,O-,39.6,184.2,Hypertension,,,12345,cash
+,,7,Female ,B+,26.2,167.6,Hypertension,538.38,,+1-525-370-3821x82631,Card 
+1018,,,unknown,A+,,error,Diabetes,missing,not available,invalid,Cash
+,John Nelson,thirty,,O-,42.3,,Diabetes,2411.2,,+1-050-726-2623x3778,unknown
+1020,,4,,,,140.1,Asthma,2477.31,05 Nov 2023,244-802-4757x45916,CARD
+PT-1021,Kristy Brown,unknown,F,AB+,106.7,error,Asthma,,23/04/2025,unknown,Cash
+PT-1022,,unknown,,O-,,error,Hypertension,₹3481.46,32/13/2024,(214)821-9555x80279,Insurance
+1023,Heather Simpson,unknown,FEMALE,AB+,27.3,error,Flu,1482.14,32/13/2024,invalid,UPI
+,Harold Mendez,29,Male,O-,111.3,145.3 cm,Diabetes,822.06,not available,,unknown
+,???,thirty,Female ,unknown,unknown,138.6,Diabetes,missing,not available,12345,
+,,unknown,,B+,75.2,,,₹582.55,,,cash
+PT-1027,???,thirty,unknown,,,132.9,Flu,missing,,unknown,CARD
+1028,???,,male,A+,,error,,₹3241.96,32/13/2024,+1-932-288-7993,
+PT-1029,???,30,FEMALE,AB+,unknown,,Flu,₹893.79,,,unknown
+1030,,unknown,Male,AB+,61.7,191.4 cm,Flu,₹431.23,,unknown,unknown
+,LINDSEY BURTON,thirty,Female ,a+,,168.6,COVID,,32/13/2024,(552)501-1398x57562,Insurance
+PT-1032,PAMELA TURNER,34,F,,72.5kg,157.9,covid,missing,32/13/2024,invalid,unknown
+PT-1033,Bobby Montes,,,AB+,54.4kg,154.9,Asthma,₹2682.15,32/13/2024,unknown,CARD
+PT-1034,KATHLEEN ACEVEDO,24,FEMALE,B+,114.4,,covid,3291.12,,12345,Cash
+PT-1035,CRYSTAL PEARSON,unknown,male,O-,75.2kg,122.6,???,₹138.53,32/13/2024,unknown,Cash
+1036,???,,M,AB+,102.9,189.5,Asthma,₹493.89,not available,879-819-9883x031,Cash
+PT-1037,MRS. CONNIE DEAN,thirty,unknown,,unknown,150.1,,,04/12/2023,,Card 
+,Michael Campos,,F,O-,unknown,168.3 cm,Flu,,32/13/2024,,cash
+PT-1039,THOMAS MORGAN,45,M,,62.9kg,,???,,not available,12345,
+PT-1040,???,,Male,a+,105.9,error,???,4247.79,2023-04-18,,CARD
+,Kristen Duffy,thirty,male,O-,114.4kg,169.6,Asthma,₹868.7,32/13/2024,459.293.8240x781,CARD
+1042,???,9,FEMALE,,unknown,147.5,Asthma,4947.62,not available,12345,Card 
+1043,HENRY WATSON,unknown,Female ,AB+,79.2kg,error,Asthma,missing,32/13/2024,,Cash
+PT-1044,???,,F,,81.2,,???,missing,not available,12345,cash
+1045,,unknown,male,a+,40.3,,Hypertension,missing,32/13/2024,unknown,UPI
+PT-1046,???,,M,AB+,30.3,,Asthma,₹2898.3,not available,12345,UPI
+1047,PATRICIA PEREZ,22,male,O-,unknown,127.5 cm,Flu,missing,,unknown,
+,VICTORIA GARZA,,FEMALE,O-,45.1kg,127.5 cm,COVID,3178.58,16/01/2023,invalid,
+PT-1049,Joseph Wang,,unknown,,116.2kg,,covid,566.85,,,UPI
+PT-1050,???,unknown,F,unknown,39.2kg,,,761.38,,unknown,CARD
+,JENNIFER JOHNSON,unknown,Female ,,unknown,166.8 cm,Flu,945.81,not available,unknown,CARD
+PT-1052,,,Female ,a+,96.0,195.7 cm,Asthma,₹527.23,2023-01-09,,unknown
+PT-1053,SHEILA DORSEY,,Male,B+,unknown,error,???,missing,2022-09-22,12345,cash
+1054,Jasmine Parker,thirty,Female ,O-,73.9kg,,Hypertension,,,(432)160-7747x414,CARD
+PT-1055,,85,F,AB+,,,Flu,missing,not available,12345,
+1056,KEVIN KOCH,,male,AB+,85.9kg,136.4 cm,???,missing,,invalid,CARD
+1057,William Jimenez,unknown,M,,111.5kg,,covid,2435.38,not available,,UPI
+1058,Kathleen Gonzalez,,male,AB+,,,Asthma,944.93,32/13/2024,unknown,UPI
+PT-1059,???,,FEMALE,B+,unknown,,COVID,2298.31,not available,,Insurance
+,JENNIFER COOK,thirty,unknown,a+,,error,Hypertension,3298.9,32/13/2024,,Insurance
+,???,unknown,FEMALE,A+,unknown,182.4,Asthma,,,unknown,cash
+PT-1062,JAMES PARKER,unknown,M,B+,,error,???,,32/13/2024,unknown,cash
+PT-1063,???,89,F,,71.8,,Flu,missing,,,unknown
+1064,???,unknown,unknown,,108.2,error,???,3001.49,,12345,Cash
+PT-1065,,90,FEMALE,B+,,192.9,Diabetes,,not available,,Cash
+PT-1066,,,Female ,O-,,error,covid,missing,32/13/2024,6339395142,
+1067,???,,male,a+,,151.3 cm,Diabetes,₹2070.87,,12345,CARD
+,Elizabeth Garcia,thirty,,A+,unknown,181.6 cm,,543.14,not available,,UPI
+1069,,unknown,FEMALE,A+,89.5kg,127.0 cm,covid,1582.19,not available,,unknown
+PT-1070,Brianna Adkins,thirty,male,a+,73.9kg,140.7 cm,COVID,missing,30/08/2022,12345,cash
+PT-1071,Alisha Morgan,,Male,AB+,unknown,error,Diabetes,missing,05/02/2023,invalid,Cash
+1072,,6,,A+,,170.5,Asthma,252.33,,12345,unknown
+1073,MICHELLE MASON,,FEMALE,unknown,unknown,187.4,Diabetes,missing,,invalid,cash
+1074,,70,unknown,a+,,,???,2020.37,19/05/2023,12345,cash
+PT-1075,Thomas Hamilton PhD,thirty,unknown,B+,unknown,,Flu,,32/13/2024,437-353-9951x030,UPI
+,JAMES GILBERT,thirty,F,B+,60.8,132.5 cm,,missing,,(374)910-4815x13229,Card 
+,,,Male,B+,,error,Diabetes,,,invalid,UPI
+,David Bradley,,M,,71.0kg,,,,32/13/2024,12345,Card 
+PT-1079,Angela Love,,,a+,,error,COVID,₹2474.55,not available,12345,unknown
+1080,AMANDA SMITH,thirty,Male,AB+,,,Flu,₹1789.29,32/13/2024,invalid,
+PT-1081,,,,a+,,error,Flu,missing,11/12/2022,invalid,Card 
+,CHRISTOPHER SANTIAGO,77,FEMALE,B+,60.2,,???,819.29,23/08/2024,invalid,cash
+1083,???,16,Female ,a+,69.6kg,,Flu,,,invalid,CARD
+,MS. AMANDA WILLIAMS MD,38,F,a+,117.0,138.7 cm,Diabetes,,not available,,unknown
+1085,Dana Richard,unknown,unknown,a+,,172.7,,,,12345,UPI
+1086,???,unknown,,O-,36.3kg,,covid,4267.06,,12345,CARD
+1087,,45,Female ,AB+,77.6kg,error,Hypertension,₹2626.62,05 Mar 2025,12345,UPI
+,JENNIFER TORRES,unknown,M,,64.9,182.4,,₹2719.27,02-02-2025,982-698-1841x5700,
+PT-1089,???,10,,unknown,unknown,175.6 cm,covid,₹1823.21,2024-12-02,,Insurance
+,Brian Martinez,unknown,male,unknown,,,covid,,,729-259-2092x46850,Cash
+PT-1091,Caitlyn Roberts,thirty,Male,unknown,51.1,198.8 cm,Flu,973.23,,unknown,CARD
+,Jeffrey Malone,unknown,unknown,unknown,114.9,172.8,Flu,missing,not available,unknown,Card 
+1093,BRITTANY MILLER,,FEMALE,B+,,144.0,???,,11/02/2026,+1-779-265-0816,cash
+,???,29,male,B+,,error,covid,,01/01/2025,640-280-7582x57973,unknown
+1095,???,thirty,FEMALE,A+,,error,covid,3584.72,32/13/2024,220.262.7589x774,
+1096,???,50,F,unknown,,199.8 cm,???,,32/13/2024,+1-752-747-8732,CARD
+,,unknown,Male,B+,,,Diabetes,,,unknown,Card 
+PT-1098,Andrew Ford,48,FEMALE,unknown,,141.3,Diabetes,4311.95,32/13/2024,648-001-7042,CARD
+PT-1099,SHAWN SHARP,unknown,F,B+,,error,Asthma,₹2914.94,2024-02-26,,unknown
+1100,DAVID TURNER,unknown,,O-,unknown,167.2 cm,Diabetes,missing,not available,12345,cash
+1101,Mackenzie Baker,81,unknown,O-,unknown,error,???,₹868.81,32/13/2024,826.505.6851x3187,
+,,unknown,unknown,AB+,,153.6 cm,COVID,2754.63,32/13/2024,unknown,unknown
+1103,VICTORIA DAVIDSON,unknown,male,O-,unknown,196.4,,1228.96,25 Dec 2023,invalid,unknown
+1104,???,,Male,O-,32.9,error,,,32/13/2024,+1-569-419-2508x821,Insurance
+,,75,F,unknown,66.0,,???,,,invalid,unknown
+1106,BRYAN BREWER,unknown,,O-,,,Diabetes,,not available,12345,Cash
+,Stephanie Joseph,thirty,FEMALE,A+,63.2kg,188.0 cm,,₹3444.8,not available,invalid,Cash
+1108,TYLER RIVAS,thirty,FEMALE,,,188.8 cm,COVID,₹2419.65,32/13/2024,,Insurance
+,REBECCA WHITE,thirty,Female ,unknown,unknown,,Asthma,missing,32/13/2024,invalid,
+,John Campbell,thirty,Male,,unknown,error,covid,,16 Jul 2024,12345,Card 
+1111,Scott Ramirez,,M,B+,,178.0 cm,Flu,₹2390.45,,,Cash
+PT-1112,,,Male,,unknown,124.2,covid,missing,08-05-2025,(543)079-1903,
+,???,94,FEMALE,AB+,,180.7 cm,???,2321.87,11/12/2023,606.065.8336x19951,Card 
+,,unknown,unknown,,46.2,error,,₹1123.44,not available,,cash
+PT-1115,,unknown,F,A+,79.7kg,,COVID,₹745.76,,(145)021-0519x91305,CARD
+1116,KYLE MALDONADO,92,male,O-,unknown,138.2,Flu,₹2240.99,not available,unknown,UPI
+1117,GREGORY BLACK,,,unknown,69.2kg,,,missing,22 Dec 2025,unknown,cash
+,MELANIE HILL,unknown,F,AB+,unknown,error,???,,10/04/2025,,
+1119,KERRI FOX,51,Male,,77.4kg,150.7 cm,Diabetes,missing,,invalid,Insurance
+PT-1120,,unknown,F,AB+,119.1kg,140.4,Diabetes,missing,32/13/2024,invalid,Cash
+PT-1121,Olivia Hernandez,,F,O-,unknown,,COVID,₹4028.21,,627.355.1962x533,Card 
+PT-1122,,6,,A+,115.8,error,Flu,,05/01/2026,invalid,Cash
+,DOUGLAS GOLDEN,unknown,male,B+,,,,,not available,12345,UPI
+1124,JONATHAN JENKINS,,M,a+,21.3,,,1565.86,,12345,UPI
+,Rebecca Hernandez,44,FEMALE,unknown,unknown,141.6,Asthma,₹1833.49,06-28-2024,unknown,Card 
+PT-1126,MEGAN REID MD,thirty,male,a+,,error,covid,missing,not available,,CARD
+1127,Alyssa Davis,thirty,F,,unknown,153.6 cm,Asthma,924.74,,,UPI
+1128,,,M,a+,,,Flu,4232.78,2024-04-09,unknown,CARD
+PT-1129,TYLER FRANK,unknown,F,a+,51.2,194.2 cm,Flu,,08 Sep 2025,12345,CARD
+1130,,87,Male,unknown,,,Diabetes,,not available,2449283233,
+PT-1131,,unknown,Female ,a+,72.5,,Hypertension,,not available,invalid,unknown
+1132,,thirty,M,a+,71.2,,???,,32/13/2024,(568)925-1397x8877,Cash
+,???,95,male,B+,,187.8,Flu,,,,Cash
+1134,Jacob Dickson,thirty,Female ,AB+,78.9kg,168.5 cm,Asthma,,,+1-240-239-4486x607,Card 
+,???,,,O-,81.4kg,error,,₹2485.51,32/13/2024,0824017786,Insurance
+PT-1136,???,81,F,AB+,23.3kg,162.0 cm,COVID,3583.45,32/13/2024,(529)926-3354x8192,cash
+PT-1137,Mark Parker,,Male,unknown,30.2kg,error,Diabetes,,,,cash
+,Sean Smith,,,a+,25.3kg,error,covid,,09-14-2023,12345,unknown
+,,39,male,AB+,unknown,180.7 cm,Hypertension,missing,32/13/2024,unknown,Card 
+1140,,thirty,Male,B+,unknown,173.0 cm,Asthma,,not available,invalid,Card 
+,,50,,B+,,176.7,covid,missing,,invalid,cash
+PT-1142,Jason Costa,57,F,A+,114.8,161.1,COVID,missing,,088.723.2798x493,UPI
+,SCOTT SANDERS,,,O-,119.6kg,143.1 cm,Asthma,₹240.49,12-22-2023,,unknown
+,REBECCA MILLER,thirty,unknown,AB+,,199.2,Diabetes,,32/13/2024,001-170-251-5294x2138,CARD
+1145,FREDERICK JOHNSON,thirty,M,a+,24.0kg,197.8 cm,???,2492.29,,,cash
+PT-1146,AMBER GOODMAN,unknown,M,,60.4,error,Hypertension,missing,32/13/2024,unknown,Cash
+1147,,,FEMALE,AB+,unknown,error,covid,₹873.96,,invalid,cash
+PT-1148,Dustin Solis,thirty,F,A+,unknown,178.3 cm,COVID,missing,,12345,CARD
+,GINA COLEMAN DDS,74,M,AB+,95.5,,Hypertension,₹2462.79,07-09-2025,(361)795-6901,UPI
+,,,F,B+,26.4,error,Asthma,,27/10/2025,,Insurance
+,Alice Vargas DVM,8,,B+,28.6,error,Asthma,₹2720.82,2022-10-25,unknown,cash
+,,13,unknown,unknown,62.3kg,146.5,???,3247.34,32/13/2024,12345,cash
+PT-1153,???,thirty,Male,AB+,23.3,error,covid,missing,not available,177.417.6815x060,cash
+PT-1154,TIMOTHY DAY,,unknown,AB+,unknown,167.1 cm,Diabetes,,32/13/2024,12345,CARD
+1155,???,5,F,B+,78.7kg,,Flu,3309.57,32/13/2024,invalid,UPI
+1156,ANTHONY STAFFORD,74,Female ,B+,,129.3 cm,Flu,missing,not available,12345,Card 
+PT-1157,KEVIN MAY,,M,,,,???,1047.3,32/13/2024,unknown,
+,,thirty,M,unknown,unknown,157.8 cm,covid,missing,,unknown,Insurance
+PT-1159,James Serrano,,unknown,B+,57.0,error,Hypertension,missing,,,Insurance
+1160,???,unknown,unknown,AB+,unknown,,Flu,missing,not available,12345,unknown
+PT-1161,RHONDA RODRIGUEZ,39,F,AB+,,179.6 cm,covid,missing,,12345,Cash
+PT-1162,Matthew Berry,thirty,M,a+,67.0,148.4 cm,Hypertension,₹4494.99,17 Jun 2022,001-762-383-0180x051,Card 
+1163,,,FEMALE,AB+,25.9,,,4798.74,,invalid,Card 
+1164,NICOLE KAUFMAN,unknown,unknown,,,error,Flu,₹4958.33,not available,unknown,Card 
+1165,Philip Alexander,thirty,M,A+,unknown,160.5,Flu,,,+1-422-593-5087x44607,unknown
+PT-1166,Adam Ball,thirty,Female ,O-,42.1,error,Diabetes,₹3902.75,03-04-2023,0920265503,Card 
+1167,CHRISTINA GRAY,unknown,Female ,AB+,,error,Hypertension,missing,2025-11-09,unknown,
+,ANGELA HODGES,5,M,a+,unknown,166.3,Diabetes,₹1626.6,,unknown,cash
+PT-1169,James Hamilton,10,Female ,O-,115.5kg,error,COVID,2812.23,32/13/2024,401.098.4332x0348,unknown
+1170,,73,,,79.2kg,193.7,covid,3957.3,32/13/2024,12345,cash
+,???,thirty,M,AB+,86.9,,COVID,1653.86,,unknown,Insurance
+PT-1172,,,Female ,a+,27.2,error,Hypertension,missing,32/13/2024,(853)524-7346x556,Insurance
+PT-1173,Edward Le,thirty,male,O-,,197.3,???,missing,32/13/2024,unknown,UPI
+1174,Valerie King,unknown,M,AB+,,error,covid,₹3062.09,not available,002.713.2434,Insurance
+PT-1175,,,Female ,O-,70.5kg,188.1,,missing,01-31-2024,invalid,unknown
+1176,,3,male,O-,unknown,,???,,2025-10-11,unknown,unknown
+,Matthew Roach,unknown,male,AB+,,152.6,Hypertension,₹3984.44,32/13/2024,,CARD
+1178,EMILY KNIGHT,thirty,M,A+,67.1kg,error,Diabetes,missing,32/13/2024,invalid,cash
+,Robert Mullen,unknown,Male,,97.4kg,,Flu,₹3251.33,not available,+1-667-846-7754x40315,Insurance
+PT-1180,William Mercado,,Female ,A+,32.8,error,covid,missing,not available,invalid,
+,,unknown,FEMALE,a+,28.5kg,error,,4908.56,,,cash
+,CARRIE FRANKLIN,thirty,,O-,,error,covid,missing,01-12-2023,,UPI
+1183,Robert Norman,,Male,unknown,,121.2,???,₹2352.52,not available,unknown,Cash
+1184,,thirty,,AB+,29.3,143.9,Flu,missing,,,CARD
+,,unknown,M,AB+,69.9kg,145.8,COVID,₹1277.9,32/13/2024,invalid,Cash
+1186,???,,FEMALE,O-,53.1kg,195.4,covid,missing,,12345,
+,,thirty,M,B+,26.1kg,error,COVID,1858.3,,12345,Cash
+PT-1188,Robin Klein,,unknown,B+,110.5,error,Flu,3041.17,,unknown,CARD
+1189,???,thirty,FEMALE,AB+,58.2,error,Diabetes,₹693.44,25/01/2023,invalid,Insurance
+1190,MICHAEL SMITH,20,unknown,A+,24.9kg,136.9 cm,,3060.56,2026-05-05,12345,Insurance
+PT-1191,Joseph Griffin,thirty,FEMALE,,unknown,error,covid,,32/13/2024,(966)195-1171x5218,UPI
+PT-1192,GREGORY MUNOZ,thirty,male,AB+,85.1,,COVID,4205.55,not available,12345,cash
+1193,,,unknown,unknown,25.8kg,,Hypertension,₹3940.39,not available,unknown,Cash
+PT-1194,Christine Davis,93,FEMALE,B+,,,Diabetes,,32/13/2024,12345,CARD
+1195,,unknown,FEMALE,A+,unknown,149.4 cm,,₹1501.73,32/13/2024,(983)774-4614x3594,Cash
+1196,TAMMY BURTON,unknown,Female ,a+,76.5kg,189.9,Asthma,,32/13/2024,unknown,UPI
+1197,,thirty,,AB+,unknown,193.5 cm,Diabetes,561.81,32/13/2024,unknown,unknown
+PT-1198,KIMBERLY PATTERSON,,Female ,,26.4kg,error,covid,₹4058.21,,invalid,unknown
+,,unknown,,a+,62.6kg,error,covid,,not available,937-240-1809,unknown
+,TINA RAMIREZ,,F,AB+,73.4,,Flu,,not available,611-914-8929,
+,KENNETH JOHNSON,unknown,FEMALE,A+,,189.5,Flu,,not available,invalid,
+,,unknown,male,,72.0,136.3 cm,Hypertension,₹2821.95,,12345,Cash
+,???,41,unknown,AB+,60.0,152.6 cm,Flu,,2025-03-25,(346)521-9135x88062,CARD
+1204,Ann Bryant,unknown,M,B+,45.3kg,,,₹1967.03,,910-296-8089x13625,Card 
+PT-1205,Jordan Humphrey,unknown,M,AB+,107.7,,COVID,2884.47,not available,,Insurance
+1206,GABRIEL THOMPSON,48,Male,A+,,128.8,Diabetes,1162.01,10-01-2024,736-059-4658x34036,UPI
+1207,???,31,F,AB+,58.5,186.7 cm,Hypertension,,not available,invalid,Cash
+1208,Haley Thomas,80,male,AB+,unknown,,COVID,276.85,27 Jun 2025,unknown,Card 
+PT-1209,Sherry Johnson,56,male,O-,,,???,₹2937.8,32/13/2024,unknown,cash
+PT-1210,Amanda Stevens,unknown,Male,O-,unknown,135.2,covid,₹2254.69,32/13/2024,invalid,Card 
+1211,LISA LUCAS,thirty,unknown,AB+,,error,COVID,,18/12/2022,12345,Cash
+1212,???,thirty,,B+,58.4kg,error,Diabetes,missing,02 Sep 2024,12345,Cash
+,,25,,B+,,137.9 cm,,3987.45,32/13/2024,invalid,CARD
+,,,Female ,A+,,192.6,Flu,₹1465.42,,12345,Cash
+PT-1215,,,,A+,,,Hypertension,,,unknown,unknown
+PT-1216,James Cohen,,Female ,B+,48.8,149.3 cm,COVID,,32/13/2024,unknown,Card 
+,CAITLIN CLEMENTS,17,male,,45.8,error,,3391.63,23 Jun 2024,+1-463-983-1527,Insurance
+1218,Marcus Cantu,6,unknown,unknown,102.9,,covid,missing,,,Card 
+1219,???,thirty,F,AB+,109.4,142.7,COVID,,not available,12345,CARD
+1220,SHANE MCKEE,,FEMALE,,62.3kg,,covid,₹4455.96,32/13/2024,invalid,Cash
+1221,David Sims,thirty,Male,a+,unknown,173.3,covid,missing,32/13/2024,unknown,cash
+PT-1222,PAUL THOMAS,94,Female ,B+,62.1kg,177.0 cm,Diabetes,538.1,32/13/2024,462.768.5457x4114,
+,Kathryn Mitchell,94,M,,116.7kg,198.6 cm,covid,missing,22/04/2023,,Card 
+1224,???,thirty,,AB+,,151.5,Hypertension,,not available,,UPI
+PT-1225,???,59,F,unknown,42.0,147.9 cm,Asthma,,not available,12345,cash
+,Lawrence Forbes Jr.,thirty,unknown,a+,unknown,171.8,???,4080.24,,unknown,CARD
+,JARED STAFFORD,thirty,unknown,a+,unknown,,Flu,₹2067.44,,unknown,
+,Kristen Cowan,thirty,,unknown,unknown,133.5,,missing,32/13/2024,invalid,Insurance
+,,,FEMALE,AB+,,122.0 cm,covid,missing,not available,+1-468-778-6936,
+1230,,,Female ,a+,unknown,189.4,,missing,29 May 2023,152-257-9146x46635,Insurance
+1231,Megan Jones,thirty,M,O-,,error,,4962.85,24/07/2025,(937)982-8084,cash
+,NICHOLAS TAYLOR,44,male,unknown,70.7,159.5,???,₹3043.56,32/13/2024,12345,unknown
+,TRACY BAUTISTA,16,unknown,B+,,121.6 cm,COVID,,,invalid,Card 
+PT-1234,???,unknown,,,unknown,error,???,missing,,12345,Insurance
+,???,unknown,Female ,O-,,,covid,missing,not available,,Card 
+,???,,FEMALE,,,error,Asthma,,,466.064.4216,UPI
+1237,KAREN MOORE,,Female ,unknown,45.2kg,error,Diabetes,missing,not available,396-948-8187x74809,CARD
+,???,,FEMALE,unknown,25.1kg,193.4 cm,Diabetes,,not available,invalid,Cash
+1239,Kathryn Scott,,FEMALE,O-,unknown,123.1,COVID,₹213.48,not available,12345,Insurance
+1240,Brooke Roberson,,M,,87.2kg,error,Asthma,485.48,32/13/2024,invalid,Cash
+PT-1241,DR. JAMES JORDAN MD,unknown,FEMALE,AB+,,150.4 cm,covid,missing,32/13/2024,,Insurance
+PT-1242,???,44,M,unknown,95.7,166.8,,missing,32/13/2024,unknown,Cash
+PT-1243,DARRYL WEAVER,thirty,male,AB+,unknown,199.8 cm,Hypertension,missing,,invalid,cash
+1244,,unknown,male,a+,,132.8,???,,32/13/2024,,Insurance
+1245,,64,M,O-,53.0kg,,,₹4038.76,32/13/2024,,Cash
+PT-1246,???,unknown,FEMALE,A+,80.8kg,149.3 cm,Flu,₹1263.98,,invalid,Insurance
+PT-1247,,thirty,male,A+,91.8,170.3 cm,Hypertension,missing,not available,12345,cash
+1248,CAROL GARCIA,,,A+,87.8,152.6,,missing,32/13/2024,12345,cash
+PT-1249,TERESA DANIEL,88,Male,unknown,42.9kg,167.5 cm,???,missing,,unknown,
+1250,Barbara Lutz,thirty,,AB+,unknown,188.0,covid,missing,2024-07-28,12345,Cash
+1251,,thirty,,a+,unknown,190.4 cm,covid,,02/02/2026,invalid,Cash
+,DENISE WELCH,,,unknown,82.5kg,139.2,Diabetes,₹1293.58,07/11/2023,(233)863-0247x915,Insurance
+1253,CHRISTOPHER ALEXANDER,unknown,unknown,A+,51.1kg,138.8 cm,covid,₹951.68,,,cash
+,,,Male,B+,73.7,176.1 cm,???,missing,,unknown,CARD
+1255,Craig Murray,unknown,FEMALE,A+,45.7,,Hypertension,missing,03-14-2026,12345,Card 
+PT-1256,Caleb Smith,unknown,male,,31.0,error,covid,,not available,invalid,unknown
+1257,KATELYN IBARRA,,,A+,43.6,,Flu,missing,32/13/2024,unknown,unknown
+PT-1258,JENNIFER HUNT,unknown,F,AB+,,179.8,Flu,missing,12 Aug 2022,invalid,UPI
+PT-1259,,,unknown,B+,92.8,125.7,COVID,missing,32/13/2024,(886)911-3011x7790,unknown
+,,,M,AB+,unknown,,,₹1160.61,not available,,Card 
+PT-1261,ERIN MILLER,thirty,male,,117.6kg,182.4,Flu,missing,not available,001-612-100-7848x31101,Cash
+PT-1262,Veronica Villarreal,thirty,male,A+,37.0kg,129.9 cm,Diabetes,,,invalid,
+,???,,M,a+,81.4,194.4 cm,Hypertension,,not available,,cash
+,Brian Brown,,male,AB+,unknown,,Asthma,,,12345,unknown
+1265,,unknown,unknown,B+,68.8,187.1 cm,Diabetes,₹4892.35,2022-06-11,12345,Cash
+PT-1266,Christina Choi,,F,B+,99.5,184.2 cm,???,₹4031.42,not available,invalid,Cash
+1267,???,89,Female ,AB+,unknown,182.1 cm,covid,₹4528.65,32/13/2024,unknown,UPI
+,GREGORY HO,thirty,FEMALE,O-,97.7,141.8 cm,covid,missing,32/13/2024,+1-697-786-9062,CARD
+,DAVID ENGLISH,52,male,unknown,unknown,127.8 cm,COVID,,32/13/2024,001-113-429-9604,
+,,unknown,Male,unknown,unknown,,Flu,3185.22,15/03/2023,unknown,
+,BARBARA BOND,43,unknown,AB+,26.7kg,169.7 cm,???,₹2443.27,32/13/2024,invalid,Cash
+,RONALD COX,thirty,FEMALE,unknown,unknown,169.3 cm,Diabetes,₹4570.58,not available,invalid,Cash
+1273,Susan Valentine,unknown,M,O-,unknown,132.4,Flu,missing,,unknown,Insurance
+,Thomas Perez,,male,O-,unknown,159.6 cm,Hypertension,missing,not available,invalid,cash
+,Julia Vaughn,thirty,unknown,,27.6,,covid,₹988.07,32/13/2024,unknown,unknown
+,,,FEMALE,,54.7kg,error,Hypertension,₹3163.05,32/13/2024,invalid,CARD
+PT-1277,MICHAEL REESE,38,unknown,AB+,71.2kg,error,Asthma,,,unknown,UPI
+,James Turner,,F,,48.4kg,169.6 cm,covid,₹2303.86,not available,12345,Insurance
+,???,62,Female ,a+,,142.7,,,27/08/2025,4462341354,Insurance
+PT-1280,SHARON POTTS,,Female ,O-,,,???,missing,,+1-107-545-3754x318,
+,Tricia Wright,56,male,,46.1,197.1 cm,COVID,,,unknown,Insurance
+PT-1282,,unknown,Male,unknown,,,,₹1377.72,32/13/2024,invalid,unknown
+,???,unknown,F,,,176.6 cm,,missing,10 May 2025,unknown,CARD
+PT-1284,,unknown,Male,,25.6kg,,???,missing,,12345,UPI
+,MICHELLE COOPER,53,unknown,B+,52.3,177.6,Flu,missing,18/11/2025,invalid,Insurance
+1286,,unknown,unknown,,,131.7 cm,???,missing,,,unknown
+,BRENDA HALL,30,male,unknown,unknown,,Diabetes,2297.62,not available,invalid,
+PT-1288,,,FEMALE,AB+,unknown,,,missing,not available,12345,UPI
+,???,unknown,Female ,AB+,95.0,,???,missing,32/13/2024,(093)568-2652x256,
+PT-1290,,46,M,a+,64.5,180.4 cm,Asthma,391.04,not available,+1-479-619-6108x10625,unknown
+PT-1291,,thirty,Female ,unknown,46.3kg,error,???,₹1775.59,,unknown,Cash
+,James Jimenez,unknown,,A+,105.5,error,covid,,2024-08-04,,cash
+,???,thirty,,,112.9,,???,,28 Jun 2023,invalid,
+,,,FEMALE,unknown,94.0kg,error,Diabetes,missing,32/13/2024,12345,Cash
+,JASMINE JOHNSON,thirty,,AB+,unknown,158.5 cm,???,missing,01-17-2026,12345,cash
+,,49,M,AB+,106.8kg,error,,₹2551.68,not available,invalid,CARD
+1297,STEPHANIE VINCENT,unknown,M,A+,109.7kg,,Asthma,,,unknown,UPI
+1298,KEITH BLANCHARD,thirty,F,A+,38.8kg,error,???,3884.99,not available,12345,cash
+PT-1299,???,44,M,unknown,108.6,,covid,1868.93,not available,,CARD
+1300,MICHAEL GREEN,thirty,M,a+,96.2,178.6,COVID,₹1026.49,not available,12345,cash
+,???,,Female ,,104.7,161.2 cm,,4532.55,11 Sep 2024,12345,Card 
+1302,???,unknown,F,B+,unknown,error,COVID,150.29,2022-08-03,,unknown
+PT-1303,???,unknown,F,AB+,,error,COVID,₹2835.97,32/13/2024,unknown,UPI
+PT-1304,ROBERT STEVENS,,M,unknown,28.2,,???,3481.11,32/13/2024,invalid,CARD
+,Leroy Miller,thirty,unknown,,70.3,,Flu,,32/13/2024,invalid,
+,Marco Gould,1,F,a+,unknown,,Diabetes,3546.95,not available,,Insurance
+,,thirty,M,,39.1,error,covid,1012.7,32/13/2024,,unknown
+1308,,unknown,Male,B+,unknown,error,,,06-21-2022,,Cash
+PT-1309,Jason Green,unknown,unknown,AB+,116.3,error,???,,,invalid,unknown
+,PAMELA FORD,thirty,unknown,unknown,61.7kg,190.8,Hypertension,₹4016.89,28 Mar 2023,invalid,
+,???,,male,,77.7,error,covid,missing,2024-08-17,invalid,
+,Angela Spencer,thirty,M,AB+,unknown,,,missing,32/13/2024,unknown,
+1313,???,,unknown,,58.0kg,133.3 cm,Flu,2675.13,32/13/2024,12345,Insurance
+1314,Jennifer Briggs,unknown,unknown,a+,,,Diabetes,missing,,invalid,UPI
+,???,,F,B+,55.7kg,error,covid,,not available,993.302.6420x581,cash
+,???,,FEMALE,AB+,64.4,,COVID,,05-11-2024,invalid,unknown
+PT-1317,Veronica Savage,,,a+,79.9,124.0 cm,covid,3708.35,32/13/2024,375.732.7632x82273,cash
+,???,,FEMALE,B+,unknown,183.4 cm,COVID,,19 Mar 2024,,UPI
+PT-1319,Tyler Mckinney,11,M,A+,unknown,error,Asthma,,10 Feb 2024,invalid,Insurance
+PT-1320,???,54,F,B+,78.6,error,???,₹775.15,32/13/2024,unknown,UPI
+,Nicole Ross,thirty,F,AB+,82.7kg,184.2,Flu,missing,32/13/2024,(656)314-0711x83391,
+PT-1322,???,thirty,male,B+,61.7kg,,COVID,,,invalid,cash
+,Connie Buchanan,78,,AB+,unknown,183.5 cm,covid,missing,32/13/2024,,Insurance
+,,,,AB+,55.1,error,COVID,missing,,unknown,cash
+PT-1325,,thirty,FEMALE,unknown,20.3,195.7 cm,COVID,missing,,001-400-033-0147x1023,Cash
+,Tiffany Stark,15,F,unknown,65.5kg,error,Asthma,missing,32/13/2024,12345,Insurance
+PT-1327,,unknown,unknown,O-,,error,covid,missing,32/13/2024,,Insurance
+PT-1328,???,71,F,AB+,,,???,missing,32/13/2024,unknown,CARD
+1329,ANDREA JENKINS,unknown,,A+,unknown,,Hypertension,,not available,+1-635-540-1758x5429,Insurance
+,???,unknown,Male,a+,unknown,149.8,Hypertension,,2025-10-15,unknown,Insurance
+,Christina Guzman PhD,85,male,AB+,,165.8,,₹3533.57,not available,560-427-4240,unknown
+,DAVID AGUILAR,unknown,Female ,unknown,,error,Asthma,₹2485.35,,918-519-7553x2257,
+1333,,thirty,Female ,O-,116.7kg,185.6 cm,Diabetes,,,invalid,Card 
+PT-1334,,thirty,F,AB+,,155.3,COVID,2648.78,,12345,Insurance
+,,thirty,unknown,,unknown,,Asthma,missing,32/13/2024,,unknown
+PT-1336,Crystal Hall,thirty,FEMALE,B+,unknown,133.3 cm,???,,not available,,UPI
+PT-1337,???,unknown,M,AB+,90.0kg,error,COVID,4630.22,07-01-2022,12345,unknown
+PT-1338,CYNTHIA SMITH,66,F,B+,25.8,,COVID,missing,not available,unknown,CARD
+1339,Jessica Perry,unknown,Female ,B+,44.3,,Flu,2754.34,,unknown,UPI
+PT-1340,,6,unknown,unknown,63.5kg,error,Diabetes,2467.6,32/13/2024,001-829-861-9861,
+1341,Christopher Russell Jr.,,Male,unknown,70.1kg,190.9 cm,???,,,invalid,cash
+,Susan Rowe,52,F,unknown,110.6,151.0,,₹1224.39,,(459)625-9363x5394,cash
+,Jerry Anderson,unknown,male,B+,,error,Flu,₹1727.36,,12345,Insurance
+1344,,thirty,FEMALE,A+,62.3,error,COVID,₹793.67,32/13/2024,,UPI
+1345,Patricia Ramsey,,F,AB+,43.9,error,???,missing,32/13/2024,8950649093,UPI
+1346,Lori Downs,thirty,Female ,A+,,121.0 cm,covid,,,+1-281-277-9510x7493,
+,Shelly Frank,25,F,AB+,unknown,,Diabetes,missing,not available,12345,Card 
+PT-1348,,unknown,male,,,,Diabetes,missing,32/13/2024,(366)885-6593x02642,
+1349,Jessica Gates,thirty,FEMALE,O-,,,COVID,4973.27,08-29-2024,,UPI
+,,thirty,male,a+,29.3,187.6 cm,,missing,,unknown,cash
+1351,Kenneth Wright,,,AB+,unknown,error,,,,,Card 
+PT-1352,???,35,Female ,a+,,,Diabetes,₹1956.88,16 Sep 2022,12345,CARD
+PT-1353,,,,AB+,63.9,,Flu,₹2535.31,2023-11-12,(062)397-6569x77338,
+1354,???,thirty,unknown,B+,,192.1 cm,COVID,₹1235.96,32/13/2024,,Card 
+PT-1355,???,49,unknown,,,197.9 cm,Diabetes,₹1784.57,,,unknown
+PT-1356,JOSEPH BELTRAN,unknown,male,B+,70.6,error,COVID,missing,not available,12345,cash
+1357,Robert Hughes,thirty,F,O-,116.3,,COVID,4856.05,,,unknown
+1358,GARRETT WELLS,thirty,FEMALE,B+,,error,???,₹4620.27,,12345,
+1359,Mrs. Samantha Schneider MD,thirty,M,a+,56.2,,COVID,₹2192.84,06/04/2025,unknown,Cash
+1360,???,11,FEMALE,a+,68.8,121.7 cm,Diabetes,missing,not available,+1-708-007-3494x250,unknown
+PT-1361,,thirty,male,A+,,130.5,Hypertension,,32/13/2024,+1-443-482-6954x02799,Card 
+,,,F,O-,113.2kg,error,,₹1265.75,,(747)023-4269,cash
+PT-1363,???,thirty,Female ,B+,unknown,,Diabetes,568.7,,,
+,KRISTIN JORDAN,thirty,F,A+,24.6kg,177.7 cm,Asthma,,32/13/2024,unknown,Insurance
+,TYLER ALLEN,76,F,a+,unknown,193.2,???,,32/13/2024,206.862.2912x098,
+PT-1366,,39,M,B+,101.1kg,132.7 cm,covid,₹2633.94,32/13/2024,invalid,
+,,,,AB+,unknown,error,COVID,,not available,unknown,cash
+PT-1368,,unknown,Female ,a+,84.8kg,165.7 cm,COVID,missing,,,unknown
+1369,Shannon Garcia,93,M,A+,unknown,158.2 cm,COVID,₹2087.04,not available,,CARD
+1370,VINCENT WILLIAMS,thirty,Male,a+,unknown,193.8,Hypertension,₹826.71,,12345,CARD
+PT-1371,???,unknown,,,52.8,error,Flu,₹4006.21,,invalid,CARD
+1372,ERIKA LOGAN MD,unknown,unknown,unknown,,error,Asthma,₹197.41,32/13/2024,invalid,
+,SHAWN POWELL,unknown,Male,A+,92.0,166.0,???,1573.01,not available,12345,
+,,unknown,F,O-,unknown,,,3033.59,not available,invalid,Card 
+,WILLIAM PARKER,thirty,unknown,a+,51.9kg,173.7 cm,covid,₹2397.17,32/13/2024,12345,cash
+1376,SUSAN WALKER,,Female ,O-,82.9kg,,COVID,missing,09-08-2023,,Insurance
+1377,,21,Female ,B+,54.7,130.0 cm,covid,569.6,not available,,
+1378,???,82,M,B+,unknown,195.7,Hypertension,missing,not available,12345,Cash
+PT-1379,William Noble,76,Female ,,unknown,147.9 cm,COVID,3095.08,24 Nov 2022,invalid,
+PT-1380,???,64,unknown,AB+,37.4kg,198.5,???,689.59,,12345,Insurance
+1381,Nathaniel Hall,,unknown,A+,51.3,,covid,,not available,12345,Card 
+,,4,Male,A+,,188.0 cm,Flu,2479.4,04/05/2023,invalid,unknown
+,Kimberly Randall,thirty,male,AB+,unknown,error,???,missing,,invalid,unknown
+,RICHARD DAVIS,,FEMALE,a+,67.9kg,177.2,Hypertension,missing,32/13/2024,unknown,Card 
+PT-1385,,37,,a+,42.3,,,missing,not available,invalid,Card 
+PT-1386,,unknown,unknown,AB+,,,,missing,2023-08-07,unknown,UPI
+PT-1387,,unknown,F,,119.7kg,194.1,,1126.59,32/13/2024,invalid,Insurance
+PT-1388,???,thirty,,unknown,67.7,,,,not available,,
+,JENNIFER GLASS,2,FEMALE,O-,unknown,error,Diabetes,missing,2023-01-17,,Card 
+,,,Female ,a+,,137.2 cm,COVID,1318.78,2026-03-14,invalid,Card 
+PT-1391,RYAN EVANS,unknown,Female ,A+,unknown,,covid,,32/13/2024,invalid,cash
+,,thirty,F,B+,,133.3 cm,Diabetes,missing,,unknown,
+1393,JEFFERY WILSON,47,F,a+,unknown,161.3 cm,Diabetes,,32/13/2024,12345,CARD
+PT-1394,???,,Male,a+,,,covid,missing,32/13/2024,463.817.3079x5495,CARD
+1395,???,thirty,M,a+,74.4,,Hypertension,1571.0,32/13/2024,unknown,unknown
+,Janet James,34,Female ,unknown,77.4,122.0,Hypertension,₹4091.46,32/13/2024,invalid,
+PT-1397,KAYLA WIGGINS MD,38,Male,B+,48.1kg,180.4,Hypertension,missing,32/13/2024,invalid,cash
+PT-1398,Michelle Brown,unknown,,A+,unknown,,,,27/05/2023,001-910-193-9648x30330,Card 
+1399,???,,M,O-,114.6kg,,COVID,missing,32/13/2024,unknown,UPI
+PT-1400,,thirty,Female ,a+,unknown,,COVID,446.96,,unknown,Insurance
+1401,Margaret Crane,90,F,AB+,112.5,174.8,???,3255.63,32/13/2024,unknown,Cash
+PT-1402,???,3,M,AB+,,,COVID,,,954.192.3587,Cash
+1403,,60,male,AB+,115.6kg,error,Asthma,4063.83,2023-11-12,(717)642-1455x9887,
+1404,,7,M,a+,unknown,error,covid,missing,32/13/2024,,UPI
+,,unknown,F,B+,,122.1 cm,Asthma,1864.95,,unknown,Insurance
+1406,,92,,unknown,,error,???,,32/13/2024,,Insurance
+,,thirty,FEMALE,,,173.1,Asthma,1440.05,,(591)759-8055,unknown
+1408,???,47,,,51.9kg,,Flu,₹2026.69,,invalid,unknown
+1409,,2,M,unknown,unknown,187.8 cm,Asthma,1327.63,,,CARD
+PT-1410,???,17,F,A+,82.1,120.6,Diabetes,507.5,,12345,UPI
+PT-1411,Melissa Lara MD,18,Female ,A+,94.0kg,error,???,,32/13/2024,12345,cash
+1412,???,unknown,male,AB+,,,covid,4850.19,32/13/2024,001-568-305-0766,CARD
+1413,Jessica Nichols,thirty,male,a+,unknown,150.8 cm,Diabetes,862.15,32/13/2024,unknown,Card 
+PT-1414,Michael Harris,,unknown,O-,44.4kg,173.3 cm,Flu,₹785.57,,266-505-9486,CARD
+PT-1415,JOY LOPEZ,unknown,F,,unknown,error,COVID,₹2649.16,,,cash
+1416,Andrea Rodriguez,thirty,Female ,A+,62.6,145.6,covid,1654.59,32/13/2024,unknown,
+,Mario Booth,unknown,male,unknown,unknown,,Flu,,32/13/2024,12345,Card 
+PT-1418,???,10,FEMALE,a+,,,Asthma,,not available,092-575-9332x424,CARD
+PT-1419,,35,male,A+,,156.5 cm,???,,2023-12-09,12345,Insurance
+,???,thirty,Female ,B+,23.1,148.9,Flu,missing,,12345,CARD
+1421,Christopher Roy,thirty,male,B+,,error,covid,₹113.08,,001-509-232-8743x886,UPI
+1422,,33,unknown,unknown,,,covid,missing,05-16-2024,6251345174,Cash
+PT-1423,Elizabeth Anderson,5,M,unknown,45.6kg,190.2 cm,Diabetes,,32/13/2024,invalid,Cash
+1424,JEREMY LEWIS,thirty,M,unknown,unknown,156.6 cm,Hypertension,₹3860.85,2023-03-19,unknown,unknown
+1425,Justin Jacobs,,unknown,,unknown,120.7,COVID,1931.7,01 Apr 2026,unknown,unknown
+PT-1426,,1,M,O-,98.9,128.0,,,20/06/2022,,CARD
+PT-1427,Peter Smith,unknown,Male,O-,,,Hypertension,3680.96,not available,invalid,CARD
+,DAVID MARSHALL,thirty,FEMALE,unknown,99.3,187.0 cm,,₹3216.21,05-23-2024,invalid,
+PT-1429,KARLA MONROE,thirty,F,A+,unknown,error,???,₹2368.73,32/13/2024,(062)796-9707,
+PT-1430,Betty Pacheco,31,M,O-,100.2,176.5,???,missing,32/13/2024,invalid,Insurance
+,???,unknown,FEMALE,A+,,155.4,Hypertension,₹3947.75,not available,unknown,unknown
+1432,,unknown,male,A+,unknown,197.4,Hypertension,₹3330.56,32/13/2024,12345,unknown
+,,8,Female ,O-,65.9,160.6 cm,Diabetes,missing,2024-03-01,12345,
+,TRAVIS FULLER,60,F,unknown,24.9kg,error,Flu,,not available,12345,
+PT-1435,JEFF SKINNER,7,Male,AB+,unknown,error,COVID,1457.81,32/13/2024,unknown,CARD
+PT-1436,???,thirty,M,,65.2,error,Asthma,₹3296.07,12-05-2022,unknown,unknown
+PT-1437,???,thirty,,O-,61.7,162.1 cm,COVID,₹2495.15,13 Jan 2026,unknown,
+PT-1438,Mallory Walker,thirty,F,unknown,,137.4 cm,Flu,missing,32/13/2024,12345,unknown
+,???,unknown,Male,unknown,28.7kg,,covid,missing,06-17-2022,invalid,
+1440,???,77,Female ,B+,,error,Diabetes,missing,,001-611-990-7499x6566,CARD
+1441,Justin Davis,53,,O-,unknown,error,COVID,4016.67,32/13/2024,,cash
+,DEBRA HARRIS,62,unknown,O-,23.0,133.5 cm,Asthma,missing,not available,unknown,Insurance
+1443,Angela Levine,unknown,F,O-,unknown,197.6 cm,covid,,32/13/2024,12345,CARD
+PT-1444,,25,M,unknown,23.5kg,,???,₹4916.95,32/13/2024,12345,CARD
+1445,,unknown,Male,AB+,30.4,,Diabetes,missing,32/13/2024,+1-125-224-6681x55057,Cash
+1446,DONNA CRANE,unknown,Male,AB+,67.6kg,193.0,Asthma,₹3799.06,32/13/2024,,unknown
+,LARRY BARAJAS,15,F,B+,28.5kg,193.6,Flu,,32/13/2024,unknown,Cash
+PT-1448,???,unknown,,unknown,108.9kg,191.3,???,1048.23,,,Cash
+PT-1449,???,,F,a+,unknown,,Diabetes,missing,not available,invalid,CARD
+PT-1450,,,,unknown,unknown,error,???,1658.59,32/13/2024,,
+1451,???,,Male,,71.3kg,191.5,???,1360.07,,(986)581-3509,unknown
+1452,???,,Male,,,error,Hypertension,₹2954.9,not available,12345,Insurance
+1453,???,unknown,male,,59.9,error,Diabetes,2659.27,,unknown,cash
+PT-1454,ANTONIO LE,,,unknown,,124.7 cm,Asthma,missing,,unknown,CARD
+,???,53,Male,O-,117.4,124.1,,₹1874.39,04-15-2026,12345,Insurance
+,???,,FEMALE,unknown,82.7kg,121.0 cm,,,not available,12345,unknown
+PT-1457,,unknown,FEMALE,O-,unknown,error,Hypertension,₹653.73,11-19-2023,invalid,cash
+1458,DENISE FREEMAN,thirty,,,,,Diabetes,,not available,,Cash
+PT-1459,???,,male,O-,47.3,error,???,missing,not available,invalid,Cash
+,,thirty,M,O-,,178.9,Hypertension,missing,not available,unknown,unknown
+,???,thirty,FEMALE,A+,,129.4,,missing,2022-06-20,12345,CARD
+,,thirty,F,a+,69.5kg,error,Flu,,32/13/2024,239-264-7402x1640,UPI
+PT-1463,???,unknown,,O-,49.5kg,,COVID,₹4934.67,,427-211-2932x37533,
+1464,,44,M,O-,82.1kg,,,,not available,invalid,Insurance
+,???,unknown,male,B+,31.6kg,166.5 cm,???,missing,32/13/2024,unknown,Insurance
+,Mary Farmer,thirty,M,AB+,109.6,error,COVID,missing,2024-01-27,invalid,unknown
+,,thirty,Female ,,,error,Diabetes,4345.31,32/13/2024,12345,
+,???,thirty,Male,B+,116.0kg,,Hypertension,₹3215.12,,invalid,unknown
+1469,James Evans,thirty,male,B+,21.4kg,164.6,???,missing,,unknown,Card 
+PT-1470,,unknown,male,a+,36.5kg,126.1 cm,???,missing,,,UPI
+1471,RICHARD MCGUIRE,unknown,,A+,52.8,187.2 cm,,₹3694.57,06/03/2025,12345,unknown
+PT-1472,,thirty,,,74.5kg,error,Flu,,32/13/2024,(129)467-5777,
+PT-1473,JOHN WILLIS,,male,unknown,38.2kg,error,covid,,32/13/2024,unknown,
+,Trevor Williams,unknown,F,B+,,,Asthma,₹3379.05,,001-289-700-6891,UPI
+,ISAAC MEDINA,33,FEMALE,O-,,178.1 cm,,4472.63,2024-09-16,unknown,
+,William Hunter,,M,AB+,,error,???,missing,,unknown,Card 
+1477,BRIAN RICHARDSON,thirty,male,unknown,unknown,,Diabetes,₹4260.17,not available,,UPI
+1478,,36,,AB+,unknown,136.5,Asthma,4311.33,32/13/2024,,
+1479,,thirty,Female ,O-,unknown,191.3,Diabetes,2750.11,32/13/2024,unknown,UPI
+1480,???,,Male,B+,65.0kg,error,???,missing,not available,unknown,Insurance
+,???,unknown,F,A+,52.4kg,175.1,,missing,not available,12345,Insurance
+1482,???,19,,unknown,84.5kg,error,Hypertension,₹3090.27,not available,unknown,UPI
+,???,thirty,Male,,98.9kg,error,,₹2613.17,32/13/2024,invalid,Card 
+1484,Teresa Torres,unknown,M,A+,37.3kg,error,Diabetes,2921.79,not available,12345,Insurance
+PT-1485,???,75,Male,O-,unknown,184.0 cm,Flu,1692.1,2023-04-02,12345,UPI
+,TAMMY MILLER,unknown,,A+,,,???,missing,2025-08-19,12345,Cash
+1487,Lorraine Bonilla,thirty,male,B+,unknown,164.8,Hypertension,missing,32/13/2024,001-538-624-2297x5803,cash
+,Mark Pham,thirty,male,unknown,52.1kg,196.7 cm,???,,01-19-2026,unknown,cash
+1489,JESSICA SNYDER,89,male,a+,99.3,145.7,Asthma,3638.67,not available,,Insurance
+PT-1490,David Ward,64,M,a+,67.5,error,Flu,,02/07/2025,unknown,Card 
+1491,,thirty,,unknown,70.4,,Diabetes,,,unknown,
+1492,Samuel Hayes,unknown,unknown,a+,,139.6 cm,Asthma,1169.18,not available,,Cash
+1493,,unknown,Male,a+,45.0kg,,covid,missing,32/13/2024,12345,
+PT-1494,Hannah Brooks,,FEMALE,B+,108.9kg,error,COVID,1844.75,,497-051-2246,Card 
+PT-1495,EMILY GONZALEZ,,,a+,,190.2 cm,Flu,4768.95,,invalid,
+PT-1496,???,,M,a+,unknown,127.9,Flu,,32/13/2024,,
+PT-1497,,5,M,O-,71.3,error,Hypertension,1912.37,32/13/2024,unknown,cash
+1498,,,male,A+,111.7kg,126.1 cm,???,missing,not available,unknown,Insurance
+PT-1499,JESSICA MORGAN,,Female ,AB+,45.5kg,error,Diabetes,missing,not available,invalid,Insurance
+,,55,Male,B+,119.2,153.1 cm,Flu,₹834.2,,invalid,CARD
+,Mike Cunningham,,Female ,AB+,unknown,error,,₹3970.97,2024-11-26,unknown,Insurance
+1502,Kyle Dominguez,thirty,unknown,,89.3,error,COVID,,2023-10-03,unknown,CARD
+PT-1503,???,unknown,male,O-,unknown,,???,2922.78,not available,unknown,CARD
+PT-1504,???,22,Male,A+,61.5,error,COVID,missing,32/13/2024,12345,Insurance
+,Tracy Peterson,thirty,Female ,,,177.5,Diabetes,543.44,not available,unknown,unknown
+1506,JESSICA BYRD,unknown,M,a+,unknown,176.4 cm,covid,₹3891.96,,12345,
+,???,,male,unknown,,,,₹505.66,,(504)398-6250,UPI
+1508,Jeffrey Richardson,63,male,AB+,,140.6,Hypertension,₹4295.67,not available,invalid,CARD
+,???,thirty,F,unknown,,,,123.19,not available,12345,CARD
+PT-1510,Tracy Williams,21,Male,a+,,158.6,???,3362.64,not available,12345,Card 
+,???,59,unknown,O-,102.5kg,198.0,Diabetes,,,+1-436-848-6775,Card 
+PT-1512,Emily Johnson,,unknown,,78.0kg,122.9,Asthma,₹1429.47,,invalid,
+PT-1513,KATIE BAUTISTA,,F,A+,unknown,,Flu,missing,07/11/2025,unknown,UPI
+PT-1514,,unknown,Male,,unknown,130.6 cm,Diabetes,,04/12/2022,12345,CARD
+,,unknown,F,B+,,137.8,,3792.08,32/13/2024,invalid,cash
+PT-1516,???,thirty,M,AB+,60.0,176.6 cm,,3824.28,32/13/2024,unknown,unknown
+,AMANDA NEAL,thirty,,AB+,119.3kg,,Flu,₹3876.81,32/13/2024,unknown,CARD
+1518,???,thirty,male,A+,,186.0,Diabetes,₹2961.93,not available,(917)361-7499x0162,Card 
+,,unknown,Female ,B+,43.3,163.0 cm,COVID,1898.96,,,Cash
+PT-1520,,,male,a+,unknown,180.2,,,,invalid,Insurance
+,???,unknown,FEMALE,A+,86.6kg,,COVID,₹1110.67,32/13/2024,,unknown
+,???,thirty,M,unknown,72.6kg,165.8 cm,,₹3075.23,22/07/2022,invalid,Cash
+1523,JOHN COLEMAN,unknown,unknown,O-,99.8,,???,,,unknown,Card 
+PT-1524,,,male,,,error,Hypertension,missing,32/13/2024,unknown,unknown
+1525,JEFFREY MURPHY,unknown,F,a+,,,Asthma,missing,01-04-2023,12345,Insurance
+PT-1526,???,unknown,unknown,,86.3,161.1 cm,Diabetes,362.52,,12345,unknown
+,,thirty,F,unknown,99.5kg,186.1 cm,Asthma,missing,11/03/2023,unknown,unknown
+1528,Robert Oneal,75,Male,a+,,151.7,,₹4308.4,not available,unknown,Card 
+,,unknown,F,unknown,,183.6,Asthma,missing,05-22-2022,066-032-6290x829,UPI
+PT-1530,,unknown,unknown,AB+,unknown,183.4 cm,,missing,not available,unknown,unknown
+PT-1531,Scott Alvarez,thirty,,a+,,167.5 cm,,missing,not available,,Card 
+,Erin Martinez,thirty,F,A+,,184.2 cm,COVID,₹1561.03,,,Insurance
+1533,Tyrone Brown,24,F,AB+,,125.1,Asthma,missing,19 Mar 2024,invalid,Cash
+1534,,unknown,,O-,66.0,,Hypertension,missing,,invalid,Insurance
+,,91,Male,A+,unknown,137.7 cm,covid,,32/13/2024,,Insurance
+PT-1536,David Brown,thirty,F,,105.5,128.5,Hypertension,missing,2023-09-29,invalid,Cash
+PT-1537,Patrick Holt,unknown,male,B+,unknown,122.9,Hypertension,₹3724.51,,671.750.6628x649,unknown
+,,,Male,a+,51.1kg,136.3 cm,covid,184.64,27 Dec 2022,12345,Card 
+1539,CHRISTINA HARRIS,thirty,M,a+,55.3,error,Diabetes,₹4723.98,,unknown,Insurance
+,???,thirty,,O-,74.1,193.5 cm,???,3966.07,17/09/2022,unknown,Insurance
+1541,,,male,B+,31.0,186.5,Hypertension,₹745.62,32/13/2024,455-413-5164x27196,CARD
+PT-1542,???,,FEMALE,A+,62.9,error,???,2819.36,29 Mar 2026,,unknown
+,Heidi Moon,unknown,Male,O-,36.3,187.4,Hypertension,2084.25,not available,invalid,unknown
+1544,Deborah Wallace,,male,O-,97.4kg,error,COVID,,04-16-2026,unknown,CARD
+,,unknown,unknown,AB+,unknown,error,Flu,missing,not available,,Insurance
+PT-1546,,thirty,F,,unknown,156.3,covid,missing,,(701)728-8029x0958,
+PT-1547,,unknown,Male,B+,,,Hypertension,₹2012.13,,+1-411-954-0110x5607,Card 
+PT-1548,ANDREW DAVIDSON,,unknown,AB+,unknown,,COVID,missing,32/13/2024,901.376.3235x3722,CARD
+PT-1549,ZACHARY ALLEN,thirty,Female ,O-,,error,COVID,,not available,077.861.6514,Insurance
+1550,Brenda Mcneil,unknown,Female ,O-,39.9,,Diabetes,₹4807.33,32/13/2024,12345,CARD
+,Lee Lucas,1,FEMALE,a+,45.8kg,error,Hypertension,,not available,12345,
+PT-1552,RACHEL COOK,unknown,Male,,,194.4,Asthma,2511.22,2023-07-16,(236)626-8254x96418,unknown
+1553,???,,F,AB+,,error,,missing,32/13/2024,invalid,CARD
+1554,,thirty,F,O-,unknown,,Flu,₹1722.48,not available,12345,CARD
+,,21,M,AB+,,,COVID,,29/11/2025,unknown,Insurance
+1556,Rachel Walton,thirty,unknown,a+,unknown,,Flu,,not available,invalid,Card 
+1557,Mrs. Rachel Brown,,male,O-,,,COVID,1428.98,07 Jan 2023,+1-210-584-4547x9995,Insurance
+1558,KATHLEEN ADAMS,unknown,,B+,,122.3,Asthma,missing,not available,,Insurance
+,,81,male,,113.3,199.7 cm,Hypertension,,32/13/2024,unknown,unknown
+1560,DEBBIE JACKSON,unknown,Male,B+,36.0kg,error,Diabetes,missing,30/10/2023,invalid,Card 
+PT-1561,,,,unknown,,,covid,,32/13/2024,,CARD
+1562,ANDREW MORTON,thirty,male,a+,,,COVID,missing,32/13/2024,12345,Cash
+PT-1563,???,,FEMALE,unknown,,error,covid,₹563.05,32/13/2024,invalid,UPI
+,John Lin,unknown,unknown,O-,116.7kg,189.8 cm,,2830.92,,invalid,cash
+1565,,unknown,F,O-,unknown,165.8,Asthma,2548.24,32/13/2024,unknown,Insurance
+,,,unknown,AB+,,,Hypertension,1122.23,08-19-2023,,Insurance
+1567,Elizabeth Cruz,unknown,FEMALE,AB+,105.5kg,,???,663.41,2025-10-29,12345,cash
+PT-1568,???,68,M,O-,unknown,160.0,COVID,4964.83,04 May 2026,unknown,UPI
+PT-1569,Dakota Miller,40,F,AB+,42.4,,,₹1996.81,24 Feb 2026,(014)639-2020x8389,CARD
+1570,,,M,B+,,155.1 cm,COVID,,not available,unknown,Card 
+1571,,60,male,A+,88.1,,Asthma,,not available,unknown,unknown
+1572,Richard Anderson,unknown,,B+,,error,Asthma,,,+1-196-547-8380,CARD
+PT-1573,ALEXANDRA BRADLEY,,unknown,,unknown,error,covid,,not available,unknown,cash
+PT-1574,???,thirty,M,,unknown,177.4 cm,COVID,,30/07/2023,,UPI
+,,thirty,M,O-,unknown,142.4,,₹1935.53,,,Card 
+1576,Ann Powell,,unknown,O-,unknown,122.3 cm,,missing,11-12-2025,unknown,Card 
+1577,???,unknown,male,A+,,,???,,,invalid,unknown
+PT-1578,Mark Silva,thirty,FEMALE,AB+,,146.9 cm,Diabetes,missing,2025-12-18,001-147-955-1249x375,CARD
+,,56,,,unknown,error,,₹3205.85,32/13/2024,001-601-802-5254x5163,unknown
+1580,???,thirty,F,AB+,,error,Diabetes,₹4565.3,32/13/2024,unknown,Cash
+,,,F,AB+,95.6,170.9,Flu,,27/10/2025,12345,Card 
+PT-1582,,unknown,M,unknown,93.6kg,,,144.01,2023-08-11,unknown,Insurance
+1583,Glenn Miller,unknown,Male,AB+,65.5kg,error,,₹1417.63,not available,,Insurance
+PT-1584,MIGUEL GONZALEZ,unknown,M,unknown,unknown,169.6,Diabetes,₹4347.67,not available,12345,cash
+PT-1585,,unknown,M,O-,unknown,199.7,Asthma,4979.66,,337.581.1803x37812,Insurance
+1586,,80,male,unknown,56.2,,???,₹204.52,,invalid,UPI
+1587,RANDY MOSS,,male,,55.3,174.6 cm,Flu,missing,not available,(323)217-4851,Cash
+PT-1588,JACOB MITCHELL,26,FEMALE,unknown,,194.7,COVID,2688.89,06/03/2023,invalid,UPI
+,???,,Female ,a+,,190.8 cm,COVID,missing,not available,617-870-2971,CARD
+PT-1590,MICHAEL GARCIA,thirty,FEMALE,AB+,unknown,error,Flu,,05 Jul 2022,invalid,Insurance
+,Aaron Lucero,32,male,a+,unknown,,???,606.24,not available,,cash
+,???,95,FEMALE,unknown,unknown,123.3,,missing,32/13/2024,invalid,Insurance
+,Joshua Anderson,thirty,FEMALE,AB+,,,,₹2914.68,04-12-2024,12345,Card 
+,,unknown,Female ,AB+,79.6,error,covid,missing,,invalid,cash
+PT-1595,,thirty,F,,62.2,149.1 cm,covid,,not available,,Cash
+PT-1596,???,thirty,FEMALE,AB+,unknown,error,covid,₹3497.81,,+1-852-900-2633x00646,Cash
+PT-1597,???,unknown,Female ,,unknown,,Flu,₹2177.42,,unknown,unknown
+,Terry Mercado,unknown,Male,O-,118.9,122.4,COVID,missing,not available,12345,cash
+,,thirty,Female ,AB+,108.7kg,,Diabetes,missing,2022-09-24,(434)399-3497x45901,Insurance
+PT-1600,CHERYL MOORE,77,male,A+,56.9,132.9,Asthma,₹3694.48,32/13/2024,unknown,Cash
+1601,Brittney White,thirty,,a+,37.0,error,COVID,4767.7,,unknown,Card 
+,???,18,Female ,O-,unknown,,COVID,,08-19-2024,invalid,
+,ALYSSA YANG,thirty,,a+,,167.5,,missing,not available,unknown,
+,Jenna Carroll,unknown,unknown,,unknown,error,???,₹3302.61,11-27-2022,12345,unknown
+,Karina Owens,,M,,,173.4,Hypertension,₹2735.09,32/13/2024,12345,UPI
+PT-1606,,thirty,Male,B+,unknown,124.3,Asthma,missing,,,Card 
+1607,???,unknown,unknown,unknown,,error,,2561.84,not available,386-604-9377x35060,CARD
+PT-1608,,,M,unknown,80.2kg,193.2 cm,,missing,32/13/2024,invalid,UPI
+1609,Stacey Bowman,unknown,FEMALE,A+,,error,Flu,348.47,02-24-2023,invalid,unknown
+PT-1610,Dylan Huff,thirty,F,,74.7,199.1 cm,Flu,,32/13/2024,12345,
+,Angela David,thirty,Female ,B+,74.8,193.6,,₹1881.79,not available,invalid,
+,???,,F,a+,53.4kg,error,???,missing,32/13/2024,558-660-4294,UPI
+1613,,unknown,male,B+,27.7kg,191.8,???,missing,24 Mar 2025,invalid,
+1614,BRENT WOODARD,unknown,Female ,A+,64.3kg,,???,₹4293.88,,+1-746-489-6374x85923,unknown
+PT-1615,???,66,unknown,,unknown,153.7 cm,Diabetes,,,invalid,cash
+1616,Melissa Schneider,,,A+,,181.8 cm,Hypertension,,32/13/2024,12345,Insurance
+1617,MICHAEL WEISS,thirty,Male,unknown,unknown,178.7,???,,32/13/2024,12345,cash
+,MARK DIXON,thirty,M,B+,unknown,170.2,Diabetes,799.15,not available,invalid,Cash
+PT-1619,Judy Hill,thirty,Female ,O-,56.5kg,153.3 cm,Diabetes,missing,32/13/2024,unknown,Cash
+1620,???,,M,B+,64.9kg,error,,missing,32/13/2024,12345,
+1621,,unknown,unknown,a+,,150.0,,₹1260.1,2026-03-08,invalid,Insurance
+,Edward Henry,thirty,Female ,unknown,68.8kg,,Diabetes,missing,04-20-2022,unknown,Insurance
+,???,thirty,F,a+,,,covid,₹1378.7,not available,unknown,CARD
+,AMY FREDERICK,58,FEMALE,AB+,,183.0,Hypertension,2849.45,32/13/2024,unknown,Cash
+,Allen Harrell,unknown,Male,,75.6,135.7 cm,,3482.44,,unknown,
+1626,Allison Warner,,FEMALE,unknown,58.6,,COVID,,not available,unknown,cash
+,STEVEN WADE,20,F,,104.4kg,,COVID,₹3933.94,2024-05-19,unknown,Insurance
+1628,,unknown,unknown,unknown,67.3,,,missing,32/13/2024,invalid,Insurance
+,???,thirty,F,AB+,80.4,134.2,Hypertension,,05 Dec 2024,12345,unknown
+PT-1630,Sarah Cobb,74,unknown,a+,41.1kg,174.3,Asthma,₹2444.11,,,CARD
+,,thirty,Female ,O-,37.8kg,error,,1342.55,,,Card 
+PT-1632,???,,Female ,a+,100.1kg,,???,₹4670.24,,invalid,Cash
+PT-1633,???,,,,unknown,error,Asthma,missing,2024-12-18,invalid,
+PT-1634,Charles Foley,thirty,,B+,25.0,error,,₹4959.88,32/13/2024,12345,cash
+PT-1635,,59,F,O-,unknown,error,COVID,4029.14,32/13/2024,unknown,
+PT-1636,LESLIE RAMIREZ,unknown,FEMALE,A+,112.1,,Hypertension,₹862.56,not available,12345,UPI
+,Penny Fitzgerald,13,F,unknown,unknown,156.6,???,₹4671.8,not available,invalid,Insurance
+PT-1638,,21,FEMALE,A+,unknown,169.8 cm,Flu,3351.7,,12345,UPI
+1639,???,,Male,,unknown,157.8,???,348.55,not available,+1-881-125-3519,unknown
+1640,???,18,M,unknown,28.5kg,error,Hypertension,,not available,unknown,UPI
+,Robert Johnson DDS,unknown,M,A+,,151.4,Flu,2637.65,not available,,cash
+PT-1642,Autumn Sullivan,unknown,,a+,unknown,184.2 cm,Flu,519.66,not available,12345,UPI
+,Sandra Bryant,38,M,A+,unknown,151.7 cm,Hypertension,missing,2025-06-28,12345,Cash
+1644,,39,FEMALE,A+,unknown,,???,1883.54,,12345,cash
+1645,,unknown,male,AB+,51.2,197.3 cm,Flu,3624.68,32/13/2024,938-467-2445x95768,Insurance
+1646,JOHN REYNOLDS,unknown,unknown,,96.8kg,143.2,Flu,missing,,unknown,cash
+,JENNIFER RICHARD,21,FEMALE,O-,unknown,,Diabetes,4086.36,32/13/2024,,
+,,,,O-,,158.9,,missing,2022-06-30,12345,Card 
+,Sara Simmons,48,Male,unknown,,,Flu,missing,,,Card 
+,SEAN FISHER,,Female ,a+,89.9kg,128.3 cm,Asthma,₹3275.71,12 Oct 2023,unknown,Cash
+PT-1651,DANIEL HIGGINS,thirty,F,AB+,unknown,166.3,???,3440.29,not available,12345,UPI
+,,93,F,A+,101.5,error,COVID,,,unknown,unknown
+,,17,Female ,a+,unknown,error,COVID,₹1461.73,not available,invalid,cash
+1654,JESSICA FRANCIS,91,F,a+,,136.7,Hypertension,missing,32/13/2024,unknown,Card 
+PT-1655,???,94,F,unknown,26.5kg,193.7 cm,Flu,,16 Jul 2023,12345,CARD
+1656,Logan Morris,18,,A+,107.3kg,,covid,4398.9,,invalid,unknown
+1657,,28,male,O-,115.4kg,199.2,???,,not available,558-708-8483x8143,Cash
+1658,Jordan Morris,66,Female ,unknown,unknown,177.2,Flu,431.84,05-24-2022,,cash
+PT-1659,David Walters,unknown,unknown,A+,,170.6 cm,Hypertension,,32/13/2024,318-760-4171x9771,UPI
+1660,???,,M,B+,50.7kg,128.4,Diabetes,,2026-05-06,invalid,cash
+1661,Thomas Bennett,unknown,F,O-,unknown,177.7 cm,Flu,missing,32/13/2024,+1-673-465-7803x325,
+PT-1662,Andrew Gray,,,AB+,unknown,,,₹731.08,32/13/2024,,
+,BRANDON SMITH,unknown,,B+,unknown,,Hypertension,₹3972.79,2024-10-12,unknown,unknown
+PT-1664,Geoffrey Taylor,32,F,AB+,71.0kg,error,Asthma,3342.21,not available,,Card 
+1665,KATHY FITZGERALD,58,F,O-,unknown,187.8,Flu,4887.89,,,UPI
+1666,Joseph Little,unknown,F,unknown,91.9kg,173.9,,,32/13/2024,12345,cash
+1667,Judith Vasquez,thirty,Male,O-,unknown,159.6,Flu,,18 Apr 2024,invalid,cash
+1668,???,,unknown,AB+,unknown,error,COVID,4136.26,,unknown,cash
+1669,Nicole Hall,,,,unknown,error,COVID,,not available,unknown,unknown
+,,unknown,Male,,unknown,183.8,,₹3014.53,32/13/2024,invalid,
+1671,???,68,male,unknown,,143.1 cm,Asthma,missing,not available,001-035-847-7686,cash
+1672,,48,,A+,,178.3 cm,covid,,not available,12345,unknown
+1673,???,thirty,Female ,A+,27.3,171.0,Flu,236.06,32/13/2024,9921898656,Cash
+PT-1674,LAURA BROOKS,23,M,O-,,error,Asthma,missing,2023-12-22,unknown,cash
+,???,unknown,M,unknown,34.2,error,covid,missing,,,CARD
+,???,8,M,,unknown,134.6 cm,Flu,₹2820.29,32/13/2024,invalid,CARD
+,Cody Ross,44,,O-,24.6,,Asthma,missing,32/13/2024,invalid,
+PT-1678,,unknown,M,,unknown,error,???,,32/13/2024,unknown,UPI
+,,,F,,,error,COVID,3300.8,2025-07-27,invalid,Cash
+PT-1680,LEAH PAGE,unknown,F,unknown,39.8,124.8 cm,Flu,,32/13/2024,unknown,CARD
+PT-1681,Christopher Haley,,M,B+,32.4,149.7 cm,COVID,missing,,,Insurance
+1682,ROBERTA TAYLOR,55,,a+,unknown,error,covid,4229.34,32/13/2024,910-183-4100x9039,
+,???,thirty,,unknown,42.9kg,194.5,Flu,,,unknown,cash
+PT-1684,,35,M,A+,unknown,127.9 cm,???,1233.89,04-07-2026,12345,CARD
+,JOSEPH VASQUEZ,,M,unknown,78.8kg,194.6 cm,,,32/13/2024,12345,Card 
+PT-1686,???,thirty,,B+,,,Flu,491.08,32/13/2024,unknown,Cash
+PT-1687,,22,M,B+,,,covid,missing,32/13/2024,(574)216-3357x136,Cash
+PT-1688,KRISTEN BARRETT,thirty,male,a+,unknown,169.8 cm,,₹4165.05,,12345,UPI
+1689,???,unknown,Male,,unknown,168.5,Flu,2118.68,,12345,CARD
+1690,,thirty,male,a+,unknown,error,???,₹743.88,,invalid,cash
+PT-1691,???,58,Female ,B+,39.7,error,Hypertension,missing,02/09/2025,+1-192-146-0160x665,
+,,unknown,,O-,54.1,167.0,COVID,,,unknown,UPI
+,,,FEMALE,a+,62.9,143.0,COVID,missing,08-22-2022,invalid,unknown
+1694,Tonya Clark,,M,unknown,49.6kg,188.7,???,,11-02-2023,unknown,unknown
+,???,unknown,,O-,82.1,,,missing,32/13/2024,,
+,???,,,A+,36.0kg,error,covid,₹3028.42,,,Cash
+PT-1697,,unknown,Male,AB+,unknown,,covid,,12/06/2022,12345,CARD
+PT-1698,CASEY MCINTOSH,,male,B+,109.1kg,132.3 cm,Diabetes,,08-27-2022,invalid,Card 
+1699,???,unknown,unknown,AB+,22.0,,Asthma,₹3068.17,not available,774.489.0049,Card 
+,,thirty,FEMALE,a+,unknown,,,,09 Feb 2026,432-034-7136x2692,
+PT-1701,,unknown,Female ,B+,107.2,182.7,,missing,,262.886.6293,unknown
+1702,,thirty,male,O-,unknown,error,covid,4183.37,not available,,
+PT-1703,John Wilson,thirty,,a+,56.2,,Flu,₹3573.13,32/13/2024,12345,Card 
+,ERIC MASON,unknown,Male,A+,102.2kg,188.9,COVID,missing,,unknown,cash
+PT-1705,???,,unknown,AB+,51.6kg,,COVID,,,invalid,
+,,,M,AB+,unknown,error,Flu,missing,,invalid,Cash
+PT-1707,,thirty,,B+,unknown,131.3,covid,₹2129.36,32/13/2024,,unknown
+,???,5,unknown,,,123.0 cm,Hypertension,1359.02,32/13/2024,12345,Cash
+1709,Yolanda Lopez,unknown,Male,AB+,unknown,error,Flu,,10-08-2025,invalid,Card 
+PT-1710,,unknown,,unknown,115.4,196.6 cm,,₹536.06,,unknown,unknown
+1711,JASON KELLY,unknown,unknown,unknown,66.4kg,146.2,Hypertension,3040.03,not available,unknown,UPI
+,,thirty,Female ,AB+,unknown,error,Hypertension,₹2990.29,02 Dec 2023,244.406.6141,Cash
+1713,,10,F,,87.6kg,,Flu,missing,2022-10-13,invalid,Insurance
+,,unknown,M,AB+,88.9,154.0 cm,Asthma,missing,not available,12345,CARD
+PT-1715,MICHELLE CLARK,thirty,male,O-,,error,Hypertension,3395.56,not available,12345,Insurance
+1716,,unknown,Male,,80.0kg,,Diabetes,missing,2025-03-21,,Cash
+PT-1717,,thirty,Female ,unknown,88.9kg,159.1 cm,,,,12345,
+PT-1718,,unknown,F,O-,,,???,₹1763.97,32/13/2024,,UPI
+1719,,91,FEMALE,A+,54.6,140.4 cm,Asthma,,32/13/2024,invalid,
+PT-1720,JOSEPH DOMINGUEZ,28,FEMALE,a+,106.5kg,156.0,Flu,₹1798.52,not available,unknown,cash
+PT-1721,ROBERT VALENCIA,11,unknown,unknown,,error,Hypertension,missing,not available,12345,unknown
+PT-1722,???,thirty,FEMALE,unknown,,140.2 cm,Diabetes,₹2370.6,,,Card 
+PT-1723,BRIANNA WALKER MD,60,,a+,52.0,error,Asthma,293.51,32/13/2024,12345,Insurance
+,,,,O-,,error,,missing,32/13/2024,12345,UPI
+PT-1725,???,,M,,,,covid,2525.89,06-20-2023,unknown,unknown
+,,unknown,unknown,O-,21.3kg,error,Flu,missing,32/13/2024,(870)832-6632,Cash
+,JEFFREY HALL,thirty,F,A+,,170.7 cm,,,not available,973.148.2042x4478,UPI
+1728,,thirty,Male,B+,81.9,158.9 cm,Flu,₹3137.67,not available,12345,CARD
+1729,???,5,M,a+,unknown,error,Asthma,,not available,unknown,unknown
+PT-1730,Gary Walker,,FEMALE,O-,,144.7 cm,???,missing,32/13/2024,invalid,Cash
+,???,thirty,F,,,150.2 cm,Asthma,missing,,12345,UPI
+,,thirty,,A+,47.0kg,173.8 cm,COVID,,08 Jan 2024,170-006-3911,Insurance
+1733,???,,male,a+,,,,₹3118.76,not available,601.793.3409x9955,Card 
+,???,,F,AB+,unknown,188.0 cm,Asthma,4357.25,32/13/2024,invalid,
+PT-1735,Douglas Allen,thirty,,AB+,80.2,173.9 cm,Flu,,not available,12345,Cash
+1736,CHARLES BROOKS,31,F,B+,112.8kg,151.6 cm,Hypertension,₹123.87,,230-360-8019x581,CARD
+1737,Katherine Cortez,,,B+,unknown,191.8 cm,Hypertension,missing,2024-02-13,(217)554-6235,cash
+,Wanda Barrett,,F,,41.3kg,188.0 cm,COVID,,09-19-2025,invalid,UPI
+,,,male,A+,,158.6 cm,Diabetes,₹360.82,32/13/2024,invalid,cash
+1740,EMILY LARSON,22,unknown,unknown,22.5kg,175.8 cm,Flu,₹3795.24,,12345,Insurance
+1741,Melissa Stevens,21,Female ,A+,unknown,133.2 cm,Flu,4463.63,,unknown,cash
+1742,,,FEMALE,a+,unknown,error,Flu,2218.32,25/05/2025,,UPI
+1743,,unknown,Female ,unknown,105.7,error,Hypertension,,07-18-2024,,UPI
+,???,unknown,unknown,AB+,,,Diabetes,₹2839.75,,invalid,UPI
+1745,???,thirty,F,O-,,,,₹3652.91,2023-03-10,,Card 
+1746,Mitchell Ellis MD,47,male,,unknown,,Diabetes,457.68,32/13/2024,invalid,Cash
+PT-1747,???,9,,unknown,,,Diabetes,missing,,12345,cash
+1748,???,,Male,O-,83.5,195.2,Diabetes,missing,,unknown,
+PT-1749,,unknown,FEMALE,O-,76.4,158.7,,,32/13/2024,12345,Card 
+,Sabrina Gonzalez,unknown,Female ,O-,,130.9 cm,Flu,₹4595.29,,12345,Insurance
+,,,FEMALE,a+,115.0kg,,Diabetes,900.7,,unknown,Card 
+,???,unknown,M,O-,65.5kg,error,Flu,,,12345,CARD
+PT-1753,SARAH COLLINS,thirty,Female ,,,170.5,???,2178.22,32/13/2024,001-410-978-4010x276,Insurance
+PT-1754,AUSTIN LAMBERT,unknown,FEMALE,,,error,,missing,not available,12345,UPI
+PT-1755,VALERIE HAMILTON,11,male,AB+,unknown,,COVID,missing,,12345,cash
+PT-1756,Brenda Beltran,21,male,AB+,69.1kg,error,Flu,,,12345,Insurance
+1757,,48,F,B+,unknown,184.8,Asthma,₹2452.52,02/07/2022,invalid,
+,SARAH COLEMAN,unknown,Female ,A+,70.3kg,198.4 cm,,,32/13/2024,113-294-9533x1619,cash
+PT-1759,,,unknown,unknown,94.3,,Asthma,3774.76,,,Cash
+PT-1760,???,,male,,unknown,128.2 cm,covid,₹3663.02,24 Nov 2025,001-101-354-8183x5181,UPI
+1761,ALEXIS HAYDEN,thirty,unknown,,106.0kg,129.0 cm,Diabetes,missing,32/13/2024,invalid,Cash
+PT-1762,,,M,B+,23.2,error,Flu,,32/13/2024,12345,unknown
+1763,???,unknown,FEMALE,a+,unknown,,???,,32/13/2024,138.637.4585x74233,Insurance
+PT-1764,,,Female ,AB+,unknown,error,Asthma,3065.7,not available,12345,Cash
+1765,???,56,FEMALE,a+,,,Diabetes,missing,,314-352-2580x27254,
+PT-1766,Lisa Stevens,22,Male,A+,33.0kg,error,Hypertension,₹4394.6,not available,001-721-149-0780x056,Insurance
+,CRYSTAL LOPEZ,,F,B+,100.1kg,error,Diabetes,,not available,unknown,Card 
+PT-1768,???,unknown,FEMALE,O-,unknown,error,???,2344.03,not available,12345,CARD
+PT-1769,KRISTEN BATES,unknown,unknown,O-,,159.7,Flu,missing,,+1-137-331-5553,Cash
+,???,unknown,male,B+,unknown,error,Hypertension,,not available,12345,UPI
+PT-1771,Michael Anderson,thirty,unknown,unknown,unknown,151.8 cm,Asthma,1390.96,,12345,
+1772,JILL REYES,,F,a+,38.9kg,175.3,Hypertension,,32/13/2024,12345,Cash
+,???,unknown,male,a+,,124.3,Asthma,527.09,03/04/2022,623-213-6492x484,Card 
+PT-1774,,,,AB+,,,COVID,1849.69,03-09-2025,,Insurance
+,???,unknown,male,A+,34.0kg,149.7 cm,Diabetes,₹3684.76,32/13/2024,451-740-1735,Card 
+PT-1776,Kayla Thompson,unknown,F,unknown,66.5kg,121.4 cm,???,169.61,not available,invalid,
+PT-1777,DR. KENDRA COX,,M,a+,unknown,,Asthma,367.21,,12345,Insurance
+1778,Gregory Ruiz,thirty,F,a+,82.0,error,Hypertension,missing,12-21-2022,unknown,Insurance
+,Shelley Peterson,unknown,F,,unknown,error,Flu,1267.46,not available,12345,UPI
+1780,,unknown,F,O-,69.4,,covid,missing,31 Mar 2024,,Card 
+PT-1781,,unknown,Male,unknown,32.8,124.6,,,,618-088-2801,Card 
+1782,,thirty,M,A+,78.7kg,,COVID,₹1685.71,not available,12345,Card 
+1783,,unknown,male,O-,,error,covid,missing,,001-252-320-2469,unknown
+PT-1784,???,thirty,unknown,unknown,43.9,error,Hypertension,3508.45,not available,unknown,Card 
+1785,DAVID DAVIS,unknown,male,a+,,130.3 cm,???,missing,,,UPI
+,,,Female ,A+,77.2,147.8,COVID,₹2004.54,05-05-2025,unknown,UPI
+1787,LEE FREEMAN,1,FEMALE,AB+,48.2,128.8,Hypertension,,26 Dec 2024,,Insurance
+,???,,Male,AB+,98.8,,Asthma,,not available,12345,UPI
+1789,Bethany Reed,39,Male,B+,35.9kg,error,Flu,,32/13/2024,12345,Insurance
+PT-1790,Brett Parks,thirty,Male,B+,,error,???,missing,2025-03-26,001-242-895-3697,CARD
+,Jill Bryant,,Male,,,error,,₹460.82,not available,,UPI
+PT-1792,Rhonda Garcia,thirty,,a+,unknown,122.5 cm,,₹1790.68,32/13/2024,12345,UPI
+,???,,F,AB+,unknown,184.5 cm,Diabetes,1908.85,32/13/2024,unknown,Insurance
+1794,???,unknown,male,a+,99.9kg,160.6,Hypertension,,,invalid,cash
+1795,,93,unknown,,unknown,192.2 cm,Flu,,not available,,Cash
+1796,???,unknown,M,B+,unknown,,???,₹476.44,not available,invalid,Cash
+,Kimberly Carney,91,F,a+,,131.3 cm,covid,₹3808.28,2024-03-15,,UPI
+1798,STEPHANIE OWENS,,Male,AB+,unknown,,Diabetes,4976.7,09/08/2022,12345,Card 
+,Joshua Parker,thirty,Male,,,154.3 cm,,,not available,,Card 
+PT-1800,???,,Male,AB+,84.1,error,,₹4211.07,,unknown,Cash
+PT-1801,???,,Female ,a+,44.4,error,COVID,,not available,,unknown
+,Gerald Arias,thirty,F,B+,33.7kg,190.6 cm,covid,1433.4,not available,,Cash
+PT-1803,Natalie Mckinney,unknown,unknown,A+,,181.5,Hypertension,4590.19,not available,invalid,unknown
+PT-1804,MICHAEL BRUCE,unknown,,O-,60.2kg,185.6,COVID,missing,,358.710.1147x86565,Card 
+1805,Matthew Wolfe,26,F,O-,unknown,error,Hypertension,607.47,not available,727-066-5010,UPI
+1806,???,thirty,F,a+,64.8,138.3 cm,Asthma,,,215.052.8842,unknown
+1807,???,thirty,M,A+,,error,COVID,3378.69,32/13/2024,unknown,Card 
+1808,JOSHUA CHANDLER,,Male,B+,58.2kg,error,COVID,2840.28,08/02/2025,+1-636-895-1204x86354,
+,,unknown,,,,130.9 cm,Diabetes,₹389.47,not available,unknown,UPI
+1810,???,thirty,Female ,unknown,103.6,,Hypertension,missing,32/13/2024,unknown,Insurance
+PT-1811,,thirty,unknown,O-,unknown,error,covid,₹1846.36,not available,invalid,CARD
+PT-1812,RICKY LITTLE,,Male,unknown,31.3,181.0,covid,₹2433.98,01-19-2025,invalid,
+PT-1813,???,,,A+,,180.1,Asthma,2569.62,not available,unknown,Insurance
+,Brenda Hendrix,,F,a+,unknown,,Asthma,₹4285.14,not available,12345,UPI
+PT-1815,,unknown,male,O-,,195.1 cm,???,₹2765.19,32/13/2024,unknown,cash
+PT-1816,Leah Hood,,FEMALE,unknown,,error,,₹4046.62,22 Oct 2022,12345,Insurance
+,???,,FEMALE,AB+,77.1kg,183.7 cm,Flu,3647.13,32/13/2024,12345,Cash
+PT-1818,JAMIE YOUNG,thirty,M,,unknown,142.0,Flu,₹4497.95,11-15-2025,113.449.2506x0582,Card 
+PT-1819,,29,Female ,B+,63.1kg,146.1,COVID,,02 May 2024,unknown,unknown
+,SCOTT SPENCE,thirty,FEMALE,,,error,???,missing,24 Nov 2023,,CARD
+1821,Miranda Gibson,thirty,F,a+,unknown,194.6 cm,???,₹2043.47,,755.006.3982x509,cash
+PT-1822,JOSEPH JOHNSON,thirty,Male,B+,,error,,1478.31,not available,12345,Cash
+1823,Jessica Barber,8,unknown,AB+,57.5kg,error,covid,missing,,,unknown
+1824,NICOLE MARTIN,unknown,male,,unknown,,???,3762.54,30 Apr 2025,invalid,unknown
+,Miranda Myers,82,,O-,81.2,177.5 cm,COVID,,not available,invalid,
+1826,BRANDON COLLINS,,F,A+,unknown,136.9 cm,covid,1403.78,2023-10-09,442-178-9660,
+1827,???,thirty,Female ,unknown,85.9,187.2,COVID,₹1246.53,02/09/2022,unknown,cash
+PT-1828,,unknown,F,O-,26.6kg,180.7 cm,Flu,128.35,09/05/2024,,Insurance
+1829,Anthony Cohen,,Male,A+,,error,Diabetes,₹1217.07,32/13/2024,,UPI
+1830,Wayne Valencia,thirty,F,A+,unknown,185.1 cm,Asthma,2578.56,,unknown,Insurance
+PT-1831,TIFFANY JONES,unknown,FEMALE,,93.1,,COVID,,32/13/2024,,Cash
+,???,unknown,Male,,,172.9,covid,₹713.76,32/13/2024,319-092-2255x61368,Cash
+,Julie Nichols,unknown,M,O-,67.1,,COVID,₹148.44,not available,unknown,UPI
+,,,Female ,AB+,,,Flu,1173.7,not available,+1-262-125-7145x47710,CARD
+1835,Dawn Walker,70,Female ,AB+,41.1kg,error,Diabetes,missing,12 Sep 2025,12345,unknown
+,???,,F,B+,unknown,194.8 cm,Hypertension,2194.03,32/13/2024,invalid,cash
+1837,???,,unknown,O-,103.0kg,137.6 cm,covid,,32/13/2024,12345,
+1838,???,91,male,A+,,error,COVID,,not available,,Cash
+,,59,M,O-,unknown,195.7 cm,???,₹4654.37,07-02-2022,invalid,
+1840,,70,Male,a+,106.5,error,???,₹1461.78,32/13/2024,001-462-132-7665,
+,,,male,AB+,66.3kg,152.8,Hypertension,missing,,+1-633-892-1045x5858,CARD
+PT-1842,???,thirty,male,a+,116.9,error,Flu,1365.45,07 Nov 2022,,UPI
+1843,???,unknown,F,B+,unknown,191.9 cm,Hypertension,,,844-645-4521x2818,unknown
+,???,33,M,unknown,unknown,,Diabetes,830.09,not available,(488)723-9130,
+,,,FEMALE,B+,unknown,,Asthma,,not available,+1-213-973-2493x057,
+,MICHAEL SALAZAR,,F,O-,,176.2 cm,,missing,not available,,Cash
+PT-1847,,59,F,B+,91.5,158.0,COVID,missing,2024-03-28,invalid,cash
+1848,Nancy Graves,,,AB+,55.2,,,missing,not available,12345,
+1849,Crystal Smith,unknown,Female ,a+,,130.8 cm,,missing,,12345,cash
+PT-1850,???,unknown,,B+,unknown,157.4 cm,Diabetes,3442.06,not available,invalid,Cash
+,ALLEN WRIGHT,51,Female ,O-,,189.2 cm,Diabetes,,,invalid,UPI
+,Danny Haley,thirty,FEMALE,O-,35.7,error,Asthma,,10 Dec 2025,invalid,cash
+1853,Steven Barron,,Female ,B+,,,COVID,₹4177.58,not available,1411044507,Cash
+PT-1854,Katie Sexton,unknown,F,AB+,116.4kg,,,4458.47,not available,,unknown
+,JASON WELLS,,FEMALE,,59.9,error,covid,,06-17-2022,,Card 
+PT-1856,???,unknown,Female ,A+,37.3kg,error,Diabetes,,25/12/2023,12345,UPI
+PT-1857,Tammy King,unknown,unknown,A+,,139.9 cm,Flu,,2026-02-18,713.173.8322x28757,UPI
+,Kristen Anderson,,male,a+,unknown,error,Hypertension,4066.54,15/08/2023,001-276-916-5519x8651,Cash
+PT-1859,Christine Howard,43,male,O-,21.6,147.2,Diabetes,₹4906.55,10 Jun 2024,12345,cash
+1860,Timothy Pope,,unknown,a+,22.2kg,error,???,missing,32/13/2024,invalid,Card 
+PT-1861,DEBORAH STEPHENS,,M,a+,unknown,error,Hypertension,₹2005.08,32/13/2024,140-011-3315x5643,UPI
+,,,F,AB+,,151.3,Asthma,missing,32/13/2024,,unknown
+PT-1863,Caitlin Baker,unknown,F,A+,unknown,191.0 cm,Asthma,missing,,invalid,cash
+1864,,thirty,F,,,140.1,Diabetes,₹4290.68,not available,(323)616-1540x66796,Card 
+PT-1865,???,unknown,FEMALE,unknown,unknown,165.2,Flu,missing,32/13/2024,invalid,unknown
+1866,,thirty,FEMALE,B+,43.6kg,error,Hypertension,missing,14 Jun 2024,12345,CARD
+,Tyler Miller,,,A+,22.7kg,165.1,Flu,missing,32/13/2024,invalid,Card 
+PT-1868,Jennifer Stein,unknown,Female ,a+,94.3kg,196.0,???,,,unknown,
+,???,,FEMALE,,25.2,172.9,Asthma,,,896.682.3672x71335,cash
+,,,F,unknown,unknown,146.0 cm,Flu,,32/13/2024,unknown,
+PT-1871,???,unknown,Male,B+,unknown,error,COVID,,,,
+,???,23,M,AB+,88.8kg,error,,,32/13/2024,,Insurance
+1873,ELIZABETH HALL,83,FEMALE,O-,,,COVID,,,12345,unknown
+,Adam Garcia,unknown,M,,117.8kg,error,,missing,2022-10-27,,UPI
+PT-1875,DUSTIN MILLER,,unknown,B+,,,,₹3569.2,2025-08-06,,cash
+1876,Gary Reid,unknown,FEMALE,a+,101.7,error,,missing,,unknown,cash
+,Joseph Kerr,85,Male,unknown,,141.8 cm,,missing,,invalid,CARD
+,???,thirty,Male,O-,,146.6 cm,Asthma,₹1354.49,,unknown,Insurance
+,,,,AB+,110.3kg,error,,1681.09,,,cash
+PT-1880,Nicole Dixon,,male,unknown,109.5,196.4,,,,invalid,
+1881,John Brown,59,FEMALE,O-,,160.0,Asthma,,32/13/2024,invalid,Insurance
+,,,,B+,52.0,172.9 cm,Asthma,,,0134031697,CARD
+,,unknown,Female ,unknown,60.5,,covid,₹1560.75,not available,6806014115,Insurance
+PT-1884,,28,Male,unknown,59.4,183.4,???,,not available,,cash
+1885,DON GAMBLE,unknown,Female ,,92.9kg,149.2 cm,,missing,,unknown,
+,Krista Kidd,unknown,M,a+,79.3,,Hypertension,₹3548.64,2023-09-03,12345,Card 
+1887,Chelsey Blackwell,thirty,unknown,a+,unknown,132.5 cm,???,missing,,unknown,cash
+,ANDREW MCDANIEL,95,M,B+,90.0,,Hypertension,missing,32/13/2024,12345,Insurance
+PT-1889,MARY WINTERS,unknown,,unknown,,182.7 cm,Flu,₹4361.87,32/13/2024,invalid,CARD
+,,,male,O-,,,COVID,,not available,+1-623-313-0560x53590,
+,THOMAS GOODWIN,thirty,male,,unknown,178.1,,missing,03-18-2026,379.185.5553,Insurance
+,Keith Coleman,14,unknown,AB+,unknown,154.8 cm,,,,invalid,unknown
+PT-1893,BRIANNA HENRY,thirty,M,,,,Flu,,2025-05-26,invalid,Cash
+1894,ASHLEY HILL,unknown,Female ,a+,unknown,124.0 cm,Hypertension,3041.4,32/13/2024,unknown,Cash
+,,,FEMALE,a+,,,???,missing,2023-02-05,unknown,UPI
+PT-1896,BETHANY MILLER,,F,B+,unknown,error,covid,missing,,278-766-6317x6084,unknown
+1897,???,unknown,,O-,68.3kg,132.6 cm,Asthma,,13 Apr 2024,,cash
+,,unknown,,a+,73.8kg,130.1,Diabetes,4598.91,not available,464.240.1835x692,
+1899,,unknown,M,A+,76.7kg,error,???,,32/13/2024,,Card 
+1900,Kaitlyn Lamb,unknown,Female ,B+,unknown,169.0,???,₹866.51,,3385781058,
+,,unknown,,a+,,,Asthma,,,unknown,unknown
+1902,,,F,O-,117.6,error,Diabetes,,2025-06-22,+1-717-602-7277,
+,BRENDA WEBER,thirty,FEMALE,AB+,64.9kg,147.7,covid,missing,20 Dec 2023,438-552-9269,
+PT-1904,???,,FEMALE,O-,100.2,,Diabetes,missing,not available,invalid,Card 
+,Jason Huffman,thirty,unknown,O-,,error,Diabetes,3870.18,32/13/2024,098-709-4702x84378,unknown
+,,thirty,male,,,163.8,Flu,missing,32/13/2024,+1-662-901-5561,UPI
+,CANDACE GARZA,40,Female ,AB+,,error,Asthma,₹2840.41,,unknown,CARD
+1908,,unknown,unknown,A+,unknown,error,,missing,2024-09-21,invalid,
+PT-1909,SANDRA HORTON,46,M,A+,37.9,error,covid,missing,not available,unknown,CARD
+1910,Joseph Crawford,unknown,male,A+,99.3,error,Asthma,673.02,2023-12-15,invalid,Insurance
+,,56,Female ,unknown,,173.1,Diabetes,missing,32/13/2024,unknown,Cash
+PT-1912,Mark Johnson,,M,a+,unknown,155.0,Asthma,₹2029.33,,12345,CARD
+PT-1913,???,42,,A+,unknown,error,Flu,,07/02/2024,536.465.2077x132,Cash
+PT-1914,???,28,M,unknown,,error,Hypertension,,27 Sep 2025,,
+1915,Karen Crawford,64,male,AB+,117.0,error,???,3053.42,2024-04-22,unknown,UPI
+PT-1916,???,,FEMALE,O-,unknown,,???,₹2316.9,,,UPI
+PT-1917,???,47,Male,unknown,,192.3 cm,Hypertension,3816.38,not available,12345,unknown
+1918,???,,male,AB+,unknown,,COVID,₹1790.51,not available,invalid,UPI
+1919,Stefanie Hall,,Male,O-,,168.2 cm,,missing,32/13/2024,unknown,unknown
+1920,,37,M,AB+,unknown,120.3,Asthma,missing,,001-666-585-5372x635,Card 
+1921,,thirty,male,B+,unknown,error,COVID,missing,not available,690-875-9288,Insurance
+PT-1922,Michelle Taylor,unknown,FEMALE,unknown,21.3,error,Diabetes,₹1003.22,32/13/2024,12345,unknown
+PT-1923,ELIZABETH CLARK,thirty,Female ,B+,,error,???,4422.23,,,
+,,thirty,M,O-,80.7,,Flu,,01-23-2024,invalid,Card 
+PT-1925,,thirty,FEMALE,A+,59.7kg,189.9,covid,₹302.03,32/13/2024,12345,cash
+,???,86,Male,A+,59.8,132.6,Hypertension,missing,2025-04-07,invalid,UPI
+,TYLER MILLER,,male,O-,68.5,188.8,Diabetes,3401.38,32/13/2024,12345,unknown
+PT-1928,George Rice,,Male,B+,118.9kg,,Flu,missing,,001-177-487-9079x2050,Card 
+PT-1929,Megan Dickerson,thirty,male,A+,unknown,,Diabetes,2033.95,not available,12345,unknown
+,,unknown,Male,a+,,184.8 cm,Hypertension,₹2268.37,18/09/2023,,
+1931,???,26,Female ,a+,109.4kg,,Flu,2049.24,not available,unknown,UPI
+,???,,FEMALE,A+,43.1,195.1 cm,Asthma,₹2916.99,07-07-2024,918-506-2372x9958,UPI
+,IVAN CHEN,unknown,,,108.3,error,covid,3040.75,32/13/2024,invalid,unknown
+1934,,thirty,,,unknown,error,Asthma,2744.35,21 Jul 2023,,Cash
+,CHAD DUKE,,FEMALE,A+,27.8kg,181.3,COVID,missing,,invalid,Cash
+1936,Zachary Mitchell,unknown,unknown,A+,81.8kg,error,Flu,₹4686.13,18 May 2025,,Card 
+1937,,thirty,unknown,AB+,103.8,143.4 cm,Asthma,616.48,24 Jun 2022,,UPI
+PT-1938,,unknown,Male,O-,unknown,122.3,Diabetes,missing,32/13/2024,invalid,CARD
+PT-1939,DESIREE WEBSTER,unknown,male,AB+,43.9kg,141.1,Flu,,2023-09-02,unknown,unknown
+PT-1940,,thirty,M,a+,,error,Diabetes,missing,32/13/2024,unknown,
+,???,,male,O-,72.7,178.3 cm,Hypertension,2439.02,not available,12345,UPI
+1942,MISS MONICA SNYDER,unknown,F,O-,116.6,,Hypertension,missing,,unknown,Insurance
+PT-1943,???,84,F,AB+,unknown,120.6,,,11 Mar 2026,12345,Cash
+1944,Jessica Smith,thirty,,B+,73.2,122.4 cm,covid,,2024-11-24,949-684-6594x5332,cash
+,???,thirty,unknown,unknown,,error,Hypertension,₹4363.34,not available,5722269315,cash
+PT-1946,,unknown,unknown,AB+,111.0kg,130.2,???,₹4423.31,,,UPI
+PT-1947,Justin Reeves,unknown,male,unknown,81.3kg,,covid,,not available,invalid,Card 
+1948,Tyler Smith,unknown,F,A+,unknown,175.3 cm,,4903.96,,12345,cash
+,Austin Sandoval,64,,a+,unknown,156.2,Asthma,missing,not available,unknown,UPI
+PT-1950,JESUS PHILLIPS,unknown,Female ,O-,,,Diabetes,missing,32/13/2024,419.550.6254x67762,
+PT-1951,Sandra Buchanan,33,Female ,AB+,21.9,,COVID,missing,not available,invalid,Cash
+,???,thirty,male,a+,,124.0 cm,Flu,1511.3,not available,764.490.9423,unknown
+1953,,66,Male,AB+,70.2,132.0,,₹1727.96,32/13/2024,12345,Card 
+1954,DENISE ADKINS,,,AB+,20.2kg,,Hypertension,2180.63,32/13/2024,invalid,CARD
+PT-1955,,thirty,Female ,O-,,189.0,COVID,missing,,,Card 
+PT-1956,???,unknown,,A+,81.6kg,error,Flu,missing,not available,invalid,
+PT-1957,JAMES BUTLER,unknown,FEMALE,AB+,,131.9,???,4808.38,21/08/2025,12345,Insurance
+1958,Shelley Smith,85,Female ,unknown,,146.3,Flu,missing,05-30-2023,12345,Card 
+1959,DANIEL DEAN,thirty,FEMALE,A+,unknown,,Diabetes,missing,32/13/2024,unknown,Cash
+,???,,Female ,AB+,81.8,195.7 cm,Flu,1941.34,,+1-708-913-1231,Insurance
+1961,THERESA MASON,,M,O-,74.4kg,error,,4450.7,32/13/2024,unknown,Cash
+,???,unknown,unknown,B+,unknown,122.5,Diabetes,missing,32/13/2024,invalid,cash
+,Wanda Clark,66,FEMALE,a+,unknown,error,,₹4878.9,not available,12345,
+1964,???,unknown,male,O-,100.7kg,137.3,???,,32/13/2024,12345,cash
+1965,Judith Wells,,male,A+,unknown,122.0 cm,,₹659.04,32/13/2024,unknown,
+,Allison Levy,60,Female ,AB+,77.2,184.9 cm,Diabetes,missing,15/06/2023,unknown,CARD
+1967,,unknown,,unknown,unknown,error,covid,missing,not available,12345,unknown
+PT-1968,Jennifer Carey,17,,B+,110.7,169.7,Asthma,missing,,,UPI
+PT-1969,???,unknown,,unknown,89.7,error,Flu,264.72,10-15-2022,invalid,Insurance
+PT-1970,,36,FEMALE,A+,,168.1 cm,Diabetes,₹217.78,not available,658.670.7194x511,Insurance
+,Richard Kramer,,Male,a+,unknown,error,Diabetes,missing,not available,unknown,UPI
+PT-1972,???,,unknown,a+,,148.1,COVID,₹2802.82,,12345,Insurance
+PT-1973,,8,Female ,a+,unknown,179.1,Flu,,not available,001-999-934-7725x24526,cash
+PT-1974,???,78,M,B+,,189.4,,missing,,12345,cash
+,Rebecca Powell,thirty,FEMALE,unknown,,error,???,missing,,invalid,Insurance
+,RACHEL ONEILL,unknown,male,unknown,74.2,188.5 cm,,missing,,invalid,cash
+,???,unknown,Male,A+,unknown,error,???,₹4855.38,,,Cash
+,,,unknown,unknown,,,Asthma,₹321.9,not available,(947)003-5427,cash
+,,,FEMALE,,,,???,3792.39,32/13/2024,invalid,CARD
+PT-1980,???,unknown,Female ,A+,,error,???,3784.92,,12345,unknown
+PT-1981,Jocelyn Wilson,unknown,M,,64.5,,,missing,not available,invalid,UPI
+PT-1982,???,unknown,,,57.0kg,error,COVID,,32/13/2024,12345,Insurance
+,???,24,F,A+,109.8kg,174.9 cm,,₹2403.73,not available,,
+1984,???,,unknown,A+,43.5,,???,₹1600.54,32/13/2024,invalid,Cash
+1985,,,male,AB+,,error,,620.24,,12345,unknown
+,???,,FEMALE,O-,80.7,,,₹2453.76,,1704814047,Cash
+,Andrew Summers,thirty,M,,21.8kg,158.4 cm,Flu,₹2217.76,10-16-2024,,Cash
+1988,,unknown,male,A+,unknown,141.0 cm,Hypertension,,not available,unknown,Insurance
+,???,13,FEMALE,A+,101.0,,???,missing,not available,12345,Card 
+,,unknown,FEMALE,a+,,error,Diabetes,₹147.67,32/13/2024,001-937-408-2799,
+,JENNIFER JUAREZ,,FEMALE,O-,unknown,154.0 cm,COVID,missing,,12345,unknown
+,,,Female ,unknown,unknown,126.3 cm,???,,,,cash
+1993,???,,unknown,unknown,,,covid,994.94,32/13/2024,001-300-401-0019x38824,Cash
+1994,Michelle Hernandez,37,M,A+,90.4,error,Asthma,3954.9,not available,unknown,cash
+PT-1995,,unknown,F,A+,41.0kg,192.2,Hypertension,missing,32/13/2024,432.181.6152x023,Card 
+PT-1996,Joel Chambers,89,male,unknown,47.5kg,error,???,₹4029.36,26/04/2026,unknown,Card 
+PT-1997,BETHANY HOPKINS,,Male,A+,104.1,195.5 cm,???,₹4152.72,06-17-2025,(465)494-0335,unknown
+1998,ANDREW ERICKSON,,F,O-,,error,Hypertension,missing,not available,unknown,cash
+1999,Juan Sheppard,unknown,F,A+,51.6kg,error,???,,not available,unknown,
+,,54,F,O-,unknown,error,Diabetes,missing,02-09-2024,unknown,UPI
+,,,F,,30.6kg,159.9,COVID,2852.61,not available,,Cash
+2002,,unknown,F,AB+,,error,Diabetes,1387.0,32/13/2024,,UPI
+2003,,64,Male,unknown,unknown,,Flu,,32/13/2024,invalid,cash
+PT-2004,Mary Brown,thirty,Male,AB+,117.6,,Hypertension,missing,32/13/2024,12345,
+PT-2005,,95,Male,O-,45.2,,???,,2024-05-27,+1-875-744-7173,
+PT-2006,???,unknown,F,O-,,193.7,???,2196.56,32/13/2024,,Card 
+PT-2007,Douglas Nguyen,thirty,Male,unknown,unknown,error,,,2024-10-12,12345,Cash
+PT-2008,???,,unknown,a+,93.5,173.7 cm,covid,3801.18,,001-883-125-6498x6508,Cash
+,Alejandro Carpenter,unknown,,,,190.0,???,₹2342.63,not available,,cash
+PT-2010,Angela Smith,,unknown,,90.5kg,error,???,,not available,12345,unknown
+,,thirty,Male,a+,unknown,148.8,???,,32/13/2024,,
+2012,AMY HALL,unknown,male,,25.6,error,COVID,₹4841.53,13/05/2022,+1-236-716-2912x46333,UPI
+PT-2013,Holly Lane,unknown,unknown,A+,,150.7 cm,,missing,08 Oct 2024,invalid,Card 
+2014,???,61,FEMALE,AB+,77.7kg,error,Hypertension,4989.16,2024-07-22,,Insurance
+PT-2015,???,,Female ,a+,unknown,,Flu,2601.55,not available,invalid,Card 
+2016,Leah Taylor,thirty,F,A+,52.0,error,,,08-01-2022,invalid,cash
+2017,James Rodriguez,unknown,male,a+,unknown,128.1,,missing,not available,unknown,Card 
+2018,DONNA OWEN,,FEMALE,,unknown,160.9 cm,Diabetes,missing,10/05/2025,unknown,Cash
+PT-2019,,,Male,AB+,28.1,error,Hypertension,770.83,,unknown,UPI
+2020,,thirty,unknown,O-,unknown,error,covid,4766.4,not available,+1-357-145-7901x95294,UPI
+PT-2021,NICHOLAS BROWN,84,,a+,,182.5,Flu,₹1477.84,32/13/2024,(099)075-7474,unknown
+2022,KENNETH LOGAN,42,FEMALE,AB+,unknown,,???,2200.83,,3293719379,CARD
+PT-2023,???,,unknown,B+,22.9kg,197.7,Flu,1086.11,11 Mar 2023,001-528-028-9138x4175,CARD
+PT-2024,,64,,O-,,,Asthma,₹2684.27,,,unknown
+2025,Mark Mcclain,,male,B+,24.7kg,error,???,,,,CARD
+2026,???,,,A+,41.7,162.5,covid,,not available,,Card 
+2027,???,unknown,unknown,unknown,93.6kg,134.6 cm,Hypertension,3382.83,,invalid,Cash
+PT-2028,,unknown,Female ,unknown,22.4,136.9 cm,covid,,,,
+2029,???,unknown,F,AB+,83.7kg,170.5,COVID,4110.89,,12345,UPI
+PT-2030,???,unknown,Female ,B+,69.7kg,156.0,covid,,01/12/2023,,UPI
+2031,,unknown,unknown,O-,unknown,,Flu,,,invalid,CARD
+PT-2032,???,unknown,FEMALE,O-,,156.4,,,09-15-2023,unknown,Cash
+2033,???,34,Female ,a+,91.7kg,173.7 cm,Asthma,,not available,invalid,unknown
+,,,unknown,A+,unknown,159.8,COVID,1083.78,32/13/2024,unknown,CARD
+PT-2035,MARIA ROCHA DDS,unknown,Male,unknown,59.9,error,???,,12-06-2025,,cash
+2036,Erik Lamb,77,unknown,AB+,unknown,195.4 cm,Diabetes,missing,,invalid,CARD
+2037,???,thirty,F,unknown,,174.9,,3891.27,not available,unknown,cash
+2038,,,male,,69.5kg,140.2 cm,covid,missing,,unknown,UPI
+2039,???,unknown,unknown,O-,unknown,145.6 cm,COVID,missing,,(930)686-3550,CARD
+,???,unknown,Female ,unknown,,,covid,2862.52,not available,invalid,CARD
+,CHERYL SALINAS,30,male,AB+,47.4kg,172.7 cm,,missing,32/13/2024,,UPI
+PT-2042,,,,unknown,84.4,,,,,12345,Card 
+,???,14,unknown,AB+,82.8,,COVID,₹951.33,09/02/2023,unknown,UPI
+2044,Stephen Chung,thirty,unknown,O-,,124.0 cm,COVID,missing,,,cash
+PT-2045,???,unknown,F,AB+,31.7kg,137.8 cm,COVID,,2022-06-23,unknown,Card 
+2046,ALICIA SMITH,unknown,M,B+,unknown,,Asthma,4984.39,24/06/2025,+1-375-510-6139x189,cash
+2047,,thirty,male,unknown,unknown,198.0 cm,,,01-10-2026,unknown,Cash
+,???,83,unknown,B+,,194.5 cm,Flu,2194.32,not available,unknown,Cash
+PT-2049,FRANK MARTINEZ,,,unknown,90.0kg,169.7 cm,???,missing,not available,+1-032-486-0311x080,Card 
+,???,thirty,FEMALE,AB+,100.9,error,Hypertension,missing,not available,unknown,
+2051,???,unknown,Female ,B+,,165.9,Asthma,missing,,1999502862,
+PT-2052,???,81,FEMALE,A+,100.3,error,covid,,not available,059.464.7266x14919,CARD
+PT-2053,MICHAEL MONTES,66,unknown,B+,unknown,,Asthma,₹2825.81,not available,unknown,CARD
+2054,,,F,B+,unknown,140.8 cm,,,32/13/2024,+1-055-483-1701,UPI
+,???,unknown,male,a+,unknown,,Flu,missing,,unknown,cash
+PT-2056,,,F,A+,84.7,191.7,Hypertension,3972.51,,12345,Cash
+PT-2057,???,75,M,O-,,,???,3668.17,11-02-2025,invalid,Card 
+PT-2058,Pamela Abbott,11,FEMALE,AB+,,,???,₹2344.11,,unknown,UPI
+2059,Andrew Shepard,44,unknown,a+,22.1kg,error,???,missing,31 May 2022,unknown,cash
+PT-2060,???,,Female ,,21.3kg,189.9 cm,Diabetes,4759.6,32/13/2024,,Card 
+2061,,unknown,Male,AB+,,151.8,Asthma,2223.98,not available,871-993-4976x2168,cash
+PT-2062,,,Female ,A+,,,Diabetes,,32/13/2024,,Card 
+2063,,unknown,,AB+,73.9kg,error,???,,not available,,CARD
+,JAMES GRAHAM,2,,A+,unknown,167.2,Asthma,₹4029.12,32/13/2024,829.560.4001x01439,cash
+PT-2065,,58,M,A+,110.6kg,,COVID,4697.19,,+1-170-728-0291x6192,unknown
+PT-2066,Anthony Liu,unknown,FEMALE,unknown,101.0,165.6 cm,,₹520.38,not available,020-811-5548,cash
+,SHAWNA WALLACE,49,Male,O-,unknown,error,Diabetes,3872.94,32/13/2024,,UPI
+2068,,72,male,a+,117.7,,Diabetes,3238.41,09-20-2024,unknown,unknown
+,,13,,,unknown,,Diabetes,missing,not available,001-525-151-0241,UPI
+,,unknown,,B+,20.7kg,124.7,???,,not available,,UPI
+,,unknown,male,a+,unknown,194.6 cm,covid,468.89,,12345,Card 
+PT-2072,LISA GARCIA,,,unknown,unknown,188.0 cm,???,missing,32/13/2024,invalid,UPI
+,JULIE MCCARTHY,thirty,Male,A+,unknown,158.2,covid,missing,32/13/2024,12345,
+PT-2074,Rodney Murillo,thirty,,B+,52.0kg,132.0 cm,Flu,₹1330.47,not available,unknown,unknown
+PT-2075,,22,,B+,108.6,error,covid,missing,not available,(436)737-7007x20767,
+,CHERYL SOTO MD,,FEMALE,O-,72.2kg,,Diabetes,₹4395.58,,12345,unknown
+2077,James Newton DVM,unknown,FEMALE,,61.8kg,,,1929.05,32/13/2024,unknown,Cash
+2078,???,unknown,,AB+,,159.0 cm,,,not available,12345,CARD
+,Rachel Kirk,thirty,Female ,unknown,unknown,179.8 cm,,missing,32/13/2024,invalid,unknown
+2080,KENDRA BROWN,20,Female ,,unknown,184.0 cm,???,,07 Dec 2025,unknown,Card 
+,???,44,Male,AB+,72.9kg,125.6 cm,???,,,+1-520-939-9120x666,Cash
+2082,,thirty,Male,O-,,193.0,???,₹459.26,25/07/2024,,unknown
+2083,Christopher Mccarthy,12,,A+,94.5kg,,Diabetes,missing,32/13/2024,unknown,CARD
+2084,JOSEPH GORDON,,,AB+,41.2kg,182.1,Diabetes,missing,09/06/2022,,
+,,,M,B+,31.7,,COVID,₹3032.09,32/13/2024,unknown,Insurance
+,,,Male,B+,25.7,130.6,,₹183.11,32/13/2024,unknown,Insurance
+,Joshua Williams,unknown,FEMALE,A+,unknown,,Flu,4396.4,32/13/2024,001-262-745-6694x83933,Cash
+2088,Molly Mitchell,thirty,F,A+,106.7kg,132.5,Hypertension,1155.11,2025-05-13,,UPI
+2089,Kevin Bowers,,unknown,A+,,157.2 cm,,missing,2024-04-23,unknown,Card 
+,???,thirty,Female ,O-,115.5kg,153.7,Diabetes,missing,,12345,Cash
+PT-2091,Denise Adams,unknown,male,B+,,124.4 cm,COVID,4879.77,not available,,unknown
+PT-2092,???,thirty,Male,B+,unknown,158.4,covid,4380.6,03-14-2026,unknown,CARD
+,,unknown,Male,A+,63.1kg,error,Diabetes,₹3929.72,not available,invalid,UPI
+PT-2094,???,thirty,Male,A+,70.2,131.2,???,4889.93,2024-01-29,unknown,Insurance
+2095,,44,FEMALE,AB+,unknown,184.2,???,missing,not available,unknown,
+2096,Bryan Huffman,19,M,,,122.4 cm,???,missing,not available,001-219-006-9462,UPI
+PT-2097,VALERIE KIM,,male,unknown,unknown,error,covid,2944.29,28/01/2026,unknown,Insurance
+PT-2098,,unknown,unknown,O-,64.9kg,167.5,Diabetes,₹3089.98,11-21-2024,,cash
+PT-2099,,unknown,,A+,35.1,155.2,???,₹949.96,32/13/2024,616-142-9228,Card 
+PT-2100,Timothy Lewis,,FEMALE,B+,unknown,error,COVID,₹571.45,not available,,UPI
+,CATHERINE LIVINGSTON,71,,B+,,169.5,Flu,missing,32/13/2024,+1-216-928-4222x81433,unknown
+PT-2102,,,,AB+,unknown,150.6,COVID,4616.3,32/13/2024,,CARD
+PT-2103,,thirty,unknown,A+,unknown,128.6 cm,Flu,1679.44,,invalid,cash
+,Shelby Stewart,73,F,B+,73.0,188.0,???,₹4458.84,not available,016-127-5132,cash
+,,,,,60.2,166.5,covid,162.24,09 Feb 2023,,Insurance
+PT-2106,???,unknown,M,A+,105.0,,???,missing,not available,invalid,unknown
+PT-2107,,unknown,,a+,,177.3 cm,Flu,,11/02/2026,,Cash
+PT-2108,,unknown,male,O-,43.4kg,155.9 cm,Flu,,,790.159.2179,Insurance
+,Christopher Wu,75,,,88.1kg,154.2 cm,,,2024-12-15,12345,cash
+,???,unknown,male,B+,54.4,180.0 cm,???,missing,32/13/2024,8103720394,
+2111,???,,Female ,unknown,unknown,,COVID,₹4692.5,,,Insurance
+,MCKENZIE BERRY,,Female ,AB+,unknown,137.9,COVID,2780.34,,001-876-053-9138x0242,Cash
+,???,9,FEMALE,O-,60.2kg,,Hypertension,,32/13/2024,unknown,Card 
+2114,???,thirty,male,a+,65.1kg,167.2 cm,Diabetes,₹133.1,not available,,cash
+,Steven Miller,unknown,,AB+,,,Hypertension,,32/13/2024,unknown,cash
+,Stephen Rogers,unknown,Female ,unknown,56.5kg,134.0 cm,???,₹2099.64,12-25-2024,unknown,
+PT-2117,Ricky Rodriguez,,M,a+,,193.1,Diabetes,1758.67,06 Jan 2024,12345,Card 
+PT-2118,MELISSA JONES,unknown,Female ,,97.7kg,,Hypertension,₹2903.65,32/13/2024,unknown,CARD
+2119,JAMES FREEMAN,,FEMALE,unknown,50.1,,Flu,,2023-07-24,,UPI
+PT-2120,,5,M,unknown,118.4,155.0 cm,Diabetes,,,invalid,Insurance
+PT-2121,MELINDA WILLIS,,unknown,unknown,112.7kg,,Diabetes,₹4873.72,12-05-2022,12345,unknown
+,Christina Bryan,unknown,,O-,unknown,,???,₹1294.05,,001-488-488-4760,UPI
+PT-2123,PETER ACOSTA,,,AB+,unknown,error,covid,₹2128.59,not available,,CARD
+2124,,unknown,FEMALE,O-,unknown,186.6,Flu,₹2449.01,11-21-2022,unknown,cash
+,Karen Thomas,,unknown,B+,96.4,137.8,COVID,₹1351.76,,invalid,Insurance
+2126,Timothy Roth,,male,a+,102.6,187.8 cm,Asthma,missing,,invalid,UPI
+2127,???,6,unknown,O-,,150.2 cm,Hypertension,,not available,unknown,Cash
+PT-2128,???,thirty,M,A+,25.1,179.7,???,4405.16,32/13/2024,223-610-8329,
+PT-2129,,thirty,M,O-,,176.2,COVID,,not available,unknown,Insurance
+PT-2130,???,51,unknown,a+,97.5kg,149.8 cm,Flu,,,+1-455-816-1443x95201,cash
+,,41,M,A+,,,COVID,,,,Cash
+2132,MATTHEW SIMON,thirty,Male,a+,49.1kg,125.6 cm,Hypertension,missing,02 Jul 2024,001-377-041-5379x07224,
+2133,???,,,B+,25.7kg,147.9 cm,,missing,not available,+1-262-666-6534x252,Card 
+PT-2134,,,unknown,AB+,100.5kg,177.6 cm,COVID,₹1976.85,,unknown,Insurance
+PT-2135,,75,FEMALE,A+,unknown,error,COVID,₹4636.25,,,UPI
+2136,CHRISTINE WILLIAMS,,unknown,AB+,,,Diabetes,,not available,+1-209-768-1947,Card 
+PT-2137,Ivan Dunlap,unknown,Male,unknown,,,Flu,₹1436.2,30 Aug 2023,+1-667-633-7966x25720,Insurance
+PT-2138,,thirty,,O-,110.5,189.8,COVID,,17/04/2023,12345,Insurance
+PT-2139,Jennifer Davis,87,F,a+,,128.5 cm,Flu,,not available,unknown,Card 
+2140,,62,unknown,B+,,192.2 cm,???,₹2717.29,32/13/2024,unknown,CARD
+PT-2141,,39,M,AB+,unknown,error,Asthma,₹1418.22,not available,001-429-104-8609x502,CARD
+2142,,thirty,Male,a+,104.8kg,error,Flu,₹4593.9,32/13/2024,unknown,Insurance
+2143,???,unknown,unknown,a+,62.6,126.4 cm,Asthma,missing,08-10-2025,invalid,cash
+PT-2144,,unknown,FEMALE,AB+,62.3,,Asthma,missing,32/13/2024,(661)260-7385,cash
+,???,unknown,,AB+,28.4kg,error,Diabetes,3683.65,not available,001-743-297-8314x8219,
+2146,ANDREW ABBOTT,,F,,,error,COVID,2204.49,,unknown,CARD
+PT-2147,???,39,male,,102.2kg,176.4,COVID,₹4154.04,32/13/2024,invalid,unknown
+2148,,83,,unknown,28.5kg,error,,₹4249.38,,invalid,cash
+,???,unknown,FEMALE,unknown,unknown,error,Hypertension,742.59,23 Aug 2022,381.943.0034x24090,Insurance
+,,,FEMALE,O-,43.8,error,Asthma,missing,31/10/2024,invalid,UPI
+,Hannah Jones,thirty,Female ,A+,77.5,164.8 cm,Diabetes,₹1777.12,2023-02-03,12345,UPI
+,CHRISTOPHER CONTRERAS,thirty,unknown,B+,unknown,error,???,missing,not available,unknown,Insurance
+,,thirty,Female ,a+,unknown,error,Hypertension,missing,32/13/2024,,Cash
+,???,thirty,Female ,a+,64.6,error,COVID,2080.64,not available,unknown,CARD
+,???,,,A+,,,covid,2649.99,32/13/2024,(670)871-4184x683,
+PT-2156,JUSTIN TOWNSEND,unknown,unknown,,,198.5,???,missing,32/13/2024,,CARD
+2157,ALEXANDER FORD,unknown,M,A+,88.2,165.9,Hypertension,₹383.83,32/13/2024,,cash
+,,unknown,FEMALE,AB+,,,Hypertension,₹2494.7,,invalid,unknown
+PT-2159,KAREN LONG,90,Female ,A+,110.1kg,,Hypertension,₹2671.97,32/13/2024,,Cash
+2160,,38,unknown,AB+,91.1,error,Flu,2825.48,32/13/2024,12345,CARD
+PT-2161,,unknown,M,AB+,,156.3 cm,,₹2688.98,12-12-2025,,cash
+2162,Amy Lyons,thirty,Male,a+,86.1,,Diabetes,missing,not available,,Insurance
+PT-2163,???,58,Female ,,,error,,4665.16,,,UPI
+,,thirty,Female ,,unknown,135.5 cm,Diabetes,₹4107.35,17 Mar 2026,(372)602-5733x33168,Cash
+2165,,unknown,F,O-,,184.4,???,1133.01,32/13/2024,12345,Cash
+2166,???,thirty,male,AB+,,196.5,Diabetes,missing,,+1-957-945-2093x337,cash
+2167,???,65,M,O-,,,,,02 Oct 2025,580.843.2357,cash
+,,,Female ,O-,,,Hypertension,456.19,,invalid,unknown
+,???,unknown,,B+,unknown,165.5 cm,,₹1010.09,,unknown,
+,,unknown,male,AB+,58.6kg,197.9 cm,,missing,not available,282-771-7780x9506,
+,Ethan Rodgers,45,unknown,unknown,93.7kg,,,,not available,,Insurance
+,DUSTIN CLARK,unknown,male,AB+,32.6,154.8,covid,,20/01/2026,,Cash
+PT-2173,Hannah Price,thirty,M,B+,,140.0,,₹3182.08,32/13/2024,invalid,UPI
+2174,,,FEMALE,A+,unknown,error,,₹3053.26,32/13/2024,invalid,
+2175,KELSEY JONES,unknown,male,AB+,87.2,147.9 cm,???,₹2436.21,32/13/2024,invalid,cash
+2176,,,Female ,O-,,error,,₹3603.63,,,Insurance
+2177,,thirty,male,AB+,66.1kg,error,covid,missing,not available,unknown,UPI
+,???,91,,AB+,unknown,163.6 cm,Hypertension,,32/13/2024,invalid,UPI
+,DR. AMY LANG,thirty,M,O-,32.7,121.2 cm,covid,,not available,unknown,cash
+PT-2180,Chad Black,14,Male,unknown,,189.1,Flu,₹2581.58,not available,,Cash
+,Jenny Blake,,,A+,,,covid,1053.71,,invalid,UPI
+PT-2182,???,2,Female ,A+,117.1kg,,COVID,,07-11-2024,12345,Card 
+PT-2183,,unknown,FEMALE,,,162.0 cm,Asthma,,09 May 2025,633-255-4929x805,Cash
+PT-2184,Mr. Kenneth Gonzales,86,Male,A+,unknown,156.5 cm,???,₹3707.2,17/04/2022,12345,Cash
+PT-2185,Heather Jones,8,unknown,a+,114.0kg,,???,919.94,2024-05-26,unknown,Cash
+,CASSANDRA KELLY,thirty,FEMALE,,79.4kg,error,Asthma,,not available,,Insurance
+PT-2187,Lauren White,thirty,Female ,B+,unknown,197.3 cm,COVID,2060.01,2023-12-01,invalid,Insurance
+,,thirty,Male,unknown,83.6,141.7,COVID,missing,02/11/2022,12345,
+,Katelyn Wong,unknown,M,a+,28.1,error,covid,,11-02-2024,433-983-0752,CARD
+PT-2190,JENNIFER ROBERTS,,F,unknown,,172.5,Diabetes,1841.91,not available,12345,Insurance
+PT-2191,???,thirty,FEMALE,O-,unknown,189.9,COVID,2179.3,not available,,cash
+2192,MATTHEW GROSS,thirty,M,unknown,unknown,182.8,Flu,4868.16,32/13/2024,invalid,UPI
+PT-2193,Johnny Norris,unknown,,unknown,unknown,,???,1289.8,not available,unknown,CARD
+,Kathryn Brown,80,Male,A+,103.0kg,141.4,Diabetes,₹4457.95,32/13/2024,12345,Cash
+PT-2195,,,Female ,B+,102.6kg,,covid,missing,not available,,unknown
+,???,unknown,Male,unknown,unknown,160.1 cm,???,,23/09/2025,(651)365-5571x0399,Cash
+2197,???,unknown,unknown,unknown,104.9kg,error,Flu,missing,27 Sep 2024,invalid,cash
+,???,48,F,unknown,41.2kg,error,Hypertension,,32/13/2024,,
+PT-2199,???,unknown,FEMALE,B+,113.9kg,194.5 cm,COVID,,2023-10-06,,Cash
+2200,,,M,,unknown,error,Flu,₹4974.37,not available,unknown,UPI
+,JENNIFER MARTINEZ,unknown,,AB+,71.7kg,,Hypertension,,not available,invalid,Cash
+,???,25,unknown,unknown,,187.0,covid,,not available,unknown,UPI
+2203,JASON MOORE,unknown,F,a+,,153.9,Flu,2137.23,,12345,cash
+,JENNIFER TYLER,unknown,male,B+,unknown,177.3 cm,Flu,4073.44,not available,invalid,
+2205,Tanner Mccoy,thirty,,O-,unknown,,Asthma,₹3534.09,,invalid,Cash
+2206,Melissa Maddox,,Male,,68.5kg,141.9 cm,COVID,,not available,unknown,UPI
+2207,,thirty,,A+,101.2,148.8,COVID,₹4787.22,,12345,Card 
+,,unknown,Male,O-,unknown,162.9,Flu,missing,32/13/2024,12345,UPI
+2209,???,unknown,Female ,A+,96.4,199.5,COVID,₹2701.05,32/13/2024,12345,UPI
+2210,,unknown,unknown,a+,118.0kg,error,???,1275.32,not available,12345,
+PT-2211,,75,Male,,56.0kg,186.0,,₹3698.5,29 Jan 2024,,UPI
+2212,???,,F,A+,30.3,,covid,3930.67,not available,,unknown
+,,thirty,FEMALE,B+,unknown,124.9 cm,Hypertension,,12 Mar 2023,12345,unknown
+2214,???,76,male,,50.1,,Hypertension,₹807.63,01 Apr 2023,invalid,Cash
+,MATTHEW WISE,unknown,F,O-,46.1kg,139.2 cm,Asthma,3487.6,2026-04-09,12345,CARD
+PT-2216,STEPHANIE YOUNG,thirty,M,unknown,,177.1 cm,covid,missing,,unknown,CARD
+,???,unknown,unknown,unknown,68.8,,,,12-19-2025,,Card 
+2218,,6,unknown,B+,109.6,130.3,covid,₹4213.62,,12345,unknown
+2219,DEREK GONZALES,unknown,,unknown,65.5kg,135.5 cm,Hypertension,₹914.27,32/13/2024,,Card 
+2220,Timothy Figueroa,unknown,FEMALE,unknown,36.3,150.8,COVID,4604.92,not available,invalid,cash
+2221,???,thirty,FEMALE,a+,unknown,174.0 cm,Asthma,missing,,12345,Card 
+2222,,36,F,B+,75.3kg,error,Hypertension,3683.69,11/06/2024,,UPI
+PT-2223,,unknown,Male,a+,,134.6 cm,Diabetes,,not available,,UPI
+PT-2224,,,F,B+,29.8kg,,covid,,32/13/2024,unknown,Cash
+,DANIEL WILLIAMS,thirty,F,,unknown,191.4,Diabetes,missing,not available,740.162.5083,CARD
+PT-2226,,,Male,,unknown,,COVID,,not available,invalid,Card 
+,MERCEDES HUMPHREY,,F,O-,93.3kg,error,Asthma,₹387.42,not available,12345,UPI
+2228,Debra Henderson,6,F,unknown,61.1kg,error,Asthma,₹4746.15,32/13/2024,unknown,UPI
+,,,,A+,,,Asthma,281.37,2023-10-10,918-871-3976,Cash
+2230,RONALD CAMPBELL,unknown,Male,O-,84.0kg,,COVID,3610.64,10-14-2024,001-794-162-0850,Cash
+PT-2231,LORI ALLEN,thirty,male,unknown,49.3kg,142.7 cm,Diabetes,3593.41,32/13/2024,+1-072-546-0007x7435,Cash
+PT-2232,Victoria Pittman,unknown,Female ,A+,22.9,,covid,,11-10-2023,invalid,cash
+PT-2233,KIMBERLY MUNOZ,45,F,AB+,unknown,,Diabetes,₹418.7,30 Apr 2023,6121084920,Insurance
+2234,Michelle Curry,,FEMALE,,unknown,149.6 cm,COVID,,not available,unknown,CARD
+PT-2235,???,28,Male,AB+,109.7kg,error,Diabetes,missing,not available,664.633.9766x978,unknown
+,David Frazier,,FEMALE,O-,43.0kg,152.6,Asthma,3932.48,05-26-2022,001-372-265-7932x40146,cash
+2237,,91,FEMALE,unknown,99.2kg,error,Hypertension,missing,not available,invalid,Card 
+PT-2238,???,thirty,unknown,AB+,37.4kg,,???,4481.75,02-22-2026,12345,CARD
+,,unknown,Female ,A+,,,,,not available,393.042.3716x68228,Card 
+,???,thirty,Female ,unknown,,124.4 cm,Asthma,,01/10/2022,407.486.9029x99170,
+2241,???,94,FEMALE,AB+,84.4,,???,3901.84,03-31-2023,12345,Cash
+,SARAH JENNINGS,,unknown,AB+,,184.3 cm,covid,,,001-197-454-6213x8404,Insurance
+PT-2243,Valerie Edwards,68,Male,O-,103.1,123.4 cm,covid,334.98,,invalid,UPI
+2244,???,thirty,M,B+,unknown,121.0,,2054.75,,unknown,UPI
+,John Wiley,thirty,male,AB+,64.2,,,1730.92,,invalid,Card 
+,Robert Harris,,F,unknown,106.0kg,124.2 cm,???,275.31,,invalid,unknown
+PT-2247,???,,F,,40.3,,COVID,,32/13/2024,(865)774-1905,
+,Debbie Wright,92,Female ,AB+,74.0,120.2,Flu,4250.67,2024-01-31,,
+PT-2249,,unknown,male,AB+,,error,Diabetes,missing,03 Aug 2022,unknown,CARD
+2250,MACKENZIE PHILLIPS,,FEMALE,AB+,30.5,150.5 cm,COVID,missing,28/01/2023,,Insurance
+PT-2251,,thirty,Female ,unknown,unknown,135.2,Diabetes,,not available,invalid,UPI
+2252,JIMMY BERG,,Female ,AB+,97.1,155.1 cm,,₹2269.66,not available,12345,Cash
+2253,JAMES GRAHAM,thirty,,a+,54.2kg,143.6,covid,₹4884.85,,unknown,Cash
+,,6,Male,AB+,unknown,169.7 cm,COVID,,32/13/2024,,Insurance
+PT-2255,Victoria Carter,unknown,M,unknown,,190.7 cm,COVID,,2022-12-22,invalid,UPI
+,,thirty,unknown,,42.5kg,147.6 cm,Diabetes,2448.92,not available,,
+,,3,F,A+,96.5kg,error,covid,₹3070.28,not available,invalid,cash
+,GINA MORRIS,,male,O-,unknown,,COVID,1189.63,03-26-2025,491-266-8384x966,
+,,,F,O-,97.7kg,,Diabetes,,,2274959702,UPI
+2260,???,unknown,male,O-,,error,???,missing,not available,12345,unknown
+PT-2261,???,,FEMALE,unknown,,,Hypertension,1376.12,not available,366.769.4887x6387,unknown
+PT-2262,Stephanie Hudson,93,Male,,,error,???,₹2285.93,,unknown,unknown
+PT-2263,???,thirty,Female ,O-,113.9,129.2 cm,,₹4402.56,,invalid,unknown
+PT-2264,VALERIE LEWIS,thirty,unknown,AB+,unknown,error,Diabetes,₹1594.26,not available,,Insurance
+PT-2265,MONICA OSBORNE,unknown,FEMALE,B+,unknown,error,,₹1854.45,2022-12-07,,
+PT-2266,LAURA WILLIAMS DVM,58,M,,74.0kg,189.3,covid,missing,32/13/2024,880.241.4469,CARD
+,,thirty,F,O-,unknown,error,Diabetes,,,unknown,Card 
+PT-2268,KRYSTAL SAUNDERS,thirty,M,AB+,unknown,,Hypertension,,,12345,unknown
+PT-2269,Chad Martin,,Female ,A+,89.9kg,192.5,???,2183.29,not available,unknown,unknown
+PT-2270,,23,FEMALE,B+,76.9kg,,,307.83,26 Feb 2024,invalid,Insurance
+PT-2271,MEGHAN FREY,,F,unknown,115.7kg,167.8,Asthma,,not available,invalid,CARD
+PT-2272,,13,F,O-,38.6kg,error,Hypertension,2278.62,,unknown,
+,,thirty,male,B+,unknown,164.3 cm,???,missing,not available,12345,Card 
+,DEBRA JORDAN,94,Male,A+,,156.1,COVID,missing,,+1-364-459-5043x2832,Card 
+2275,,unknown,unknown,a+,32.6kg,error,Asthma,₹1917.39,32/13/2024,unknown,unknown
+2276,,unknown,M,unknown,50.9,152.3 cm,Flu,₹4311.23,10/03/2023,unknown,Cash
+PT-2277,RICHARD LE,unknown,FEMALE,a+,81.0,error,,missing,,,CARD
+2278,JULIA JONES,,FEMALE,,31.9,132.1 cm,Diabetes,missing,not available,unknown,unknown
+2279,,72,unknown,a+,unknown,178.2,covid,,2023-06-08,12345,cash
+PT-2280,GINA MARTIN,,Male,O-,69.4,error,COVID,₹3135.3,,,cash
+,,80,male,B+,,175.9 cm,Diabetes,missing,,001-993-006-2919x76904,Cash
+2282,,67,male,,109.4kg,,COVID,₹1566.99,,12345,CARD
+2283,Gregory Perez,,Male,A+,57.2,error,???,3750.59,01 Sep 2024,invalid,unknown
+PT-2284,???,unknown,male,unknown,93.2kg,error,,missing,32/13/2024,invalid,Card 
+,Victoria Robinson,81,Female ,a+,,,Diabetes,missing,not available,,unknown
+,Andre Wade,thirty,M,B+,23.3kg,error,,2618.22,12 Apr 2025,12345,
+PT-2287,BRIAN DUNCAN,thirty,Male,O-,,error,Asthma,,32/13/2024,invalid,Cash
+,???,89,M,A+,51.9,,Hypertension,2521.91,not available,671-918-0473x3982,CARD
+,STEVEN MENDOZA,unknown,male,A+,unknown,146.1 cm,???,,not available,+1-752-502-7912x81163,CARD
+,,8,Male,a+,unknown,,???,missing,32/13/2024,invalid,Cash
+,,thirty,unknown,,,199.7,Diabetes,₹414.98,2025-02-14,unknown,
+,,unknown,unknown,unknown,44.6kg,171.8 cm,???,₹587.26,,12345,CARD
+,Rachel Weber,unknown,Male,O-,118.1,147.4,COVID,,,12345,Insurance
+PT-2294,,23,Male,unknown,unknown,196.3,covid,missing,not available,invalid,Insurance
+2295,???,unknown,F,B+,unknown,127.7 cm,Flu,,30/09/2022,12345,Cash
+2296,Matthew Benson,,FEMALE,AB+,30.6kg,error,covid,4220.94,not available,invalid,unknown
+2297,???,30,Female ,A+,108.4,137.6,Asthma,missing,not available,12345,
+,,65,F,O-,81.7kg,191.3,Flu,,,12345,Insurance
+PT-2299,,unknown,male,A+,,,,,,,Cash
+2300,,15,M,AB+,unknown,170.8,Hypertension,,32/13/2024,12345,Insurance
+,MRS. WENDY PERKINS,thirty,Female ,,100.8kg,137.0,???,,,,
+2302,,15,F,A+,,156.3 cm,Diabetes,missing,,001-888-780-8192x91797,CARD
+PT-2303,???,thirty,unknown,,unknown,error,???,,,,
+PT-2304,Alex Reynolds,67,F,unknown,89.4,,COVID,3197.45,not available,,UPI
+2305,???,thirty,,a+,,,,671.97,32/13/2024,unknown,
+,JOHN INGRAM,,,O-,unknown,130.0 cm,Asthma,3246.87,,invalid,UPI
+2307,BRITTANY VASQUEZ,unknown,F,O-,86.2,177.9,,missing,not available,12345,Cash
+2308,Jeremy Hamilton,thirty,male,,,148.1 cm,Hypertension,missing,32/13/2024,invalid,Cash
+PT-2309,???,thirty,F,,unknown,error,Flu,₹2077.42,,invalid,CARD
+,KEITH MOORE,20,FEMALE,B+,,143.4,,893.47,not available,,
+PT-2311,Brian Carroll,,,B+,63.9,165.9,covid,₹4213.35,not available,(919)542-5342x009,unknown
+,???,,unknown,unknown,unknown,error,covid,missing,2025-12-13,+1-861-881-0385x9916,CARD
+2313,,,Male,O-,98.9kg,error,Hypertension,missing,,,CARD
+,,unknown,unknown,O-,114.9kg,141.6,,₹4520.21,,unknown,CARD
+2315,GREGORY ROSS,,M,a+,unknown,,,,,unknown,
+,,28,male,A+,unknown,194.7 cm,Asthma,₹1884.14,,unknown,Insurance
+2317,???,37,unknown,unknown,unknown,error,???,₹4236.77,,invalid,Insurance
+,???,,Female ,B+,85.9,error,???,479.26,,387.724.9487x9034,Cash
+2319,,unknown,M,O-,unknown,135.9,Flu,3127.93,32/13/2024,invalid,unknown
+2320,ROGER MARTIN,thirty,M,AB+,,error,Hypertension,,32/13/2024,12345,CARD
+,,63,male,A+,101.4,168.2 cm,,974.88,32/13/2024,12345,CARD
+,JULIE HAWKINS,thirty,M,A+,,,???,₹2474.36,not available,,Card 
+PT-2323,,,Female ,B+,48.3kg,,Asthma,missing,,unknown,unknown
+PT-2324,Javier Parker,70,,a+,56.9,134.9 cm,,₹166.25,22 Jun 2022,invalid,
+2325,BRANDON GARCIA,72,Female ,B+,28.7kg,,COVID,₹965.07,32/13/2024,unknown,UPI
+,???,thirty,,,107.6kg,,Asthma,,not available,,cash
+,,10,Male,a+,unknown,,Flu,missing,32/13/2024,unknown,Insurance
+,???,,,B+,,134.4,covid,missing,,,Card 
+2329,,unknown,male,A+,90.5,163.7 cm,COVID,4182.89,,unknown,Cash
+,???,unknown,FEMALE,unknown,unknown,192.5,Hypertension,1139.76,32/13/2024,,cash
+,Dr. Jose Kim,unknown,unknown,O-,,error,Hypertension,,not available,,cash
+,,,unknown,A+,,error,Hypertension,4252.98,not available,12345,UPI
+,Carla Lee,thirty,unknown,B+,unknown,141.9 cm,Flu,missing,,12345,cash
+,Juan Rodriguez,unknown,,B+,30.4,error,Asthma,₹1701.95,,001-306-255-3587x053,Cash
+PT-2335,???,unknown,male,B+,62.6kg,176.7 cm,Hypertension,3514.19,32/13/2024,invalid,UPI
+PT-2336,Christina Sanchez,unknown,M,,44.3kg,,Flu,,not available,invalid,Cash
+2337,???,,male,unknown,75.7,180.5,???,missing,03/01/2023,invalid,Insurance
+2338,,44,Female ,B+,112.1,error,???,500.5,32/13/2024,12345,
+,Anthony Stewart,thirty,unknown,AB+,unknown,error,Asthma,,05-23-2023,unknown,
+2340,,thirty,Male,O-,63.0kg,125.2,???,,not available,unknown,UPI
+2341,Jessica Shaw,thirty,F,O-,unknown,,Hypertension,₹1545.3,04-27-2023,12345,
+2342,,unknown,M,O-,64.0,127.1 cm,covid,missing,,+1-371-524-0208x57778,Card 
+,???,unknown,FEMALE,a+,95.6,,,missing,not available,,cash
+,,,Female ,a+,113.1kg,error,Asthma,,,(389)673-9809,cash
+PT-2345,Janet Smith,unknown,Female ,unknown,unknown,error,Diabetes,missing,not available,,unknown
+2346,Jay Brown,,FEMALE,a+,unknown,error,Asthma,517.24,16/11/2024,invalid,UPI
+PT-2347,Jill Miranda,,,,51.1kg,,COVID,missing,,184.928.0144,Card 
+PT-2348,???,,unknown,,,,,1670.31,,invalid,cash
+,???,,FEMALE,,,error,Hypertension,3589.5,32/13/2024,12345,Cash
+,AMBER MCDANIEL,41,Female ,a+,unknown,123.6,COVID,,not available,invalid,Insurance
+2351,SARA TRAN,thirty,Male,O-,unknown,error,???,₹1487.67,32/13/2024,12345,Card 
+,???,,F,A+,unknown,183.4 cm,COVID,,not available,invalid,Cash
+2353,???,thirty,M,A+,88.3kg,177.5 cm,Diabetes,,24/09/2025,,CARD
+2354,,86,unknown,unknown,36.5kg,,Hypertension,3408.29,32/13/2024,12345,Card 
+PT-2355,,thirty,F,AB+,unknown,153.8,Hypertension,missing,32/13/2024,,unknown
+2356,,unknown,Male,unknown,unknown,131.5 cm,Hypertension,2426.93,11-20-2024,,Cash
+,Cory Kirk,thirty,F,,,169.2 cm,Hypertension,,32/13/2024,,CARD
+PT-2358,,thirty,M,a+,unknown,151.3 cm,Asthma,missing,32/13/2024,807-122-4388x909,cash
+2359,Corey Poole,unknown,M,O-,unknown,,COVID,,32/13/2024,12345,cash
+,,unknown,Male,B+,45.1kg,122.1 cm,Flu,130.56,32/13/2024,,cash
+2361,JAMES MITCHELL,,FEMALE,a+,unknown,199.5,Flu,2213.46,32/13/2024,12345,Cash
+2362,FREDERICK BRAY,45,,AB+,103.6kg,error,???,₹4281.07,not available,,CARD
+,???,unknown,unknown,B+,unknown,error,COVID,missing,,12345,
+,JIMMY NASH,,M,,unknown,error,covid,3417.22,,invalid,Cash
+PT-2365,,,M,,53.7,error,???,₹113.61,,,
+,???,6,M,unknown,,176.3 cm,covid,,not available,7885383464,CARD
+2367,TARA SCHROEDER,unknown,FEMALE,A+,97.5kg,error,COVID,₹1973.05,32/13/2024,invalid,cash
+PT-2368,,,male,O-,unknown,180.3 cm,covid,₹3197.12,06-30-2024,unknown,Insurance
+2369,???,unknown,FEMALE,B+,unknown,126.3,Hypertension,missing,32/13/2024,577.488.7538,cash
+2370,???,,Female ,B+,62.4,194.3,COVID,,,invalid,Cash
+2371,???,,F,,unknown,178.8 cm,Hypertension,180.74,07-25-2022,,CARD
+,,unknown,Male,,unknown,error,Hypertension,1739.51,,invalid,
+PT-2373,David Strickland,,Male,,,error,Hypertension,₹2755.68,not available,,Insurance
+,HEATHER CHRISTENSEN,,Male,unknown,81.9kg,190.9,covid,missing,,(681)592-7892x74815,CARD
+PT-2375,,16,Male,B+,91.2,error,covid,,not available,unknown,Card 
+,???,unknown,Female ,a+,,error,Hypertension,,23 May 2022,001-534-804-8238x3884,cash
+,Amber Johnson,thirty,Female ,,52.6kg,127.5 cm,Flu,,14 Apr 2026,12345,
+,,,Female ,B+,94.6,178.0 cm,Flu,₹347.51,not available,invalid,UPI
+,JOSHUA JORDAN,41,,a+,97.6,error,,missing,07-24-2025,001-787-288-0358x01701,CARD
+,???,thirty,M,,29.7,182.5 cm,Hypertension,missing,03-06-2025,12345,Cash
+PT-2381,,thirty,F,unknown,29.1kg,137.8,Asthma,₹900.13,not available,12345,
+,,unknown,M,AB+,,124.3 cm,Diabetes,₹4730.55,,unknown,unknown
+PT-2383,???,thirty,unknown,B+,32.8kg,191.1,Hypertension,,04-26-2023,,CARD
+,Zachary Mason,unknown,M,O-,unknown,error,COVID,2384.35,not available,invalid,CARD
+,James Jones,unknown,unknown,B+,unknown,error,COVID,missing,08-20-2023,invalid,Insurance
+2386,???,,M,AB+,21.7kg,191.6,,4649.33,32/13/2024,unknown,
+PT-2387,???,thirty,Female ,AB+,109.5kg,179.9,covid,missing,not available,(987)707-0974,Card 
+,ALLISON CARR,36,FEMALE,O-,,error,Hypertension,,,12345,CARD
+2389,,thirty,Female ,O-,unknown,,covid,₹4651.36,32/13/2024,375-598-7470x801,UPI
+PT-2390,John Cook,94,F,,70.7,error,Flu,₹2534.89,02/10/2024,unknown,UPI
+2391,DAKOTA PRINCE,unknown,F,B+,unknown,165.1,,725.33,32/13/2024,invalid,CARD
+PT-2392,CHRISTOPHER PALMER,81,Male,a+,,150.1 cm,Flu,,not available,unknown,Card 
+,Jessica Rose,63,FEMALE,A+,,,Hypertension,344.27,,12345,UPI
+PT-2394,???,23,,AB+,77.1,185.3 cm,Hypertension,,08-04-2023,unknown,unknown
+PT-2395,Michaela Horton,14,Male,O-,117.3kg,157.3,Flu,missing,09-17-2023,+1-423-180-1291x657,Cash
+2396,KRYSTAL POWELL,,F,AB+,,error,,4860.51,not available,,cash
+PT-2397,VINCENT ROBINSON,thirty,male,B+,27.8kg,,Flu,₹654.74,32/13/2024,446-096-3760,Cash
+2398,,thirty,,A+,,164.6 cm,covid,₹4979.84,,invalid,UPI
+PT-2399,,29,unknown,a+,29.2,error,COVID,,,unknown,
+PT-2400,YOLANDA BURNS,,,AB+,,error,covid,missing,18/04/2022,invalid,unknown
+PT-2401,AMBER GRAY,unknown,,a+,,,Diabetes,,2025-02-09,unknown,Cash
+2402,???,unknown,Female ,a+,80.3,error,COVID,4077.69,not available,12345,
+,James Gardner,,Male,a+,unknown,198.9 cm,???,,,invalid,CARD
+PT-2404,???,21,M,B+,,,covid,,,12345,Insurance
+2405,Marilyn Mendez,66,F,a+,,error,covid,₹4245.97,not available,unknown,
+2406,DR. ANGELA VILLEGAS,unknown,FEMALE,B+,63.9,error,???,,21 May 2024,invalid,Card 
+2407,Joann Walter,thirty,unknown,A+,42.1,error,Hypertension,missing,32/13/2024,unknown,
+PT-2408,Kayla Golden,thirty,FEMALE,unknown,unknown,,Hypertension,₹4434.78,23 May 2022,,
+2409,???,,Male,a+,100.0kg,158.1,???,,,invalid,unknown
+2410,Alicia Munoz,6,unknown,unknown,,,Diabetes,missing,,916.024.0022x0040,Cash
+PT-2411,Pedro Rios,unknown,Female ,,65.4,128.0 cm,Flu,,20/03/2023,invalid,cash
+,Robert Barry,16,male,unknown,unknown,,,,2025-12-28,invalid,UPI
+2413,Daniel Herrera,thirty,FEMALE,a+,35.0,140.6 cm,covid,,08/11/2023,031.718.2010x102,
+2414,ANTHONY WILLIS,unknown,M,,unknown,error,Flu,₹509.78,07-12-2024,invalid,
+PT-2415,???,thirty,M,B+,85.1kg,error,Flu,missing,,3901251359,Card 
+2416,John Garcia,20,unknown,A+,81.6kg,,,,32/13/2024,12345,
+,John Hudson,thirty,Male,A+,,,???,,17 May 2025,12345,unknown
+,???,79,Male,O-,,error,COVID,missing,,invalid,
+PT-2419,Craig Wallace,,male,O-,36.7kg,,Asthma,₹3936.65,,invalid,UPI
+,???,,M,,,error,Diabetes,1026.61,not available,12345,unknown
+PT-2421,???,unknown,F,B+,75.3kg,error,Asthma,₹1999.23,not available,unknown,Insurance
+PT-2422,PATRICIA MARTINEZ,86,Female ,,90.0,,???,missing,,193-451-5994x597,cash
+PT-2423,Jennifer Arnold,15,F,unknown,,error,Asthma,3086.82,,unknown,Insurance
+2424,Janet Adkins,thirty,,unknown,,168.4 cm,Hypertension,4371.59,2022-09-05,3800479278,UPI
+PT-2425,NATALIE SIMS,2,FEMALE,AB+,68.8,error,Flu,₹2124.02,32/13/2024,unknown,Card 
+2426,,,Female ,unknown,28.8kg,error,Asthma,,11-30-2025,invalid,CARD
+PT-2427,???,thirty,Male,,unknown,error,Asthma,2580.44,not available,12345,Insurance
+PT-2428,Heather Spencer,unknown,,O-,unknown,,Flu,,32/13/2024,invalid,Insurance
+PT-2429,???,unknown,FEMALE,A+,,,,missing,not available,unknown,unknown
+PT-2430,BRYAN WATKINS,thirty,Female ,B+,76.7,173.7 cm,covid,missing,not available,unknown,Card 
+PT-2431,,thirty,male,B+,unknown,162.5,Hypertension,1182.33,not available,882-246-7296,
+2432,SUSAN HOUSE,thirty,unknown,B+,103.2kg,,COVID,,17 Dec 2025,12345,Insurance
+,DONALD BAUER,45,Male,O-,47.9kg,,Asthma,₹3951.65,31/07/2022,unknown,cash
+2434,Troy Carter,thirty,unknown,unknown,,,,,32/13/2024,698.801.0334x66140,
+,???,,unknown,a+,88.4kg,,covid,2870.33,32/13/2024,12345,cash
+2436,Paul Jones,,F,O-,37.0kg,128.0,Asthma,₹2103.23,01-22-2025,,Insurance
+2437,JENNIFER VANCE,77,unknown,,55.4,178.8 cm,,missing,not available,invalid,Card 
+2438,Bryan Ellis,unknown,F,,,error,Hypertension,,32/13/2024,(623)906-0885,unknown
+2439,SARAH GRAVES,unknown,Female ,,,error,,,15 Jan 2026,12345,Insurance
+2440,,,unknown,AB+,unknown,194.9 cm,???,,32/13/2024,12345,unknown
+PT-2441,,35,M,A+,unknown,error,Asthma,,2026-01-27,304.233.5266x3181,CARD
+2442,,,Female ,a+,32.2kg,166.5 cm,,₹565.94,,,CARD
+2443,,43,male,,unknown,156.5,Diabetes,,32/13/2024,12345,unknown
+2444,???,77,F,B+,81.5kg,,???,,12/08/2023,12345,cash
+,,thirty,male,B+,,154.1 cm,covid,,12-25-2023,655.241.5106,CARD
+PT-2446,,unknown,male,AB+,31.0kg,error,Asthma,₹2721.52,32/13/2024,invalid,Cash
+2447,BARRY RICE,,Male,unknown,,,covid,missing,not available,invalid,CARD
+2448,,thirty,male,,unknown,,COVID,missing,11/01/2026,invalid,cash
+2449,???,,F,A+,unknown,,Asthma,missing,01 Sep 2023,12345,UPI
+2450,AMANDA NGUYEN,thirty,Female ,O-,,156.7 cm,,,,unknown,Cash
+2451,EMILY SWANSON,,,,unknown,error,Asthma,2968.51,10/06/2023,001-551-671-0224,Card 
+,???,thirty,F,unknown,95.5,158.9 cm,Diabetes,,not available,unknown,Insurance
+2453,???,,,a+,unknown,,covid,2379.69,10-19-2025,unknown,UPI
+PT-2454,Michael Hogan,83,unknown,a+,114.0kg,error,Hypertension,₹4315.49,,unknown,unknown
+,???,19,Male,B+,unknown,124.8,covid,4587.73,28/10/2024,unknown,unknown
+PT-2456,Troy Fisher,thirty,F,B+,unknown,,Hypertension,₹2745.72,29 Apr 2022,invalid,Insurance
+2457,,,unknown,A+,,152.9,Asthma,,32/13/2024,(447)943-3873x6388,Insurance
+,JESSICA JOHNSON,thirty,M,a+,unknown,194.4 cm,Diabetes,256.24,2024-08-09,12345,UPI
+2459,,thirty,unknown,unknown,,137.4 cm,COVID,4104.52,18 Sep 2024,,
+PT-2460,MICHAEL BARNES,,,a+,unknown,196.9 cm,Hypertension,₹607.72,32/13/2024,394-908-2282x8915,Insurance
+2461,,44,,unknown,43.6kg,error,???,,06-08-2022,,unknown
+PT-2462,CAMERON HUYNH,62,M,O-,unknown,,???,₹3873.76,,unknown,cash
+,,thirty,male,a+,79.1,,Diabetes,,2022-10-13,12345,CARD
+,,,FEMALE,unknown,,187.8 cm,Diabetes,,,invalid,unknown
+PT-2465,???,95,unknown,a+,unknown,error,Asthma,₹137.77,,,
+2466,DAVID BOYER,unknown,F,unknown,unknown,,covid,missing,32/13/2024,+1-730-896-8223x720,cash
+2467,PAMELA LEVINE,thirty,F,AB+,45.9kg,151.5 cm,covid,missing,,12345,cash
+PT-2468,TIMOTHY WILKINSON,,unknown,B+,,120.2 cm,Diabetes,2458.3,not available,,unknown
+PT-2469,Cathy Snyder,,Female ,a+,,172.6 cm,Asthma,₹1058.89,,,Card 
+,,thirty,F,a+,,,covid,missing,32/13/2024,unknown,
+2471,???,18,Male,AB+,,135.8 cm,COVID,missing,,12345,CARD
+PT-2472,,24,Male,AB+,,,,,2025-12-06,invalid,
+PT-2473,,thirty,Female ,A+,unknown,error,Flu,₹371.13,not available,,
+PT-2474,PAMELA BAKER,unknown,male,a+,73.7,,Hypertension,1136.23,not available,unknown,CARD
+PT-2475,,thirty,F,AB+,unknown,error,Asthma,missing,2023-05-31,,unknown
+PT-2476,GREGORY ROBINSON DDS,unknown,F,unknown,unknown,,Asthma,missing,not available,invalid,Card 
+PT-2477,???,,male,unknown,,132.0 cm,???,1606.63,32/13/2024,717.017.8579x2300,Cash
+2478,,thirty,,,,,???,3499.59,not available,invalid,Card 
+,,84,male,AB+,107.3kg,,covid,,not available,invalid,Insurance
+,ANTHONY COLLINS,thirty,FEMALE,,,137.0 cm,Hypertension,missing,32/13/2024,,Insurance
+,Nathan Smith,,Female ,B+,113.8,145.3,,,01-01-2023,0512238641,unknown
+2482,,15,FEMALE,a+,105.2,125.1,???,₹3045.53,not available,12345,
+,,thirty,Male,,84.2,error,Diabetes,₹4335.4,32/13/2024,unknown,Cash
+PT-2484,???,,F,O-,unknown,121.2 cm,???,1830.72,,196-150-5805,Insurance
+PT-2485,,,Male,O-,59.9,188.6,covid,missing,29 Oct 2024,invalid,Cash
+2486,KEVIN WOOD,thirty,F,A+,,error,Diabetes,missing,,unknown,Insurance
+PT-2487,MEGAN HANNA,thirty,male,a+,,132.2,Asthma,,2026-04-02,12345,
+PT-2488,???,64,M,B+,85.2kg,126.5,Flu,₹2141.0,,12345,cash
+2489,HANNAH JACKSON,thirty,male,O-,,162.7,Asthma,₹1162.65,not available,12345,Insurance
+PT-2490,???,,unknown,,unknown,193.6,covid,missing,07/06/2022,invalid,
+PT-2491,Catherine Gonzalez,unknown,M,B+,unknown,156.3,,missing,not available,,cash
+PT-2492,Daniel Gaines,unknown,unknown,AB+,unknown,140.2,Diabetes,missing,,unknown,unknown
+,???,unknown,F,B+,,,???,missing,32/13/2024,12345,UPI
+PT-2494,DAVID REEVES,30,unknown,B+,unknown,160.8,???,₹1986.14,,12345,Insurance
+,Diane Barrera,unknown,Female ,B+,56.1kg,error,???,,,,UPI
+PT-2496,ERIC DUNN,unknown,,,39.1kg,179.9,,,32/13/2024,invalid,Insurance
+,???,thirty,male,B+,,error,,₹4339.75,32/13/2024,,unknown
+2498,,,F,AB+,68.5,160.5 cm,COVID,1386.46,not available,invalid,Insurance
+PT-2499,James Nicholson,thirty,M,A+,,139.0,Hypertension,4817.72,05 Aug 2022,unknown,UPI
+1406,,92,,unknown,,error,???,,32/13/2024,,Insurance
+297,Jaclyn Arias,unknown,,a+,24.1,181.9 cm,covid,,32/13/2024,invalid,Insurance
+,,,FEMALE,,54.7kg,error,Hypertension,₹3163.05,32/13/2024,invalid,CARD
+PT-2368,,,male,O-,unknown,180.3 cm,covid,₹3197.12,06-30-2024,unknown,Insurance
+,JAMES HOPKINS,unknown,Male,A+,39.8kg,152.9,Flu,,not available,invalid,unknown
+,Alejandro Carpenter,unknown,,,,190.0,???,₹2342.63,not available,,cash
+642,???,,M,a+,unknown,129.6 cm,Hypertension,₹2540.04,,unknown,cash
+655,???,67,,O-,25.2kg,,covid,,not available,,Cash
+1193,,,unknown,unknown,25.8kg,,Hypertension,₹3940.39,not available,unknown,Cash
+2410,Alicia Munoz,6,unknown,unknown,,,Diabetes,missing,,916.024.0022x0040,Cash
+898,DANIEL ANDERSON,unknown,male,unknown,unknown,164.8 cm,Flu,missing,not available,001-429-607-3556x4411,Insurance
+468,???,,unknown,,,error,covid,,2024-11-17,12345,Cash
+,???,thirty,Female ,A+,unknown,160.7,Diabetes,1962.14,not available,232.687.6206,unknown
+PT-2499,James Nicholson,thirty,M,A+,,139.0,Hypertension,4817.72,05 Aug 2022,unknown,UPI
+PT-2262,Stephanie Hudson,93,Male,,,error,???,₹2285.93,,unknown,unknown
+PT-589,???,thirty,Male,,41.2,,,missing,not available,,Insurance
+PT-107,???,thirty,Female ,unknown,,175.7 cm,???,missing,not available,invalid,UPI
+,CHERYL SILVA,thirty,male,B+,unknown,error,,missing,not available,unknown,Insurance
+PT-1549,ZACHARY ALLEN,thirty,Female ,O-,,error,COVID,,not available,077.861.6514,Insurance
+1265,,unknown,unknown,B+,68.8,187.1 cm,Diabetes,₹4892.35,2022-06-11,12345,Cash
+1576,Ann Powell,,unknown,O-,unknown,122.3 cm,,missing,11-12-2025,unknown,Card 
+PT-767,???,29,unknown,,23.5,,covid,,2023-04-04,12345,Card 
+PT-2056,,,F,A+,84.7,191.7,Hypertension,3972.51,,12345,Cash
+703,Karen Jackson,unknown,,A+,104.5kg,168.8 cm,Asthma,missing,,12345,Card 
+2297,???,30,Female ,A+,108.4,137.6,Asthma,missing,not available,12345,
+PT-851,JO LEE,unknown,unknown,,unknown,error,COVID,₹956.66,not available,invalid,Insurance
+,Tricia Wright,56,male,,46.1,197.1 cm,COVID,,,unknown,Insurance
+PT-679,???,unknown,unknown,unknown,22.2,141.0 cm,Hypertension,4605.09,07/09/2023,082-923-6649,cash
+,???,unknown,unknown,B+,unknown,error,COVID,missing,,12345,
+PT-1494,Hannah Brooks,,FEMALE,B+,108.9kg,error,COVID,1844.75,,497-051-2246,Card 
+748,???,unknown,F,AB+,,138.2,Hypertension,₹4490.03,32/13/2024,unknown,unknown
+439,???,,,B+,34.0,189.6 cm,Hypertension,,12-29-2023,12345,Card 
+PT-1561,,,,unknown,,,covid,,32/13/2024,,CARD
+1587,RANDY MOSS,,male,,55.3,174.6 cm,Flu,missing,not available,(323)217-4851,Cash
+PT-2287,BRIAN DUNCAN,thirty,Male,O-,,error,Asthma,,32/13/2024,invalid,Cash
+,,,male,unknown,81.1kg,167.3 cm,Asthma,missing,,791.902.0890x349,Card 
+PT-2472,,24,Male,AB+,,,,,2025-12-06,invalid,
+1821,Miranda Gibson,thirty,F,a+,unknown,194.6 cm,???,₹2043.47,,755.006.3982x509,cash
+821,,,male,O-,,142.2,,,,12345,CARD
+613,Jill Barrett,19,Female ,B+,,,,missing,18 Apr 2023,invalid,Insurance
+4,,,FEMALE,O-,unknown,,covid,,2025-11-04,12345,CARD
+,Kimberly Carpenter,,M,AB+,105.4kg,,Flu,1650.28,32/13/2024,invalid,Cash
+PT-527,???,,FEMALE,O-,,170.4 cm,Diabetes,₹3307.54,not available,344-506-1888,Card 
+,Connie Buchanan,78,,AB+,unknown,183.5 cm,covid,missing,32/13/2024,,Insurance
+PT-1680,LEAH PAGE,unknown,F,unknown,39.8,124.8 cm,Flu,,32/13/2024,unknown,CARD
+,RACHEL ONEILL,unknown,male,unknown,74.2,188.5 cm,,missing,,invalid,cash
+,,thirty,M,,39.1,error,covid,1012.7,32/13/2024,,unknown
+PT-1703,John Wilson,thirty,,a+,56.2,,Flu,₹3573.13,32/13/2024,12345,Card 
+1452,???,,Male,,,error,Hypertension,₹2954.9,not available,12345,Insurance
+,CAITLIN CLEMENTS,17,male,,45.8,error,,3391.63,23 Jun 2024,+1-463-983-1527,Insurance
+2020,,thirty,unknown,O-,unknown,error,covid,4766.4,not available,+1-357-145-7901x95294,UPI
+1128,,,M,a+,,,Flu,4232.78,2024-04-09,unknown,CARD
+1164,NICOLE KAUFMAN,unknown,unknown,,,error,Flu,₹4958.33,not available,unknown,Card 
+,,38,male,A+,86.5kg,185.3 cm,COVID,1765.71,05-18-2023,unknown,UPI
+,???,62,FEMALE,a+,76.0kg,,Diabetes,1922.11,09-21-2025,invalid,CARD
+177,Colton Carrillo,2,male,,77.4,182.4,COVID,missing,15 Nov 2024,(200)332-7098,CARD
+2362,FREDERICK BRAY,45,,AB+,103.6kg,error,???,₹4281.07,not available,,CARD
+PT-287,Steven Smith,thirty,F,,116.5,167.4,COVID,missing,,12345,Cash
+PT-102,,thirty,F,A+,73.7kg,178.2,Diabetes,,32/13/2024,12345,
+PT-2005,,95,Male,O-,45.2,,???,,2024-05-27,+1-875-744-7173,
+1036,???,,M,AB+,102.9,189.5,Asthma,₹493.89,not available,879-819-9883x031,Cash
+,,thirty,Female ,,34.3kg,160.9 cm,covid,4619.52,,12345,cash
+280,JULIAN MAXWELL,unknown,,unknown,unknown,error,COVID,893.63,not available,003-019-4746,UPI
+2228,Debra Henderson,6,F,unknown,61.1kg,error,Asthma,₹4746.15,32/13/2024,unknown,UPI
+PT-1037,MRS. CONNIE DEAN,thirty,unknown,,unknown,150.1,,,04/12/2023,,Card 
+,,thirty,Female ,a+,unknown,error,Hypertension,missing,32/13/2024,,Cash
+785,Phillip Hubbard,thirty,Male,AB+,95.0kg,error,Flu,missing,32/13/2024,12345,
+,,6,F,A+,unknown,196.7 cm,covid,₹3655.87,not available,unknown,cash
+PT-195,,85,,B+,,error,Flu,missing,17/04/2026,597.120.3590x12295,Cash
+,TYLER ALLEN,76,F,a+,unknown,193.2,???,,32/13/2024,206.862.2912x098,
+756,CYNTHIA HENRY,90,FEMALE,a+,64.2,145.7 cm,COVID,4964.48,2026-04-16,(178)757-5233,cash
+,JASMINE HAMILTON,unknown,male,O-,84.1kg,181.4 cm,Diabetes,509.59,32/13/2024,unknown,Insurance
+PT-553,Robin Carlson,unknown,Female ,B+,unknown,170.0 cm,Hypertension,₹2839.86,32/13/2024,invalid,UPI
+PT-1813,???,,,A+,,180.1,Asthma,2569.62,not available,unknown,Insurance
+PT-1436,???,thirty,M,,65.2,error,Asthma,₹3296.07,12-05-2022,unknown,unknown
+PT-1071,Alisha Morgan,,Male,AB+,unknown,error,Diabetes,missing,05/02/2023,invalid,Cash
+561,,unknown,Female ,unknown,70.5,144.9,covid,2384.64,07 Mar 2023,241-297-8510x32965,cash
+610,,thirty,unknown,A+,96.3kg,121.2 cm,Hypertension,,,12345,Cash
+PT-2280,GINA MARTIN,,Male,O-,69.4,error,COVID,₹3135.3,,,cash
+,,thirty,M,AB+,,142.6,Asthma,₹429.58,16/05/2022,unknown,UPI
+993,GEORGE WILSON,,FEMALE,B+,,,Hypertension,₹2528.51,not available,invalid,UPI
+203,Lauren Joseph,unknown,Female ,B+,38.7,error,Hypertension,₹2446.19,,108.934.0503x3624,Card 
+587,BONNIE EDWARDS,thirty,M,A+,,159.3 cm,COVID,missing,not available,,Cash
+,CRYSTAL LOPEZ,,F,B+,100.1kg,error,Diabetes,,not available,unknown,Card 
+,???,thirty,Female ,unknown,,124.4 cm,Asthma,,01/10/2022,407.486.9029x99170,
+,,unknown,Female ,B+,43.3,163.0 cm,COVID,1898.96,,,Cash
+PT-1430,Betty Pacheco,31,M,O-,100.2,176.5,???,missing,32/13/2024,invalid,Insurance
+PT-1325,,thirty,FEMALE,unknown,20.3,195.7 cm,COVID,missing,,001-400-033-0147x1023,Cash
+,???,29,male,B+,,error,covid,,01/01/2025,640-280-7582x57973,unknown
+1672,,48,,A+,,178.3 cm,covid,,not available,12345,unknown
+PT-1027,???,thirty,unknown,,,132.9,Flu,missing,,unknown,CARD
+,,,male,AB+,66.3kg,152.8,Hypertension,missing,,+1-633-892-1045x5858,CARD
+6,,unknown,FEMALE,a+,unknown,160.6 cm,Flu,1932.18,,(757)171-6474,cash
+PT-525,???,,,unknown,119.3,error,Hypertension,missing,17 Jun 2024,,UPI
+PT-2180,Chad Black,14,Male,unknown,,189.1,Flu,₹2581.58,not available,,Cash
+,William Hunter,,M,AB+,,error,???,missing,,unknown,Card 
+1344,,thirty,FEMALE,A+,62.3,error,COVID,₹793.67,32/13/2024,,UPI
+,,thirty,F,a+,,,covid,missing,32/13/2024,unknown,
+PT-517,Rickey Johnson,unknown,unknown,O-,40.1,error,Diabetes,1254.52,,,cash
+1918,???,,male,AB+,unknown,,COVID,₹1790.51,not available,invalid,UPI
+1554,,thirty,F,O-,unknown,,Flu,₹1722.48,not available,12345,CARD
+,Adriana Wright,13,Female ,unknown,39.2,127.9 cm,,,32/13/2024,invalid,unknown
+PT-2303,???,thirty,unknown,,unknown,error,???,,,,
+1248,CAROL GARCIA,,,A+,87.8,152.6,,missing,32/13/2024,12345,cash
+2367,TARA SCHROEDER,unknown,FEMALE,A+,97.5kg,error,COVID,₹1973.05,32/13/2024,invalid,cash
+PT-1032,PAMELA TURNER,34,F,,72.5kg,157.9,covid,missing,32/13/2024,invalid,unknown
+,JEFFREY HALL,thirty,F,A+,,170.7 cm,,,not available,973.148.2042x4478,UPI
+PT-2490,???,,unknown,,unknown,193.6,covid,missing,07/06/2022,invalid,
+802,???,thirty,FEMALE,O-,,,,₹1469.74,not available,,Insurance
+PT-1470,,unknown,male,a+,36.5kg,126.1 cm,???,missing,,,UPI
+,,,FEMALE,a+,115.0kg,,Diabetes,900.7,,unknown,Card 
+982,,thirty,unknown,,unknown,193.1,???,,2025-12-04,,
+,,unknown,F,O-,unknown,,,3033.59,not available,invalid,Card 
+560,???,25,F,,110.0kg,error,Diabetes,4708.67,32/13/2024,invalid,cash
+,,unknown,unknown,unknown,,175.5 cm,Diabetes,4476.6,30/07/2023,invalid,Card 
+,,thirty,Female ,,100.0kg,error,???,₹4333.91,09/11/2024,unknown,Cash
+PT-108,,60,,,unknown,123.7 cm,Flu,,32/13/2024,invalid,Card 
+,SCOTT SANDERS,,,O-,119.6kg,143.1 cm,Asthma,₹240.49,12-22-2023,,unknown
+1080,AMANDA SMITH,thirty,Male,AB+,,,Flu,₹1789.29,32/13/2024,invalid,
+,,unknown,Male,,83.6kg,130.1,Hypertension,4339.73,not available,invalid,CARD
